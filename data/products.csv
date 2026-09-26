@@ -1,0 +1,301 @@
+product_id,name,category,sub_category,price_idr,stock,brand,material,avg_rating
+PRD001,Dress Bodycon Pesona Indo,dress,Atasan Wanita,599000,0,Pesona Indo,Linen,5.0
+PRD002,Kaos Oversize BajuKita,T-Shirt,Atasan Pria,329000,239,BajuKita,Cotton 100%,3.7
+PRD003,Dress Maxi Polos Senja Wear,dress,Atasan Wanita,349000,80,Senja Wear,Cotton-Polyester,4.7
+PRD004,Ikat Pinggang Kulit Cendana Co,Accessories,Aksesoris,199000,309,Cendana Co,Denim,4.6
+PRD005,Dress Bodycon Senja Wear,dress,Atasan Wanita,599000,192,Senja Wear,Polyester,3.5
+PRD006,Celana Kulot Tropika Style,Pants,Bawahan Wanita,119000,193,Tropika Style,Polyester,4.9
+PRD007,T-Shirt Graphic Cendana Co,Kaos,Atasan Wanita,119000,1,Cendana Co,Rayon,4.9
+PRD008,Jaket Bomber Senja Wear,Jaket,Outwear,549000,222,Senja Wear,Denim,3.9
+PRD009,Kaos Striped Riang Apparel,T-Shirt,Atasan Pria,499000,41,Riang Apparel,Twill,4.7
+PRD010,Kaos Raglan BajuKita,kaos,Atasan Pria,99000,414,BajuKita,Cotton Combed 30s,3.6
+PRD011,Topi Baseball Cendana Co,Aksesoris,Aksesoris,149000,370,Cendana Co,Rayon,4.8
+PRD012,Kemeja Batik NusaBrand,Shirt,Atasan Wanita,599000,26,NusaBrand,Twill,3.7
+PRD013,Celana Cargo NusaBrand,Celana,Bawahan Pria,149000,100,NusaBrand,Cotton 100%,4.0
+PRD014,Jaket Hoodie Riang Apparel,Jacket,Outwear,449000,489,Riang Apparel,Cotton Combed 30s,3.7
+PRD015,Kaos Oversize Kanvas Lokal,Kaos,Atasan Pria,449000,55,Kanvas Lokal,Linen,4.5
+PRD016,Dress Maxi Polos Ratu Mode,Dress,Atasan Wanita,89000,63,Ratu Mode,Polyester,3.9
+PRD017,Jacket Denim Ratu Mode,Jacket,Outwear,149000,13,Ratu Mode,Katun Bambu,3.9
+PRD018,Dress Maxi Polos Cendana Co,dress,Atasan Wanita,299000,218,Cendana Co,Drill,4.1
+PRD019,Jaket Hoodie Senja Wear,Jaket,Outwear,119000,482,Senja Wear,Denim,3.6
+PRD020,Kemeja Linen Senja Wear,kemeja,Atasan Pria,59000,182,Senja Wear,Katun Bambu,4.4
+PRD021,Celana Jogger SandangIndo,Pants,Bawahan Pria,549000,52,SandangIndo,Rayon,4.0
+PRD022,T-Shirt Graphic BajuKita,Kaos,Atasan Wanita,299000,97,BajuKita,Drill,4.2
+PRD023,Jaket Parasut Ratu Mode,Jacket,Outwear,149000,145,Ratu Mode,Cotton-Polyester,4.0
+PRD024,Kemeja Linen Tropika Style,Shirt,Atasan Pria,149000,37,Tropika Style,Polyester,4.9
+PRD025,Jacket Denim Kanvas Lokal,Jaket,Outwear,59000,272,Kanvas Lokal,,4.1
+PRD026,Dress Mini Casual BajuKita,Dress,Atasan Wanita,179000,20,BajuKita,Linen,4.2
+PRD027,Dompet Kulit Cendana Co,Aksesoris,Aksesoris,229000,1,Cendana Co,Katun Bambu,4.3
+PRD028,Dress Bodycon Tropika Style,Dress,Atasan Wanita,299000,112,Tropika Style,Rayon,4.6
+PRD029,Shirt Slim Fit Tropika Style,kemeja,Atasan Wanita,499000,26,Tropika Style,Drill,3.5
+PRD030,Jaket Hoodie Kanvas Lokal,Jaket,Outwear,199000,403,Kanvas Lokal,Linen,3.7
+PRD031,Shirt Slim Fit Tropika Style,Kemeja,Atasan Pria,69000,148,Tropika Style,Denim,4.0
+PRD032,Ikat Pinggang Kulit Tropika Style,Accessories,Aksesoris,99000,464,Tropika Style,Katun Bambu,4.7
+PRD033,Celana Chino BajuKita,Celana,Bawahan Wanita,199000,197,BajuKita,Katun Bambu,3.5
+PRD034,Topi Baseball Senja Wear,Accessories,Aksesoris,279000,79,Senja Wear,Katun Bambu,4.6
+PRD035,Jacket Denim Tropika Style,Jacket,Outwear,399000,49,Tropika Style,Rayon,4.9
+PRD036,Syal Rajut Pesona Indo,Accessories,Aksesoris,299000,28,Pesona Indo,Cotton Combed 30s,4.8
+PRD037,Dress A-Line Kanvas Lokal,dress,Atasan Wanita,149000,136,Kanvas Lokal,Cotton 100%,4.3
+PRD038,Kemeja Linen NusaBrand,kemeja,Atasan Wanita,299000,126,NusaBrand,Rayon,4.6
+PRD039,Jacket Denim SandangIndo,Jacket,Outwear,399000,82,SandangIndo,Cotton-Polyester,4.8
+PRD040,Celana Kulot Cendana Co,Pants,Bawahan Pria,449000,30,Cendana Co,Cotton 100%,3.7
+PRD041,Syal Rajut SandangIndo,Aksesoris,Aksesoris,199000,127,SandangIndo,Polyester,4.9
+PRD042,Celana Chino Ratu Mode,Celana,Bawahan Wanita,449000,127,Ratu Mode,Linen,4.5
+PRD043,Kaos Oversize Tropika Style,kaos,Atasan Wanita,149000,97,Tropika Style,Cotton 100%,4.4
+PRD044,Shirt Slim Fit NusaBrand,Shirt,Atasan Wanita,279000,54,NusaBrand,Denim,3.9
+PRD045,Jacket Denim Ratu Mode,Jacket,Outwear,49000,46,Ratu Mode,Denim,4.6
+PRD046,Jacket Coach Pesona Indo,Jacket,Outwear,199000,443,Pesona Indo,Cotton 100%,4.0
+PRD047,Celana Jeans Slim Riang Apparel,Pants,Bawahan Wanita,329000,186,Riang Apparel,Denim,4.1
+PRD048,Syal Rajut Kanvas Lokal,Aksesoris,Aksesoris,69000,14,Kanvas Lokal,Rayon,4.2
+PRD049,Dress A-Line Pesona Indo,Dress,Atasan Wanita,99000,140,Pesona Indo,Cotton 100%,4.6
+PRD050,Celana Cargo Cendana Co,Pants,Bawahan Pria,89000,81,Cendana Co,Linen,5.0
+PRD051,Jacket Denim Tropika Style,Jacket,Outwear,399000,140,Tropika Style,Drill,3.9
+PRD052,Pants Wide Leg Cendana Co,Celana,Bawahan Wanita,399000,107,Cendana Co,Katun Bambu,3.9
+PRD053,Dress Wrap Senja Wear,Dress,Atasan Wanita,49000,135,Senja Wear,Cotton Combed 30s,4.1
+PRD054,Kacamata Hitam Ratu Mode,Accessories,Aksesoris,549000,107,Ratu Mode,Twill,5.0
+PRD055,Jaket Hoodie Pesona Indo,Jacket,Outwear,129000,195,Pesona Indo,Rayon,3.5
+PRD056,Jacket Denim Riang Apparel,Jacket,Outwear,229000,111,Riang Apparel,Linen,4.0
+PRD057,Celana Jeans Slim Pesona Indo,Celana,Bawahan Pria,299000,427,Pesona Indo,Polyester,5.0
+PRD058,Jacket Denim Ratu Mode,Jaket,Outwear,299000,67,Ratu Mode,Cotton-Polyester,4.8
+PRD059,Dress Wrap Senja Wear,dress,Atasan Wanita,399000,186,Senja Wear,Cotton 100%,3.9
+PRD060,Dress Wrap Cendana Co,Dress,Atasan Wanita,549000,162,Cendana Co,Cotton Combed 30s,3.7
+PRD061,Celana Jogger Tropika Style,Celana,Bawahan Pria,599000,86,Tropika Style,Linen,3.9
+PRD062,Celana Kulot Riang Apparel,Celana,Bawahan Wanita,129000,49,Riang Apparel,Katun Bambu,4.0
+PRD063,Dress A-Line NusaBrand,dress,Atasan Wanita,89000,0,NusaBrand,Rayon,4.3
+PRD064,Dompet Kulit BajuKita,Accessories,Aksesoris,449000,128,BajuKita,Denim,3.7
+PRD065,Syal Rajut Senja Wear,Aksesoris,Aksesoris,249000,214,Senja Wear,Drill,4.0
+PRD066,Jaket Hoodie Cendana Co,Jaket,Outwear,349000,287,Cendana Co,Polyester,4.4
+PRD067,Jaket Parasut Riang Apparel,Jacket,Outwear,549000,11,Riang Apparel,Cotton-Polyester,3.5
+PRD068,T-Shirt Graphic Ratu Mode,kaos,Atasan Pria,129000,121,Ratu Mode,,4.2
+PRD069,Jacket Coach Ratu Mode,Jaket,Outwear,229000,58,Ratu Mode,Rayon,4.3
+PRD070,Celana Cargo Pesona Indo,Celana,Bawahan Pria,349000,112,Pesona Indo,Polyester,4.5
+PRD071,Dompet Kulit Riang Apparel,Aksesoris,Aksesoris,99000,3,Riang Apparel,Linen,4.6
+PRD072,Kaos Polos Basic Ratu Mode,Kaos,Atasan Wanita,129000,199,Ratu Mode,Cotton Combed 30s,4.3
+PRD073,Kaos Oversize Riang Apparel,kaos,Atasan Pria,79000,29,Riang Apparel,Twill,4.4
+PRD074,Jaket Varsity NusaBrand,Jacket,Outwear,449000,78,NusaBrand,Linen,4.4
+PRD075,Ikat Pinggang Kulit Tropika Style,Accessories,Aksesoris,499000,18,Tropika Style,Katun Bambu,4.3
+PRD076,Syal Rajut Ratu Mode,Accessories,Aksesoris,199000,18,Ratu Mode,Katun Bambu,3.7
+PRD077,Shirt Slim Fit Cendana Co,kemeja,Atasan Pria,329000,32,Cendana Co,Cotton-Polyester,4.5
+PRD078,Kaos Striped Cendana Co,kaos,Atasan Wanita,99000,13,Cendana Co,Twill,4.0
+PRD079,Jacket Coach Senja Wear,Jacket,Outwear,499000,14,Senja Wear,Linen,4.6
+PRD080,Shirt Slim Fit Cendana Co,Kemeja,Atasan Pria,329000,42,Cendana Co,,4.2
+PRD081,Celana Jogger Kanvas Lokal,Pants,Bawahan Pria,229000,48,Kanvas Lokal,Drill,4.1
+PRD082,Dress Midi Floral Tropika Style,Dress,Atasan Wanita,229000,85,Tropika Style,Cotton 100%,4.7
+PRD083,Shirt Slim Fit Kanvas Lokal,Kemeja,Atasan Wanita,49000,21,Kanvas Lokal,Twill,4.6
+PRD084,Shirt Slim Fit SandangIndo,Shirt,Atasan Wanita,69000,91,SandangIndo,Drill,4.2
+PRD085,Kaos Striped Riang Apparel,T-Shirt,Atasan Wanita,129000,18,Riang Apparel,Cotton 100%,4.5
+PRD086,Celana Jogger SandangIndo,Pants,Bawahan Wanita,329000,366,SandangIndo,,4.7
+PRD087,Kemeja Batik Ratu Mode,Shirt,Atasan Wanita,399000,6,Ratu Mode,Twill,4.6
+PRD088,Celana Jeans Slim SandangIndo,Pants,Bawahan Pria,199000,24,SandangIndo,Katun Bambu,3.8
+PRD089,Celana Kulot Senja Wear,Pants,Bawahan Pria,149000,39,Senja Wear,Cotton-Polyester,4.1
+PRD090,Dress A-Line Kanvas Lokal,Dress,Atasan Wanita,49000,216,Kanvas Lokal,Rayon,4.7
+PRD091,Dress Bodycon SandangIndo,dress,Atasan Wanita,69000,73,SandangIndo,Twill,3.7
+PRD092,Jaket Varsity Ratu Mode,Jaket,Outwear,69000,160,Ratu Mode,Polyester,4.5
+PRD093,Kaos Lengan Panjang Cendana Co,Kaos,Atasan Wanita,279000,2,Cendana Co,Drill,4.7
+PRD094,T-Shirt Graphic Tropika Style,Kaos,Atasan Pria,89000,107,Tropika Style,Rayon,4.3
+PRD095,Dompet Kulit Pesona Indo,Aksesoris,Aksesoris,89000,13,Pesona Indo,Cotton Combed 30s,3.5
+PRD096,Jaket Varsity Kanvas Lokal,Jaket,Outwear,69000,130,Kanvas Lokal,Linen,4.0
+PRD097,Dress Mini Casual Kanvas Lokal,dress,Atasan Wanita,49000,263,Kanvas Lokal,Cotton-Polyester,3.5
+PRD098,Topi Baseball Riang Apparel,Aksesoris,Aksesoris,299000,100,Riang Apparel,Drill,4.7
+PRD099,Kaos Oversize Ratu Mode,Kaos,Atasan Pria,79000,141,Ratu Mode,Linen,5.0
+PRD100,Jaket Hoodie Cendana Co,Jacket,Outwear,79000,54,Cendana Co,Cotton-Polyester,4.1
+PRD101,T-Shirt Graphic SandangIndo,kaos,Atasan Wanita,279000,317,SandangIndo,Cotton Combed 30s,4.5
+PRD102,Dress Maxi Polos Kanvas Lokal,dress,Atasan Wanita,59000,113,Kanvas Lokal,Polyester,4.3
+PRD103,Kemeja Flanel NusaBrand,Shirt,Atasan Wanita,499000,125,NusaBrand,Polyester,4.1
+PRD104,Kemeja Casual BajuKita,Shirt,Atasan Pria,229000,91,BajuKita,Denim,4.1
+PRD105,Celana Chino NusaBrand,Pants,Bawahan Wanita,199000,170,NusaBrand,Polyester,4.9
+PRD106,Kaos Raglan Cendana Co,T-Shirt,Atasan Wanita,99000,11,Cendana Co,Linen,3.6
+PRD107,Kaos Lengan Panjang Tropika Style,Kaos,Atasan Wanita,399000,29,Tropika Style,Katun Bambu,4.8
+PRD108,Celana Kulot Cendana Co,Celana,Bawahan Wanita,229000,74,Cendana Co,Drill,3.8
+PRD109,Kemeja Oxford Ratu Mode,Shirt,Atasan Pria,599000,6,Ratu Mode,Drill,3.7
+PRD110,Kemeja Casual Senja Wear,kemeja,Atasan Pria,199000,168,Senja Wear,Denim,4.6
+PRD111,Shirt Slim Fit BajuKita,kemeja,Atasan Wanita,449000,58,BajuKita,Linen,5.0
+PRD112,Kaos Oversize BajuKita,Kaos,Atasan Pria,249000,52,BajuKita,Rayon,3.8
+PRD113,Jacket Denim Riang Apparel,Jacket,Outwear,499000,17,Riang Apparel,Denim,4.5
+PRD114,Jacket Denim Senja Wear,Jacket,Outwear,199000,190,Senja Wear,Rayon,4.6
+PRD115,Celana Cargo NusaBrand,Celana,Bawahan Wanita,399000,316,NusaBrand,Cotton Combed 30s,3.7
+PRD116,Ikat Pinggang Kulit Senja Wear,Accessories,Aksesoris,299000,242,Senja Wear,Twill,3.8
+PRD117,Jacket Coach Ratu Mode,Jaket,Outwear,49000,140,Ratu Mode,Polyester,4.3
+PRD118,Jaket Varsity Ratu Mode,Jaket,Outwear,349000,11,Ratu Mode,Polyester,4.5
+PRD119,Jaket Varsity Pesona Indo,Jaket,Outwear,279000,225,Pesona Indo,Cotton-Polyester,3.9
+PRD120,Jaket Parasut Kanvas Lokal,Jacket,Outwear,89000,47,Kanvas Lokal,Twill,4.5
+PRD121,Kemeja Flanel Tropika Style,Shirt,Atasan Pria,89000,173,Tropika Style,Linen,4.1
+PRD122,Kemeja Linen Pesona Indo,Shirt,Atasan Wanita,119000,16,Pesona Indo,Denim,3.7
+PRD123,Dress Mini Casual Riang Apparel,Dress,Atasan Wanita,89000,0,Riang Apparel,Cotton Combed 30s,4.3
+PRD124,Jacket Denim Riang Apparel,Jaket,Outwear,179000,8,Riang Apparel,,4.8
+PRD125,Kaos Polos Basic Riang Apparel,kaos,Atasan Wanita,279000,93,Riang Apparel,Linen,4.3
+PRD126,Kaos Oversize Riang Apparel,T-Shirt,Atasan Wanita,279000,253,Riang Apparel,Denim,4.8
+PRD127,Dompet Kulit Cendana Co,Accessories,Aksesoris,199000,27,Cendana Co,Cotton Combed 30s,4.6
+PRD128,Dress Mini Casual Pesona Indo,Dress,Atasan Wanita,279000,253,Pesona Indo,Katun Bambu,4.3
+PRD129,Jaket Bomber Pesona Indo,Jacket,Outwear,79000,38,Pesona Indo,Linen,4.0
+PRD130,Dompet Kulit NusaBrand,Accessories,Aksesoris,229000,162,NusaBrand,Twill,3.6
+PRD131,Dress Mini Casual Pesona Indo,dress,Atasan Wanita,99000,2,Pesona Indo,Cotton-Polyester,4.7
+PRD132,Ikat Pinggang Kulit Kanvas Lokal,Accessories,Aksesoris,229000,120,Kanvas Lokal,Rayon,4.2
+PRD133,Tas Selempang Cendana Co,Accessories,Aksesoris,399000,132,Cendana Co,Polyester,4.8
+PRD134,Kaos Raglan Cendana Co,kaos,Atasan Wanita,129000,251,Cendana Co,Cotton Combed 30s,4.5
+PRD135,Celana Cargo Ratu Mode,Pants,Bawahan Pria,149000,46,Ratu Mode,Katun Bambu,4.8
+PRD136,Kemeja Flanel SandangIndo,Kemeja,Atasan Wanita,119000,129,SandangIndo,Twill,3.9
+PRD137,Jaket Varsity SandangIndo,Jaket,Outwear,119000,407,SandangIndo,Polyester,4.6
+PRD138,Jacket Denim Tropika Style,Jacket,Outwear,79000,491,Tropika Style,Rayon,5.0
+PRD139,Dress A-Line BajuKita,Dress,Atasan Wanita,599000,18,BajuKita,Linen,3.9
+PRD140,Kemeja Oxford NusaBrand,kemeja,Atasan Pria,179000,447,NusaBrand,Cotton-Polyester,4.3
+PRD141,Jacket Denim Cendana Co,Jaket,Outwear,449000,197,Cendana Co,Rayon,4.7
+PRD142,Celana Jogger Ratu Mode,Pants,Bawahan Wanita,199000,239,Ratu Mode,Polyester,4.0
+PRD143,Topi Baseball Cendana Co,Aksesoris,Aksesoris,329000,253,Cendana Co,,3.8
+PRD144,Celana Jogger Pesona Indo,Celana,Bawahan Wanita,59000,162,Pesona Indo,Cotton Combed 30s,4.9
+PRD145,Kemeja Batik NusaBrand,Kemeja,Atasan Wanita,229000,87,NusaBrand,Cotton Combed 30s,4.9
+PRD146,Celana Kulot Pesona Indo,Pants,Bawahan Pria,329000,28,Pesona Indo,Katun Bambu,4.0
+PRD147,Tas Selempang Pesona Indo,Accessories,Aksesoris,349000,476,Pesona Indo,Drill,4.0
+PRD148,Kaos Striped Kanvas Lokal,T-Shirt,Atasan Pria,449000,68,Kanvas Lokal,Polyester,4.6
+PRD149,Kemeja Oxford NusaBrand,Shirt,Atasan Pria,549000,32,NusaBrand,Cotton-Polyester,4.4
+PRD150,Kacamata Hitam Riang Apparel,Accessories,Aksesoris,89000,22,Riang Apparel,Polyester,4.6
+PRD151,Celana Jeans Slim Senja Wear,Pants,Bawahan Pria,249000,379,Senja Wear,Cotton Combed 30s,4.0
+PRD152,Kaos Polos Basic Pesona Indo,T-Shirt,Atasan Wanita,59000,36,Pesona Indo,Cotton 100%,4.9
+PRD153,Jaket Hoodie Tropika Style,Jaket,Outwear,179000,195,Tropika Style,Cotton Combed 30s,4.9
+PRD154,Kemeja Oxford Cendana Co,Shirt,Atasan Wanita,119000,74,Cendana Co,Drill,3.8
+PRD155,Dress Wrap NusaBrand,Dress,Atasan Wanita,499000,261,NusaBrand,Denim,4.9
+PRD156,Kaos Raglan Cendana Co,kaos,Atasan Pria,99000,177,Cendana Co,Drill,4.9
+PRD157,Dress Midi Floral Cendana Co,dress,Atasan Wanita,69000,22,Cendana Co,Katun Bambu,3.8
+PRD158,Dress Midi Floral Riang Apparel,Dress,Atasan Wanita,599000,46,Riang Apparel,Rayon,4.9
+PRD159,Jaket Hoodie Kanvas Lokal,Jacket,Outwear,89000,349,Kanvas Lokal,Cotton-Polyester,4.1
+PRD160,Dress Midi Floral Riang Apparel,Dress,Atasan Wanita,79000,193,Riang Apparel,Denim,4.2
+PRD161,Celana Jeans Slim SandangIndo,Celana,Bawahan Pria,179000,38,SandangIndo,Rayon,4.6
+PRD162,Jaket Hoodie Tropika Style,Jaket,Outwear,119000,226,Tropika Style,Cotton-Polyester,4.6
+PRD163,Jacket Coach NusaBrand,Jaket,Outwear,119000,295,NusaBrand,Rayon,3.6
+PRD164,Kemeja Batik Pesona Indo,kemeja,Atasan Pria,49000,305,Pesona Indo,Cotton Combed 30s,4.9
+PRD165,Kaos Oversize Tropika Style,Kaos,Atasan Wanita,129000,24,Tropika Style,Drill,3.9
+PRD166,Dompet Kulit Pesona Indo,Accessories,Aksesoris,549000,102,Pesona Indo,Cotton 100%,4.1
+PRD167,Dress Mini Casual Riang Apparel,dress,Atasan Wanita,149000,0,Riang Apparel,Katun Bambu,3.7
+PRD168,Dompet Kulit SandangIndo,Aksesoris,Aksesoris,79000,11,SandangIndo,Rayon,3.8
+PRD169,Ikat Pinggang Kulit Cendana Co,Accessories,Aksesoris,179000,19,Cendana Co,Cotton Combed 30s,4.1
+PRD170,Kemeja Oxford BajuKita,Kemeja,Atasan Wanita,349000,3,BajuKita,Linen,3.6
+PRD171,Dress Bodycon SandangIndo,Dress,Atasan Wanita,129000,144,SandangIndo,Katun Bambu,4.4
+PRD172,Kaos Oversize Kanvas Lokal,T-Shirt,Atasan Pria,59000,37,Kanvas Lokal,Denim,4.9
+PRD173,Celana Kulot NusaBrand,Pants,Bawahan Pria,249000,89,NusaBrand,Linen,3.8
+PRD174,Kemeja Flanel Riang Apparel,kemeja,Atasan Wanita,69000,185,Riang Apparel,Polyester,4.3
+PRD175,Celana Kulot SandangIndo,Celana,Bawahan Pria,279000,186,SandangIndo,Polyester,4.6
+PRD176,Celana Jeans Slim SandangIndo,Pants,Bawahan Pria,599000,0,SandangIndo,Cotton 100%,4.7
+PRD177,Jacket Coach NusaBrand,Jaket,Outwear,449000,68,NusaBrand,Katun Bambu,4.9
+PRD178,Dompet Kulit Pesona Indo,Accessories,Aksesoris,249000,110,Pesona Indo,Rayon,5.0
+PRD179,Tas Selempang Riang Apparel,Accessories,Aksesoris,399000,24,Riang Apparel,Polyester,4.9
+PRD180,Dress Maxi Polos NusaBrand,dress,Atasan Wanita,279000,86,NusaBrand,Twill,4.8
+PRD181,Dress Mini Casual Tropika Style,Dress,Atasan Wanita,279000,167,Tropika Style,Cotton-Polyester,4.2
+PRD182,Celana Jeans Slim Cendana Co,Pants,Bawahan Wanita,119000,105,Cendana Co,Drill,4.0
+PRD183,Dress Bodycon Senja Wear,dress,Atasan Wanita,119000,26,Senja Wear,Katun Bambu,4.0
+PRD184,Jacket Denim Ratu Mode,Jacket,Outwear,199000,396,Ratu Mode,Cotton-Polyester,3.8
+PRD185,Dress Wrap Pesona Indo,Dress,Atasan Wanita,599000,119,Pesona Indo,Cotton-Polyester,4.4
+PRD186,Shirt Slim Fit Riang Apparel,Kemeja,Atasan Wanita,129000,48,Riang Apparel,Drill,4.3
+PRD187,Topi Baseball SandangIndo,Aksesoris,Aksesoris,49000,369,SandangIndo,Rayon,4.9
+PRD188,Celana Jeans Slim Senja Wear,Celana,Bawahan Pria,69000,498,Senja Wear,Katun Bambu,4.2
+PRD189,Ikat Pinggang Kulit SandangIndo,Aksesoris,Aksesoris,399000,88,SandangIndo,,4.9
+PRD190,Dress Bodycon Senja Wear,Dress,Atasan Wanita,129000,8,Senja Wear,Cotton 100%,3.7
+PRD191,Dress Wrap BajuKita,dress,Atasan Wanita,49000,142,BajuKita,Polyester,4.2
+PRD192,T-Shirt Graphic SandangIndo,kaos,Atasan Wanita,229000,95,SandangIndo,Cotton-Polyester,4.9
+PRD193,Kaos Striped Kanvas Lokal,T-Shirt,Atasan Pria,179000,71,Kanvas Lokal,Katun Bambu,3.5
+PRD194,Jaket Hoodie Senja Wear,Jacket,Outwear,119000,466,Senja Wear,Cotton 100%,4.2
+PRD195,Kemeja Casual Senja Wear,Kemeja,Atasan Pria,149000,0,Senja Wear,Katun Bambu,4.5
+PRD196,Pants Wide Leg NusaBrand,Celana,Bawahan Pria,449000,2,NusaBrand,Katun Bambu,4.1
+PRD197,Kaos Striped Tropika Style,T-Shirt,Atasan Wanita,199000,181,Tropika Style,Rayon,3.7
+PRD198,Celana Cargo Senja Wear,Pants,Bawahan Pria,149000,243,Senja Wear,Rayon,4.8
+PRD199,Kaos Polos Basic Ratu Mode,Kaos,Atasan Pria,69000,12,Ratu Mode,Linen,4.7
+PRD200,Kaos Striped Kanvas Lokal,Kaos,Atasan Pria,499000,89,Kanvas Lokal,Katun Bambu,4.4
+PRD201,Celana Chino BajuKita,Celana,Bawahan Pria,119000,48,BajuKita,Cotton Combed 30s,3.5
+PRD202,Topi Baseball SandangIndo,Aksesoris,Aksesoris,249000,185,SandangIndo,Linen,4.6
+PRD203,Dress Maxi Polos Pesona Indo,Dress,Atasan Wanita,59000,0,Pesona Indo,Polyester,5.0
+PRD204,Celana Kulot SandangIndo,Celana,Bawahan Pria,69000,97,SandangIndo,Linen,3.7
+PRD205,Syal Rajut Senja Wear,Accessories,Aksesoris,119000,114,Senja Wear,Twill,3.5
+PRD206,Tas Selempang SandangIndo,Accessories,Aksesoris,59000,376,SandangIndo,Cotton 100%,4.4
+PRD207,Dress Midi Floral SandangIndo,Dress,Atasan Wanita,199000,142,SandangIndo,Rayon,4.2
+PRD208,Kacamata Hitam Senja Wear,Accessories,Aksesoris,329000,21,Senja Wear,Polyester,3.6
+PRD209,Celana Cargo Kanvas Lokal,Pants,Bawahan Wanita,249000,30,Kanvas Lokal,Cotton-Polyester,4.1
+PRD210,Kaos Lengan Panjang BajuKita,Kaos,Atasan Wanita,249000,53,BajuKita,Polyester,3.7
+PRD211,Kemeja Flanel Tropika Style,Kemeja,Atasan Pria,329000,10,Tropika Style,Katun Bambu,4.1
+PRD212,Celana Jeans Slim Riang Apparel,Pants,Bawahan Pria,499000,177,Riang Apparel,Polyester,4.2
+PRD213,Topi Baseball SandangIndo,Aksesoris,Aksesoris,199000,46,SandangIndo,Twill,4.9
+PRD214,Kemeja Flanel Senja Wear,kemeja,Atasan Wanita,549000,136,Senja Wear,Cotton-Polyester,4.4
+PRD215,Jaket Hoodie Kanvas Lokal,Jaket,Outwear,89000,24,Kanvas Lokal,Katun Bambu,4.1
+PRD216,Kemeja Casual Ratu Mode,Kemeja,Atasan Wanita,199000,171,Ratu Mode,Drill,4.7
+PRD217,Ikat Pinggang Kulit Pesona Indo,Aksesoris,Aksesoris,129000,110,Pesona Indo,Katun Bambu,4.8
+PRD218,Celana Jeans Slim Pesona Indo,Celana,Bawahan Wanita,199000,185,Pesona Indo,Denim,3.6
+PRD219,Dress Bodycon BajuKita,Dress,Atasan Wanita,229000,50,BajuKita,Cotton 100%,4.0
+PRD220,Jaket Hoodie Kanvas Lokal,Jacket,Outwear,329000,302,Kanvas Lokal,Linen,4.9
+PRD221,Jacket Coach NusaBrand,Jaket,Outwear,119000,34,NusaBrand,Cotton-Polyester,4.1
+PRD222,Kaos Oversize BajuKita,kaos,Atasan Wanita,179000,2,BajuKita,Katun Bambu,4.7
+PRD223,Kemeja Batik BajuKita,kemeja,Atasan Wanita,499000,255,BajuKita,Katun Bambu,3.9
+PRD224,Tas Selempang Pesona Indo,Accessories,Aksesoris,89000,21,Pesona Indo,Rayon,4.3
+PRD225,Celana Kulot Tropika Style,Celana,Bawahan Wanita,399000,161,Tropika Style,Rayon,4.4
+PRD226,T-Shirt Graphic Pesona Indo,T-Shirt,Atasan Wanita,449000,180,Pesona Indo,Polyester,4.2
+PRD227,Kaos Polos Basic Cendana Co,Kaos,Atasan Pria,99000,110,Cendana Co,Rayon,4.0
+PRD228,Dress Wrap Tropika Style,dress,Atasan Wanita,399000,184,Tropika Style,Cotton-Polyester,4.5
+PRD229,Jaket Parasut BajuKita,Jaket,Outwear,79000,49,BajuKita,Twill,3.5
+PRD230,Topi Baseball NusaBrand,Aksesoris,Aksesoris,129000,278,NusaBrand,Polyester,4.3
+PRD231,Celana Chino Cendana Co,Pants,Bawahan Wanita,179000,56,Cendana Co,Cotton 100%,3.8
+PRD232,Kaos Raglan Riang Apparel,Kaos,Atasan Pria,49000,497,Riang Apparel,Twill,4.8
+PRD233,Kemeja Oxford Cendana Co,kemeja,Atasan Pria,49000,122,Cendana Co,Twill,4.1
+PRD234,Shirt Slim Fit Ratu Mode,Shirt,Atasan Wanita,199000,150,Ratu Mode,Katun Bambu,3.5
+PRD235,Jacket Denim SandangIndo,Jacket,Outwear,59000,25,SandangIndo,Drill,4.6
+PRD236,Celana Jogger Riang Apparel,Celana,Bawahan Wanita,59000,490,Riang Apparel,Denim,3.8
+PRD237,Kaos Oversize BajuKita,kaos,Atasan Pria,199000,177,BajuKita,Katun Bambu,5.0
+PRD238,Jaket Parasut Cendana Co,Jaket,Outwear,499000,113,Cendana Co,Cotton 100%,4.8
+PRD239,Jaket Hoodie NusaBrand,Jaket,Outwear,179000,490,NusaBrand,Cotton Combed 30s,3.6
+PRD240,Kemeja Linen Kanvas Lokal,Shirt,Atasan Pria,69000,18,Kanvas Lokal,Cotton 100%,4.8
+PRD241,Celana Cargo Ratu Mode,Celana,Bawahan Wanita,79000,41,Ratu Mode,,3.6
+PRD242,Shirt Slim Fit NusaBrand,kemeja,Atasan Wanita,449000,31,NusaBrand,Cotton-Polyester,4.5
+PRD243,Kaos Lengan Panjang Riang Apparel,Kaos,Atasan Wanita,279000,495,Riang Apparel,Cotton Combed 30s,4.9
+PRD244,Celana Jeans Slim Senja Wear,Pants,Bawahan Wanita,49000,43,Senja Wear,Katun Bambu,4.7
+PRD245,Syal Rajut Riang Apparel,Aksesoris,Aksesoris,129000,62,Riang Apparel,Drill,4.1
+PRD246,Dress Bodycon Kanvas Lokal,Dress,Atasan Wanita,399000,87,Kanvas Lokal,Rayon,4.1
+PRD247,Jaket Parasut Kanvas Lokal,Jacket,Outwear,179000,176,Kanvas Lokal,Cotton-Polyester,3.6
+PRD248,Celana Jogger Riang Apparel,Celana,Bawahan Wanita,299000,284,Riang Apparel,Rayon,4.3
+PRD249,Syal Rajut BajuKita,Aksesoris,Aksesoris,449000,9,BajuKita,Cotton-Polyester,4.8
+PRD250,Jaket Varsity NusaBrand,Jaket,Outwear,149000,92,NusaBrand,Rayon,4.2
+PRD251,Pants Wide Leg Tropika Style,Pants,Bawahan Wanita,129000,139,Tropika Style,Cotton Combed 30s,3.8
+PRD252,Dompet Kulit Ratu Mode,Accessories,Aksesoris,49000,33,Ratu Mode,Cotton Combed 30s,4.5
+PRD253,Celana Jogger Ratu Mode,Celana,Bawahan Wanita,399000,0,Ratu Mode,Cotton 100%,3.9
+PRD254,Kemeja Flanel Senja Wear,Kemeja,Atasan Pria,299000,158,Senja Wear,Cotton 100%,4.5
+PRD255,Celana Jogger Ratu Mode,Pants,Bawahan Wanita,179000,200,Ratu Mode,Drill,3.6
+PRD256,Dress Maxi Polos Kanvas Lokal,Dress,Atasan Wanita,49000,171,Kanvas Lokal,Cotton Combed 30s,4.1
+PRD257,Jaket Bomber Tropika Style,Jacket,Outwear,59000,32,Tropika Style,Cotton Combed 30s,3.6
+PRD258,Kacamata Hitam Kanvas Lokal,Aksesoris,Aksesoris,129000,39,Kanvas Lokal,Twill,4.7
+PRD259,Dress Midi Floral NusaBrand,Dress,Atasan Wanita,599000,57,NusaBrand,Twill,3.8
+PRD260,Celana Jogger Pesona Indo,Pants,Bawahan Pria,79000,45,Pesona Indo,Katun Bambu,3.9
+PRD261,Kemeja Batik Kanvas Lokal,Kemeja,Atasan Wanita,279000,8,Kanvas Lokal,Katun Bambu,3.9
+PRD262,Dress Midi Floral Senja Wear,Dress,Atasan Wanita,99000,498,Senja Wear,Linen,4.6
+PRD263,Tas Selempang BajuKita,Aksesoris,Aksesoris,89000,194,BajuKita,Rayon,4.7
+PRD264,Dress Bodycon Cendana Co,Dress,Atasan Wanita,79000,27,Cendana Co,Twill,4.6
+PRD265,T-Shirt Graphic Kanvas Lokal,Kaos,Atasan Pria,329000,324,Kanvas Lokal,Polyester,3.7
+PRD266,Kemeja Casual Ratu Mode,Kemeja,Atasan Pria,299000,189,Ratu Mode,Katun Bambu,3.6
+PRD267,Topi Baseball Cendana Co,Aksesoris,Aksesoris,59000,15,Cendana Co,Cotton-Polyester,3.5
+PRD268,Kaos Polos Basic Cendana Co,T-Shirt,Atasan Pria,599000,0,Cendana Co,Polyester,4.0
+PRD269,Kemeja Oxford Riang Apparel,kemeja,Atasan Pria,329000,31,Riang Apparel,Twill,4.5
+PRD270,Jacket Coach BajuKita,Jaket,Outwear,349000,67,BajuKita,Cotton Combed 30s,4.3
+PRD271,Kemeja Casual Kanvas Lokal,Shirt,Atasan Wanita,129000,154,Kanvas Lokal,Cotton 100%,4.8
+PRD272,Dress Bodycon Kanvas Lokal,Dress,Atasan Wanita,249000,107,Kanvas Lokal,Twill,4.8
+PRD273,Syal Rajut Cendana Co,Aksesoris,Aksesoris,179000,69,Cendana Co,Cotton-Polyester,3.6
+PRD274,Kaos Striped NusaBrand,T-Shirt,Atasan Pria,229000,150,NusaBrand,Rayon,4.0
+PRD275,Jaket Parasut Cendana Co,Jacket,Outwear,329000,486,Cendana Co,Drill,4.4
+PRD276,Jaket Hoodie SandangIndo,Jaket,Outwear,329000,186,SandangIndo,Cotton Combed 30s,3.9
+PRD277,Pants Wide Leg Cendana Co,Pants,Bawahan Wanita,129000,132,Cendana Co,Rayon,5.0
+PRD278,Shirt Slim Fit Senja Wear,kemeja,Atasan Wanita,499000,271,Senja Wear,Denim,3.8
+PRD279,Tas Selempang Riang Apparel,Accessories,Aksesoris,449000,94,Riang Apparel,Denim,4.5
+PRD280,Kemeja Oxford Riang Apparel,Shirt,Atasan Wanita,229000,150,Riang Apparel,Drill,4.2
+PRD281,Pants Wide Leg SandangIndo,Celana,Bawahan Wanita,149000,481,SandangIndo,Cotton 100%,3.6
+PRD282,Pants Wide Leg Pesona Indo,Pants,Bawahan Wanita,149000,33,Pesona Indo,Cotton 100%,5.0
+PRD283,Kacamata Hitam Tropika Style,Accessories,Aksesoris,249000,21,Tropika Style,Rayon,4.6
+PRD284,T-Shirt Graphic SandangIndo,Kaos,Atasan Pria,399000,118,SandangIndo,Cotton-Polyester,3.8
+PRD285,Topi Baseball Kanvas Lokal,Aksesoris,Aksesoris,499000,120,Kanvas Lokal,Linen,3.8
+PRD286,Jacket Denim BajuKita,Jacket,Outwear,49000,199,BajuKita,Polyester,4.7
+PRD287,Dress Mini Casual SandangIndo,Dress,Atasan Wanita,449000,48,SandangIndo,Linen,4.8
+PRD288,Kemeja Batik BajuKita,Kemeja,Atasan Wanita,99000,0,BajuKita,Denim,4.2
+PRD289,Jacket Denim Ratu Mode,Jacket,Outwear,79000,154,Ratu Mode,Cotton-Polyester,4.8
+PRD290,Dress Mini Casual Riang Apparel,Dress,Atasan Wanita,279000,0,Riang Apparel,Twill,4.4
+PRD291,Dress Mini Casual SandangIndo,Dress,Atasan Wanita,499000,146,SandangIndo,Linen,3.8
+PRD292,Celana Jeans Slim Senja Wear,Pants,Bawahan Wanita,129000,170,Senja Wear,Drill,3.9
+PRD293,Dompet Kulit NusaBrand,Aksesoris,Aksesoris,249000,138,NusaBrand,Katun Bambu,4.2
+PRD294,Dress Wrap Senja Wear,dress,Atasan Wanita,229000,387,Senja Wear,,4.2
+PRD295,Kemeja Flanel Tropika Style,Kemeja,Atasan Pria,229000,108,Tropika Style,Polyester,3.6
+PRD296,Topi Baseball Cendana Co,Aksesoris,Aksesoris,149000,29,Cendana Co,Cotton-Polyester,3.9
+PRD297,Shirt Slim Fit BajuKita,Kemeja,Atasan Wanita,349000,109,BajuKita,Drill,4.5
+PRD298,Syal Rajut Riang Apparel,Aksesoris,Aksesoris,279000,208,Riang Apparel,Linen,4.4
+PRD299,T-Shirt Graphic BajuKita,Kaos,Atasan Pria,399000,168,BajuKita,Polyester,3.7
+PRD300,Shirt Slim Fit BajuKita,Kemeja,Atasan Pria,149000,55,BajuKita,Cotton 100%,4.1

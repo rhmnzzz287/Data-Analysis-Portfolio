@@ -1,0 +1,1501 @@
+review_id,order_id,product_id,customer_id,rating,review_text,review_date,helpful_count
+REV00001,ORD000131,PRD269,CUST0714,3,"Bahan premium, jahitan kuat.",2024-02-16,0
+REV00002,ORD001162,PRD105,CUST0586,2,"Bagus banget, packaging juga aman.",2025-01-24,0
+REV00003,ORD001172,PRD053,CUST0164,5,"Modelnya keren, fit di badan.",2024-09-18,18
+REV00004,ORD002879,PRD265,CUST0179,4,Kualitas oke untuk harga segini.,2024-03-16,0
+REV00005,ORD001303,PRD252,CUST0606,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-01-26,46
+REV00006,ORD002340,PRD028,CUST0465,5,"Mantap, langganan terus dari sini.",2023-12-27,0
+REV00007,ORD002140,PRD096,CUST0616,5,"Sesuai deskripsi, akan beli lagi.",2024-01-28,0
+REV00008,ORD002124,PRD023,CUST0030,5,Wah ini sih murah meriah tapi berkualitas.,2024-06-03,11
+REV00009,ORD002964,PRD181,CUST0479,3,Produknya bagus tapi pengiriman lama.,2023-10-05,0
+REV00010,ORD001442,PRD072,CUST0550,3,"Modelnya keren, fit di badan.",2023-11-09,0
+REV00011,ORD002046,PRD254,CUST0488,5,,2024-06-17,0
+REV00012,ORD001842,PRD019,CUST0480,4,"Pengiriman cepat, packaging rapi.",2025-01-10,6
+REV00013,ORD000293,PRD150,CUST0135,5,"Suka banget, repeat order pasti.",2022-04-26,9
+REV00014,ORD001301,PRD210,CUST0141,5,"Ukuran agak kekecilan, tapi bahan oke.",2022-06-05,11
+REV00015,ORD001293,PRD270,CUST0531,4,"Pengiriman cepat, packaging rapi.",2022-12-23,9
+REV00016,ORD000867,PRD259,CUST0270,5,"Bagus banget, packaging juga aman.",2023-07-25,31
+REV00017,ORD001287,PRD280,CUST0048,5,"Produk original, terima kasih seller.",2024-10-28,0
+REV00018,ORD000965,PRD102,CUST0758,3,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-10-30,6
+REV00019,ORD000890,PRD195,CUST0778,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-04-19,0
+REV00020,ORD002400,PRD172,CUST0417,5,"Agak mengecewakan, bahannya panas.",2023-10-11,0
+REV00021,ORD002369,PRD196,CUST0259,5,"Suka banget, repeat order pasti.",2024-08-18,3
+REV00022,ORD001470,PRD297,CUST0376,5,Warna agak beda dari foto.,2023-01-01,0
+REV00023,ORD002158,PRD213,CUST0682,4,,2023-08-19,10
+REV00024,ORD000417,PRD013,CUST0527,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-03-12,4
+REV00025,ORD002694,PRD298,CUST0293,5,"Tidak sesuai ekspektasi, kurang puas.",2023-06-26,0
+REV00026,ORD001044,PRD181,CUST0226,5,"Cocok buat hangout, modelnya kekinian.",2023-12-12,10
+REV00027,ORD000043,PRD009,CUST0575,4,,2024-04-06,2
+REV00028,ORD002050,PRD005,CUST0521,3,"Bahannya enak banget, jahitan rapi. Recommended!",2025-01-18,0
+REV00029,ORD000334,PRD001,CUST0148,5,"Kainnya tipis, agak kecewa.",2022-03-17,0
+REV00030,ORD002146,PRD026,CUST0354,5,"Modelnya simple, gampang di-mix and match.",2022-12-10,0
+REV00031,ORD001633,PRD156,CUST0573,5,Warna agak beda dari foto.,2024-04-14,9
+REV00032,ORD001736,PRD219,CUST0160,5,"Bahan premium, jahitan kuat.",2022-12-27,10
+REV00033,ORD000016,PRD052,CUST0441,4,"Bagus banget, packaging juga aman.",2024-05-12,3
+REV00034,ORD000216,PRD060,CUST0177,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-10-01,0
+REV00035,ORD002501,PRD113,CUST0565,3,Kualitas oke untuk harga segini.,2022-04-26,0
+REV00036,ORD002750,PRD298,CUST0096,4,"Bagus banget, packaging juga aman.",2024-05-06,6
+REV00037,ORD001607,PRD275,CUST0143,5,"Bahannya enak banget, jahitan rapi. Recommended!",2022-03-27,27
+REV00038,ORD000825,PRD276,CUST0218,3,"Produk original, terima kasih seller.",2025-03-04,0
+REV00039,ORD001079,PRD195,CUST0057,5,"Bahan premium, jahitan kuat.",2023-05-07,0
+REV00040,ORD000022,PRD034,CUST0566,3,Worth it dengan harganya.,2024-05-31,30
+REV00041,ORD002946,PRD209,CUST0651,1,Worth it dengan harganya.,2023-06-01,2
+REV00042,ORD000940,PRD063,CUST0435,5,"Bahan premium, jahitan kuat.",2024-11-19,0
+REV00043,ORD001640,PRD239,CUST0027,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-05-06,0
+REV00044,ORD002518,PRD116,CUST0617,5,Produknya bagus tapi pengiriman lama.,2024-07-10,9
+REV00045,ORD002284,PRD289,CUST0352,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2025-02-09,0
+REV00046,ORD001408,PRD016,CUST0219,1,,2024-04-22,23
+REV00047,ORD001656,PRD286,CUST0070,2,"Cocok buat hangout, modelnya kekinian.",2023-09-12,10
+REV00048,ORD002406,PRD002,CUST0712,2,,2024-10-30,26
+REV00049,ORD002343,PRD140,CUST0159,5,,2023-03-03,0
+REV00050,ORD000055,PRD212,CUST0442,4,"Awalnya ragu, ternyata kualitasnya oke.",2025-01-27,0
+REV00051,ORD002426,PRD131,CUST0636,5,Produknya bagus tapi pengiriman lama.,2023-09-13,3
+REV00052,ORD002260,PRD022,CUST0462,3,"Bahan adem, cocok buat sehari-hari.",2023-10-13,39
+REV00053,ORD001328,PRD261,CUST0740,5,"Pelayanan seller ramah, fast response.",2024-11-20,0
+REV00054,ORD000409,PRD289,CUST0557,5,"Agak mengecewakan, bahannya panas.",2024-01-13,0
+REV00055,ORD001918,PRD205,CUST0503,5,"Ukuran pas di badan, warna sesuai foto.",2024-03-03,0
+REV00056,ORD002897,PRD090,CUST0280,4,"Cocok buat hangout, modelnya kekinian.",2024-10-06,0
+REV00057,ORD001929,PRD039,CUST0636,5,"Bahan adem, cocok buat sehari-hari.",2024-01-05,0
+REV00058,ORD000072,PRD209,CUST0379,5,Kualitas oke untuk harga segini.,2024-06-14,5
+REV00059,ORD001919,PRD019,CUST0153,3,"Kainnya tipis, agak kecewa.",2024-08-06,15
+REV00060,ORD001673,PRD259,CUST0373,2,"Modelnya keren, fit di badan.",2024-06-21,0
+REV00061,ORD000676,PRD093,CUST0680,2,"Mantap, langganan terus dari sini.",2022-06-02,2
+REV00062,ORD001231,PRD024,CUST0605,4,"Mantap, langganan terus dari sini.",2023-10-16,0
+REV00063,ORD002331,PRD058,CUST0288,3,,2023-01-21,8
+REV00064,ORD002956,PRD084,CUST0057,5,"Bahan premium, jahitan kuat.",2024-08-30,16
+REV00065,ORD002177,PRD291,CUST0540,5,"Pengiriman cepat, packaging rapi.",2025-01-26,0
+REV00066,ORD002587,PRD008,CUST0193,4,Pengiriman ngaret tapi barang bagus.,2023-09-17,19
+REV00067,ORD002188,PRD153,CUST0015,4,Worth it dengan harganya.,2022-01-20,3
+REV00068,ORD000625,PRD127,CUST0233,3,Pengiriman ngaret tapi barang bagus.,2023-05-12,0
+REV00069,ORD001708,PRD070,CUST0269,4,"Cocok buat hangout, modelnya kekinian.",2023-03-13,5
+REV00070,ORD000265,PRD258,CUST0735,4,"Untuk harga segini, kualitasnya mantap.",2023-06-30,3
+REV00071,ORD002997,PRD228,CUST0327,5,Worth it dengan harganya.,2024-02-29,23
+REV00072,ORD001584,PRD295,CUST0772,3,"Modelnya simple, gampang di-mix and match.",2024-10-30,7
+REV00073,ORD000297,PRD188,CUST0794,4,"Bagus banget, suka sama designnya.",2023-07-27,0
+REV00074,ORD000593,PRD260,CUST0145,5,"Agak mengecewakan, bahannya panas.",2023-07-22,20
+REV00075,ORD002255,PRD036,CUST0709,4,Kualitas oke untuk harga segini.,2023-06-11,3
+REV00076,ORD001867,PRD077,CUST0281,4,"Awalnya ragu, ternyata kualitasnya oke.",2024-08-21,0
+REV00077,ORD001577,PRD296,CUST0001,4,,2024-01-30,0
+REV00078,ORD002939,PRD234,CUST0301,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-01-24,0
+REV00079,ORD000899,PRD199,CUST0531,4,"Kainnya tipis, agak kecewa.",2024-09-07,0
+REV00080,ORD000269,PRD202,CUST0122,4,"Bagus banget, packaging juga aman.",2023-01-19,0
+REV00081,ORD002959,PRD163,CUST0179,3,"Untuk harga segini, kualitasnya mantap.",2023-02-15,0
+REV00082,ORD000640,PRD271,CUST0297,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2022-06-11,5
+REV00083,ORD002252,PRD204,CUST0221,5,"Agak mengecewakan, bahannya panas.",2025-01-20,7
+REV00084,ORD002592,PRD114,CUST0182,5,"Cocok buat hangout, modelnya kekinian.",2023-07-11,5
+REV00085,ORD001682,PRD267,CUST0505,4,Produknya bagus tapi pengiriman lama.,2023-03-24,15
+REV00086,ORD001610,PRD256,CUST0527,2,Kualitas oke untuk harga segini.,2024-04-09,7
+REV00087,ORD001256,PRD222,CUST0264,5,"Bagus banget, suka sama designnya.",2024-06-13,15
+REV00088,ORD002500,PRD080,CUST0291,4,Produknya bagus tapi pengiriman lama.,2024-04-21,21
+REV00089,ORD002686,PRD039,CUST0576,5,"Pelayanan seller ramah, fast response.",2023-08-24,2
+REV00090,ORD001417,PRD265,CUST0185,5,"Modelnya simple, gampang di-mix and match.",2023-11-25,2
+REV00091,ORD000123,PRD144,CUST0370,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-07-18,0
+REV00092,ORD002608,PRD098,CUST0655,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-10-09,3
+REV00093,ORD001914,PRD172,CUST0715,5,"Modelnya simple, gampang di-mix and match.",2023-11-18,7
+REV00094,ORD002588,PRD168,CUST0105,4,"Agak mengecewakan, bahannya panas.",2024-05-31,49
+REV00095,ORD002074,PRD040,CUST0577,5,,2024-05-12,9
+REV00096,ORD001829,PRD275,CUST0024,4,"Untuk harga segini, kualitasnya mantap.",2023-07-12,22
+REV00097,ORD000432,PRD066,CUST0408,5,"Pelayanan seller ramah, fast response.",2022-01-06,24
+REV00098,ORD000245,PRD227,CUST0356,3,"Ukuran sesuai size chart, recommended.",2025-02-23,0
+REV00099,ORD000798,PRD064,CUST0052,5,Wah ini sih murah meriah tapi berkualitas.,2023-11-15,5
+REV00100,ORD002808,PRD221,CUST0295,3,Worth it dengan harganya.,2022-12-14,7
+REV00101,ORD001855,PRD184,CUST0749,3,"Untuk harga segini, kualitasnya mantap.",2023-08-23,19
+REV00102,ORD000609,PRD220,CUST0515,5,"Produk original, terima kasih seller.",2025-01-14,0
+REV00103,ORD001041,PRD187,CUST0241,5,Pengiriman ngaret tapi barang bagus.,2023-06-01,0
+REV00104,ORD002683,PRD039,CUST0104,5,"Cocok buat hangout, modelnya kekinian.",2023-11-06,8
+REV00105,ORD001139,PRD281,CUST0431,5,"Ukuran pas di badan, warna sesuai foto.",2024-05-04,0
+REV00106,ORD001538,PRD271,CUST0050,5,Wah ini sih murah meriah tapi berkualitas.,2025-02-03,0
+REV00107,ORD000594,PRD004,CUST0409,5,"Pelayanan seller ramah, fast response.",2023-07-03,10
+REV00108,ORD000560,PRD111,CUST0142,4,"Bagus banget, packaging juga aman.",2024-03-02,5
+REV00109,ORD000481,PRD170,CUST0198,5,"Pelayanan seller ramah, fast response.",2023-03-07,4
+REV00110,ORD002583,PRD198,CUST0589,5,"Cocok buat hangout, modelnya kekinian.",2024-03-05,0
+REV00111,ORD002408,PRD263,CUST0013,4,"Pengiriman cepat, packaging rapi.",2024-02-10,0
+REV00112,ORD002938,PRD243,CUST0172,1,Kualitas oke untuk harga segini.,2023-11-01,3
+REV00113,ORD000371,PRD086,CUST0238,5,"Bagus banget, suka sama designnya.",2024-06-09,0
+REV00114,ORD002315,PRD211,CUST0028,4,"Pengiriman cepat, packaging rapi.",2024-11-14,4
+REV00115,ORD002296,PRD211,CUST0708,4,"Bahan adem, cocok buat sehari-hari.",2023-05-30,12
+REV00116,ORD000765,PRD101,CUST0411,4,"Untuk harga segini, kualitasnya mantap.",2024-01-06,8
+REV00117,ORD001320,PRD189,CUST0153,5,,2025-02-21,0
+REV00118,ORD000554,PRD222,CUST0205,5,"Awalnya ragu, ternyata kualitasnya oke.",2022-04-30,0
+REV00119,ORD001370,PRD133,CUST0108,4,"Bahannya enak banget, jahitan rapi. Recommended!",2024-09-25,0
+REV00120,ORD001338,PRD297,CUST0549,4,"Bagus banget, suka sama designnya.",2023-08-10,0
+REV00121,ORD001626,PRD016,CUST0264,4,"Bahan premium, jahitan kuat.",2023-12-17,7
+REV00122,ORD002699,PRD090,CUST0179,3,"Mantap, langganan terus dari sini.",2025-02-23,1
+REV00123,ORD002409,PRD058,CUST0177,5,Worth it dengan harganya.,2024-09-07,5
+REV00124,ORD002591,PRD025,CUST0283,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-01-12,5
+REV00125,ORD000228,PRD188,CUST0447,5,"Bagus banget, suka sama designnya.",2023-03-07,10
+REV00126,ORD002225,PRD181,CUST0602,4,"Pelayanan seller ramah, fast response.",2023-09-18,9
+REV00127,ORD001152,PRD164,CUST0013,3,"Bahan adem, cocok buat sehari-hari.",2023-01-06,0
+REV00128,ORD002527,PRD263,CUST0741,5,Produknya bagus tapi pengiriman lama.,2023-02-11,7
+REV00129,ORD002978,PRD132,CUST0197,5,"Suka banget, repeat order pasti.",2022-04-26,7
+REV00130,ORD001347,PRD091,CUST0566,5,"Bahan adem, cocok buat sehari-hari.",2022-11-27,34
+REV00131,ORD001410,PRD270,CUST0618,4,Wah ini sih murah meriah tapi berkualitas.,2023-08-27,0
+REV00132,ORD000770,PRD042,CUST0198,5,Warna agak beda dari foto.,2024-11-13,10
+REV00133,ORD000882,PRD026,CUST0763,4,"Pengiriman cepat, packaging rapi.",2023-11-25,9
+REV00134,ORD002414,PRD068,CUST0295,1,"Suka banget, repeat order pasti.",2023-02-12,0
+REV00135,ORD002123,PRD074,CUST0340,5,Wah ini sih murah meriah tapi berkualitas.,2025-01-19,0
+REV00136,ORD000567,PRD016,CUST0323,5,"Modelnya keren, fit di badan.",2024-07-07,0
+REV00137,ORD000580,PRD260,CUST0641,3,"Ukuran agak kekecilan, tapi bahan oke.",2024-04-02,4
+REV00138,ORD002918,PRD007,CUST0784,3,"Suka banget, repeat order pasti.",2023-08-16,0
+REV00139,ORD000614,PRD268,CUST0648,3,Kualitas oke untuk harga segini.,2024-12-10,30
+REV00140,ORD002073,PRD161,CUST0432,3,"Suka banget, repeat order pasti.",2023-10-17,1
+REV00141,ORD000033,PRD129,CUST0126,5,"Untuk harga segini, kualitasnya mantap.",2023-10-13,0
+REV00142,ORD001888,PRD278,CUST0646,4,"Produk original, terima kasih seller.",2024-02-28,3
+REV00143,ORD001795,PRD254,CUST0101,1,"Mantap, langganan terus dari sini.",2024-06-21,2
+REV00144,ORD000777,PRD190,CUST0048,3,,2024-03-20,27
+REV00145,ORD001252,PRD087,CUST0454,5,"Pelayanan seller ramah, fast response.",2025-02-24,0
+REV00146,ORD000641,PRD034,CUST0062,5,Pengiriman ngaret tapi barang bagus.,2022-12-19,0
+REV00147,ORD001624,PRD011,CUST0261,5,"Cocok buat hangout, modelnya kekinian.",2024-05-24,10
+REV00148,ORD001270,PRD003,CUST0214,3,"Cocok buat hangout, modelnya kekinian.",2025-01-07,0
+REV00149,ORD000781,PRD112,CUST0501,4,"Produk original, terima kasih seller.",2023-10-07,0
+REV00150,ORD000291,PRD064,CUST0399,3,"Produk original, terima kasih seller.",2024-03-06,22
+REV00151,ORD002045,PRD213,CUST0571,2,"Pengiriman cepat, packaging rapi.",2024-10-11,3
+REV00152,ORD000133,PRD276,CUST0571,4,"Bagus banget, suka sama designnya.",2024-07-16,0
+REV00153,ORD002624,PRD063,CUST0182,5,"Awalnya ragu, ternyata kualitasnya oke.",2022-02-24,0
+REV00154,ORD000102,PRD014,CUST0399,5,Kualitas oke untuk harga segini.,2022-01-12,9
+REV00155,ORD002810,PRD223,CUST0594,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-12-21,0
+REV00156,ORD002290,PRD071,CUST0094,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-10-18,8
+REV00157,ORD000680,PRD224,CUST0356,5,"Kainnya tipis, agak kecewa.",2024-06-15,1
+REV00158,ORD001404,PRD031,CUST0370,5,,2024-03-04,3
+REV00159,ORD000903,PRD100,CUST0132,5,Pengiriman ngaret tapi barang bagus.,2022-09-17,9
+REV00160,ORD000429,PRD135,CUST0458,5,"Agak mengecewakan, bahannya panas.",2024-06-04,8
+REV00161,ORD002662,PRD011,CUST0642,4,"Ukuran pas di badan, warna sesuai foto.",2024-04-02,0
+REV00162,ORD002746,PRD097,CUST0191,5,"Ukuran pas di badan, warna sesuai foto.",2023-03-31,0
+REV00163,ORD000920,PRD006,CUST0004,1,"Pengiriman cepat, packaging rapi.",2022-02-17,0
+REV00164,ORD001013,PRD185,CUST0214,5,"Tidak sesuai ekspektasi, kurang puas.",2024-10-03,27
+REV00165,ORD002628,PRD228,CUST0332,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-04-03,0
+REV00166,ORD000968,PRD137,CUST0136,4,,2023-01-18,0
+REV00167,ORD001884,PRD027,CUST0475,4,"Tidak sesuai ekspektasi, kurang puas.",2024-12-01,0
+REV00168,ORD002101,PRD130,CUST0304,4,Wah ini sih murah meriah tapi berkualitas.,2022-11-12,9
+REV00169,ORD001988,PRD264,CUST0327,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-09-19,8
+REV00170,ORD000796,PRD015,CUST0579,5,"Produk original, terima kasih seller.",2023-10-07,1
+REV00171,ORD002023,PRD218,CUST0213,3,"Ukuran agak kekecilan, tapi bahan oke.",2024-05-18,12
+REV00172,ORD001036,PRD198,CUST0145,5,"Ukuran pas di badan, warna sesuai foto.",2024-09-05,2
+REV00173,ORD001459,PRD027,CUST0348,4,"Agak mengecewakan, bahannya panas.",2024-04-25,0
+REV00174,ORD002673,PRD130,CUST0529,5,"Pengiriman cepat, packaging rapi.",2023-09-19,0
+REV00175,ORD000406,PRD149,CUST0155,5,,2024-06-03,2
+REV00176,ORD002266,PRD032,CUST0800,5,Kualitas oke untuk harga segini.,2024-06-28,2
+REV00177,ORD002717,PRD154,CUST0114,4,"Ukuran agak kekecilan, tapi bahan oke.",2022-06-17,6
+REV00178,ORD002674,PRD299,CUST0682,4,,2024-09-19,1
+REV00179,ORD002118,PRD256,CUST0221,4,Wah ini sih murah meriah tapi berkualitas.,2023-04-17,20
+REV00180,ORD001793,PRD141,CUST0677,5,"Modelnya simple, gampang di-mix and match.",2024-03-05,0
+REV00181,ORD000050,PRD103,CUST0291,4,"Ukuran pas di badan, warna sesuai foto.",2023-07-27,0
+REV00182,ORD002484,PRD221,CUST0214,4,Worth it dengan harganya.,2024-11-09,10
+REV00183,ORD000576,PRD001,CUST0739,5,Wah ini sih murah meriah tapi berkualitas.,2024-06-27,2
+REV00184,ORD001467,PRD207,CUST0062,5,"Pelayanan seller ramah, fast response.",2024-04-22,0
+REV00185,ORD001351,PRD161,CUST0685,4,"Cocok buat hangout, modelnya kekinian.",2023-11-03,4
+REV00186,ORD001046,PRD272,CUST0453,2,"Modelnya simple, gampang di-mix and match.",2024-07-05,1
+REV00187,ORD000421,PRD010,CUST0504,3,"Kainnya tipis, agak kecewa.",2024-12-08,0
+REV00188,ORD002084,PRD132,CUST0087,2,"Bahan premium, jahitan kuat.",2024-05-01,0
+REV00189,ORD000915,PRD200,CUST0097,4,"Kainnya tipis, agak kecewa.",2023-01-19,0
+REV00190,ORD000335,PRD192,CUST0019,5,"Kainnya tipis, agak kecewa.",2023-09-26,0
+REV00191,ORD002800,PRD045,CUST0229,5,"Bagus banget, packaging juga aman.",2025-01-11,0
+REV00192,ORD001768,PRD051,CUST0135,3,"Bahan adem, cocok buat sehari-hari.",2022-06-14,0
+REV00193,ORD000565,PRD062,CUST0327,5,"Modelnya simple, gampang di-mix and match.",2023-09-24,8
+REV00194,ORD001457,PRD182,CUST0694,4,"Bagus banget, packaging juga aman.",2023-12-18,8
+REV00195,ORD002605,PRD092,CUST0040,3,Wah ini sih murah meriah tapi berkualitas.,2024-01-08,0
+REV00196,ORD002883,PRD103,CUST0529,5,Warna agak beda dari foto.,2025-03-02,0
+REV00197,ORD000138,PRD086,CUST0653,5,"Pelayanan seller ramah, fast response.",2025-01-07,10
+REV00198,ORD000690,PRD274,CUST0281,5,Worth it dengan harganya.,2022-12-06,46
+REV00199,ORD002911,PRD051,CUST0792,3,"Pengiriman cepat, packaging rapi.",2024-05-13,9
+REV00200,ORD000058,PRD001,CUST0007,5,"Untuk harga segini, kualitasnya mantap.",2025-02-28,2
+REV00201,ORD002444,PRD219,CUST0721,4,Kualitas oke untuk harga segini.,2024-09-05,10
+REV00202,ORD000453,PRD187,CUST0399,1,"Bahannya enak banget, jahitan rapi. Recommended!",2024-11-28,0
+REV00203,ORD002742,PRD244,CUST0593,5,"Untuk harga segini, kualitasnya mantap.",2024-03-24,0
+REV00204,ORD001461,PRD036,CUST0553,2,Kualitas oke untuk harga segini.,2025-02-21,7
+REV00205,ORD002658,PRD238,CUST0345,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-02-19,0
+REV00206,ORD001003,PRD299,CUST0296,5,"Ukuran agak kekecilan, tapi bahan oke.",2022-05-21,1
+REV00207,ORD002724,PRD068,CUST0521,5,"Tidak sesuai ekspektasi, kurang puas.",2023-11-07,0
+REV00208,ORD001258,PRD059,CUST0291,4,Wah ini sih murah meriah tapi berkualitas.,2024-02-06,23
+REV00209,ORD000295,PRD246,CUST0633,5,"Produk original, terima kasih seller.",2025-02-10,20
+REV00210,ORD002159,PRD164,CUST0578,4,"Cocok buat hangout, modelnya kekinian.",2024-11-29,0
+REV00211,ORD002481,PRD299,CUST0744,3,"Tidak sesuai ekspektasi, kurang puas.",2024-07-06,2
+REV00212,ORD001429,PRD004,CUST0590,4,"Agak mengecewakan, bahannya panas.",2023-10-13,44
+REV00213,ORD002154,PRD167,CUST0068,5,"Bahan premium, jahitan kuat.",2024-10-19,37
+REV00214,ORD002148,PRD042,CUST0097,1,"Sesuai deskripsi, akan beli lagi.",2024-11-10,24
+REV00215,ORD000081,PRD069,CUST0478,5,,2024-02-23,7
+REV00216,ORD001119,PRD161,CUST0118,4,"Tidak sesuai ekspektasi, kurang puas.",2023-07-03,0
+REV00217,ORD000375,PRD110,CUST0653,2,Pengiriman ngaret tapi barang bagus.,2022-05-21,0
+REV00218,ORD000289,PRD098,CUST0361,5,"Mantap, langganan terus dari sini.",2024-11-26,0
+REV00219,ORD000167,PRD290,CUST0295,5,"Bagus banget, packaging juga aman.",2023-09-12,9
+REV00220,ORD002427,PRD228,CUST0603,5,Kualitas oke untuk harga segini.,2024-06-13,0
+REV00221,ORD001533,PRD115,CUST0215,5,Produknya bagus tapi pengiriman lama.,2024-07-18,0
+REV00222,ORD002755,PRD152,CUST0469,4,"Tidak sesuai ekspektasi, kurang puas.",2024-11-08,4
+REV00223,ORD000906,PRD242,CUST0374,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-03-21,0
+REV00224,ORD001069,PRD075,CUST0324,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-09-17,6
+REV00225,ORD000534,PRD289,CUST0683,3,"Untuk harga segini, kualitasnya mantap.",2025-01-29,0
+REV00226,ORD001477,PRD082,CUST0705,4,"Bagus banget, packaging juga aman.",2024-08-09,1
+REV00227,ORD001197,PRD014,CUST0557,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-12-28,0
+REV00228,ORD001473,PRD242,CUST0497,4,Wah ini sih murah meriah tapi berkualitas.,2023-01-15,0
+REV00229,ORD001276,PRD228,CUST0755,4,"Bahannya enak banget, jahitan rapi. Recommended!",2022-10-14,0
+REV00230,ORD002707,PRD028,CUST0142,4,Wah ini sih murah meriah tapi berkualitas.,2024-09-04,44
+REV00231,ORD001675,PRD123,CUST0382,4,"Bagus banget, packaging juga aman.",2023-04-08,0
+REV00232,ORD000731,PRD027,CUST0150,5,"Kainnya tipis, agak kecewa.",2022-03-26,29
+REV00233,ORD000852,PRD270,CUST0009,5,Warna agak beda dari foto.,2022-09-13,8
+REV00234,ORD001496,PRD232,CUST0514,3,Kualitas oke untuk harga segini.,2023-09-13,2
+REV00235,ORD001142,PRD041,CUST0410,5,"Ukuran agak kekecilan, tapi bahan oke.",2022-05-17,3
+REV00236,ORD001254,PRD062,CUST0008,4,Wah ini sih murah meriah tapi berkualitas.,2023-09-09,0
+REV00237,ORD002604,PRD054,CUST0546,5,"Pelayanan seller ramah, fast response.",2024-11-23,37
+REV00238,ORD002162,PRD164,CUST0336,3,"Bahan premium, jahitan kuat.",2024-03-15,0
+REV00239,ORD002705,PRD097,CUST0369,4,"Ukuran pas di badan, warna sesuai foto.",2023-08-17,8
+REV00240,ORD000357,PRD084,CUST0547,3,Wah ini sih murah meriah tapi berkualitas.,2023-03-26,0
+REV00241,ORD001850,PRD222,CUST0768,5,"Kainnya tipis, agak kecewa.",2023-12-29,0
+REV00242,ORD000218,PRD125,CUST0303,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-08-02,1
+REV00243,ORD001012,PRD286,CUST0235,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-08-21,9
+REV00244,ORD000206,PRD276,CUST0758,5,"Bahan adem, cocok buat sehari-hari.",2022-05-03,2
+REV00245,ORD002067,PRD140,CUST0625,5,"Produk original, terima kasih seller.",2022-05-27,0
+REV00246,ORD000117,PRD082,CUST0571,4,,2024-11-19,40
+REV00247,ORD001543,PRD222,CUST0072,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-11-24,4
+REV00248,ORD000851,PRD188,CUST0551,4,"Bahannya enak banget, jahitan rapi. Recommended!",2025-02-20,0
+REV00249,ORD000309,PRD154,CUST0608,2,Wah ini sih murah meriah tapi berkualitas.,2023-01-11,23
+REV00250,ORD002772,PRD162,CUST0272,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2022-06-14,0
+REV00251,ORD000177,PRD190,CUST0646,4,"Bahannya enak banget, jahitan rapi. Recommended!",2024-11-12,0
+REV00252,ORD000788,PRD042,CUST0478,5,Kualitas oke untuk harga segini.,2024-10-28,0
+REV00253,ORD002332,PRD258,CUST0461,4,"Ukuran agak kekecilan, tapi bahan oke.",2024-09-03,0
+REV00254,ORD002850,PRD085,CUST0437,3,"Sesuai deskripsi, akan beli lagi.",2023-10-21,0
+REV00255,ORD001917,PRD138,CUST0665,4,,2024-07-12,4
+REV00256,ORD000950,PRD053,CUST0461,5,"Bahan adem, cocok buat sehari-hari.",2024-05-26,0
+REV00257,ORD001890,PRD225,CUST0550,5,Warna agak beda dari foto.,2023-07-03,24
+REV00258,ORD001870,PRD149,CUST0363,1,Warna agak beda dari foto.,2025-01-24,43
+REV00259,ORD002311,PRD032,CUST0053,3,"Ukuran sesuai size chart, recommended.",2023-01-18,2
+REV00260,ORD002928,PRD163,CUST0567,3,"Suka banget, repeat order pasti.",2023-11-11,4
+REV00261,ORD002312,PRD294,CUST0110,5,"Modelnya keren, fit di badan.",2024-09-23,0
+REV00262,ORD002985,PRD162,CUST0226,5,"Bagus banget, packaging juga aman.",2024-05-18,23
+REV00263,ORD002813,PRD016,CUST0087,5,Worth it dengan harganya.,2024-12-31,0
+REV00264,ORD002052,PRD187,CUST0171,3,"Untuk harga segini, kualitasnya mantap.",2024-06-21,3
+REV00265,ORD002903,PRD002,CUST0163,3,"Bagus banget, packaging juga aman.",2024-10-08,0
+REV00266,ORD002868,PRD287,CUST0079,4,"Ukuran sesuai size chart, recommended.",2022-03-05,10
+REV00267,ORD000457,PRD142,CUST0237,4,Worth it dengan harganya.,2024-11-01,20
+REV00268,ORD002433,PRD074,CUST0367,5,Pengiriman ngaret tapi barang bagus.,2024-02-08,1
+REV00269,ORD002230,PRD190,CUST0091,4,"Cocok buat hangout, modelnya kekinian.",2022-08-04,0
+REV00270,ORD001903,PRD212,CUST0371,1,"Bahannya enak banget, jahitan rapi. Recommended!",2023-01-01,10
+REV00271,ORD000949,PRD181,CUST0495,2,Kualitas oke untuk harga segini.,2024-01-28,0
+REV00272,ORD002720,PRD243,CUST0015,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-06-24,0
+REV00273,ORD001718,PRD243,CUST0655,5,"Bagus banget, packaging juga aman.",2023-05-18,0
+REV00274,ORD002789,PRD183,CUST0022,3,,2024-11-21,7
+REV00275,ORD000873,PRD005,CUST0754,5,,2023-04-23,0
+REV00276,ORD002606,PRD069,CUST0611,5,"Agak mengecewakan, bahannya panas.",2024-03-14,0
+REV00277,ORD000314,PRD147,CUST0063,5,"Pelayanan seller ramah, fast response.",2024-03-04,28
+REV00278,ORD002345,PRD087,CUST0104,3,"Mantap, langganan terus dari sini.",2022-03-27,6
+REV00279,ORD000345,PRD084,CUST0626,1,"Awalnya ragu, ternyata kualitasnya oke.",2022-07-30,8
+REV00280,ORD000684,PRD129,CUST0690,3,"Pengiriman cepat, packaging rapi.",2025-02-26,18
+REV00281,ORD002486,PRD251,CUST0410,5,"Bahannya enak banget, jahitan rapi. Recommended!",2024-08-28,0
+REV00282,ORD000338,PRD211,CUST0670,5,"Modelnya keren, fit di badan.",2024-01-07,42
+REV00283,ORD001559,PRD105,CUST0419,4,"Cocok buat hangout, modelnya kekinian.",2024-02-25,0
+REV00284,ORD001190,PRD227,CUST0729,2,Pengiriman ngaret tapi barang bagus.,2023-09-28,0
+REV00285,ORD001781,PRD024,CUST0108,5,"Bagus banget, suka sama designnya.",2022-08-11,0
+REV00286,ORD002176,PRD029,CUST0306,2,Pengiriman ngaret tapi barang bagus.,2022-05-29,27
+REV00287,ORD002519,PRD293,CUST0800,3,"Pelayanan seller ramah, fast response.",2024-04-07,7
+REV00288,ORD002671,PRD096,CUST0108,5,"Suka banget, repeat order pasti.",2024-11-10,0
+REV00289,ORD000570,PRD188,CUST0262,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-04-17,0
+REV00290,ORD001540,PRD234,CUST0498,4,"Bagus banget, packaging juga aman.",2025-01-05,0
+REV00291,ORD000173,PRD211,CUST0664,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2022-08-29,0
+REV00292,ORD002729,PRD131,CUST0677,5,"Tidak sesuai ekspektasi, kurang puas.",2025-02-23,10
+REV00293,ORD002143,PRD229,CUST0654,2,"Ukuran sesuai size chart, recommended.",2024-06-23,18
+REV00294,ORD002020,PRD116,CUST0790,5,"Modelnya simple, gampang di-mix and match.",2025-02-02,0
+REV00295,ORD001037,PRD280,CUST0383,5,"Cocok buat hangout, modelnya kekinian.",2023-05-05,0
+REV00296,ORD001586,PRD033,CUST0597,3,"Bagus banget, suka sama designnya.",2024-04-27,12
+REV00297,ORD001873,PRD136,CUST0154,5,"Untuk harga segini, kualitasnya mantap.",2024-01-17,3
+REV00298,ORD001972,PRD094,CUST0170,4,Produknya bagus tapi pengiriman lama.,2023-03-17,0
+REV00299,ORD002655,PRD052,CUST0513,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-08-14,0
+REV00300,ORD001228,PRD050,CUST0612,5,"Modelnya simple, gampang di-mix and match.",2023-05-17,0
+REV00301,ORD002682,PRD143,CUST0606,4,"Suka banget, repeat order pasti.",2024-01-06,0
+REV00302,ORD001597,PRD189,CUST0256,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-10-06,0
+REV00303,ORD002356,PRD215,CUST0751,4,"Ukuran agak kekecilan, tapi bahan oke.",2025-02-10,6
+REV00304,ORD001273,PRD051,CUST0161,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-11-13,2
+REV00305,ORD000600,PRD194,CUST0215,1,"Bahan adem, cocok buat sehari-hari.",2023-10-15,0
+REV00306,ORD000792,PRD051,CUST0110,4,"Tidak sesuai ekspektasi, kurang puas.",2022-07-31,0
+REV00307,ORD000978,PRD115,CUST0115,4,"Suka banget, repeat order pasti.",2024-05-17,0
+REV00308,ORD002021,PRD298,CUST0297,2,"Pengiriman cepat, packaging rapi.",2022-12-21,13
+REV00309,ORD001045,PRD157,CUST0456,5,"Bagus banget, packaging juga aman.",2023-10-31,49
+REV00310,ORD000075,PRD088,CUST0388,4,Kualitas oke untuk harga segini.,2024-04-27,0
+REV00311,ORD001200,PRD248,CUST0688,5,,2024-10-17,20
+REV00312,ORD001729,PRD006,CUST0448,4,Pengiriman ngaret tapi barang bagus.,2024-07-05,0
+REV00313,ORD002593,PRD215,CUST0665,1,"Produk original, terima kasih seller.",2023-01-19,10
+REV00314,ORD002420,PRD051,CUST0626,5,"Ukuran sesuai size chart, recommended.",2023-01-17,10
+REV00315,ORD001468,PRD194,CUST0317,3,Kualitas oke untuk harga segini.,2025-01-17,8
+REV00316,ORD002183,PRD150,CUST0181,4,,2024-04-16,13
+REV00317,ORD001632,PRD204,CUST0528,4,"Kainnya tipis, agak kecewa.",2023-10-15,8
+REV00318,ORD001694,PRD121,CUST0468,4,"Modelnya simple, gampang di-mix and match.",2022-08-14,9
+REV00319,ORD002621,PRD037,CUST0691,1,"Untuk harga segini, kualitasnya mantap.",2023-11-15,0
+REV00320,ORD001379,PRD099,CUST0320,5,"Ukuran pas di badan, warna sesuai foto.",2024-01-14,12
+REV00321,ORD002922,PRD293,CUST0627,4,"Cocok buat hangout, modelnya kekinian.",2023-06-10,6
+REV00322,ORD000460,PRD014,CUST0777,2,"Suka banget, repeat order pasti.",2024-07-03,0
+REV00323,ORD001598,PRD164,CUST0558,5,"Kainnya tipis, agak kecewa.",2023-12-09,29
+REV00324,ORD002967,PRD006,CUST0191,4,"Suka banget, repeat order pasti.",2022-01-14,0
+REV00325,ORD001386,PRD061,CUST0789,3,"Modelnya simple, gampang di-mix and match.",2023-08-06,5
+REV00326,ORD001074,PRD132,CUST0157,5,"Suka banget, repeat order pasti.",2024-03-20,10
+REV00327,ORD002035,PRD120,CUST0423,5,"Agak mengecewakan, bahannya panas.",2023-04-03,0
+REV00328,ORD000063,PRD047,CUST0324,4,Worth it dengan harganya.,2023-05-06,0
+REV00329,ORD000352,PRD039,CUST0556,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2025-02-09,26
+REV00330,ORD002877,PRD072,CUST0700,2,"Untuk harga segini, kualitasnya mantap.",2022-11-23,24
+REV00331,ORD000153,PRD078,CUST0482,4,"Cocok buat hangout, modelnya kekinian.",2022-11-26,23
+REV00332,ORD002979,PRD268,CUST0277,3,"Awalnya ragu, ternyata kualitasnya oke.",2023-04-25,6
+REV00333,ORD001777,PRD238,CUST0375,5,Pengiriman ngaret tapi barang bagus.,2024-06-06,0
+REV00334,ORD002081,PRD113,CUST0262,3,"Modelnya simple, gampang di-mix and match.",2024-07-15,1
+REV00335,ORD000449,PRD241,CUST0779,5,"Agak mengecewakan, bahannya panas.",2022-04-16,0
+REV00336,ORD001001,PRD285,CUST0308,3,"Kainnya tipis, agak kecewa.",2022-07-05,41
+REV00337,ORD002410,PRD175,CUST0576,5,"Awalnya ragu, ternyata kualitasnya oke.",2022-05-28,4
+REV00338,ORD001518,PRD037,CUST0245,5,Produknya bagus tapi pengiriman lama.,2024-09-23,11
+REV00339,ORD001652,PRD056,CUST0290,4,"Cocok buat hangout, modelnya kekinian.",2023-09-03,3
+REV00340,ORD000407,PRD111,CUST0177,4,Wah ini sih murah meriah tapi berkualitas.,2023-02-22,8
+REV00341,ORD000420,PRD005,CUST0041,1,"Awalnya ragu, ternyata kualitasnya oke.",2024-02-16,3
+REV00342,ORD002796,PRD011,CUST0416,5,,2023-10-02,10
+REV00343,ORD001253,PRD284,CUST0626,4,Wah ini sih murah meriah tapi berkualitas.,2023-04-23,6
+REV00344,ORD000395,PRD166,CUST0085,4,"Ukuran pas di badan, warna sesuai foto.",2023-05-10,0
+REV00345,ORD000544,PRD255,CUST0728,2,,2023-04-07,25
+REV00346,ORD000007,PRD013,CUST0170,1,"Bagus banget, suka sama designnya.",2022-02-11,0
+REV00347,ORD002044,PRD097,CUST0663,4,,2025-03-04,0
+REV00348,ORD000547,PRD241,CUST0001,3,"Bagus banget, packaging juga aman.",2024-08-22,2
+REV00349,ORD000724,PRD179,CUST0488,5,"Bagus banget, packaging juga aman.",2024-12-17,5
+REV00350,ORD000859,PRD286,CUST0328,5,"Agak mengecewakan, bahannya panas.",2024-01-02,10
+REV00351,ORD002688,PRD018,CUST0414,5,"Pelayanan seller ramah, fast response.",2024-03-16,9
+REV00352,ORD000388,PRD007,CUST0600,4,"Produk original, terima kasih seller.",2023-06-06,3
+REV00353,ORD000057,PRD023,CUST0096,5,,2023-04-23,6
+REV00354,ORD002457,PRD058,CUST0037,2,"Bahan premium, jahitan kuat.",2022-03-05,0
+REV00355,ORD000049,PRD235,CUST0679,5,"Bahan adem, cocok buat sehari-hari.",2023-09-07,0
+REV00356,ORD000644,PRD172,CUST0724,2,"Suka banget, repeat order pasti.",2024-01-14,0
+REV00357,ORD002028,PRD288,CUST0539,5,Kualitas oke untuk harga segini.,2025-01-12,0
+REV00358,ORD002321,PRD054,CUST0669,3,"Cocok buat hangout, modelnya kekinian.",2023-03-16,10
+REV00359,ORD000431,PRD168,CUST0143,2,"Untuk harga segini, kualitasnya mantap.",2024-06-09,0
+REV00360,ORD001064,PRD012,CUST0146,3,"Modelnya simple, gampang di-mix and match.",2025-02-24,0
+REV00361,ORD000106,PRD088,CUST0270,3,"Cocok buat hangout, modelnya kekinian.",2022-04-13,5
+REV00362,ORD000241,PRD253,CUST0211,4,"Cocok buat hangout, modelnya kekinian.",2025-01-03,2
+REV00363,ORD002559,PRD179,CUST0615,5,"Mantap, langganan terus dari sini.",2023-01-16,12
+REV00364,ORD001994,PRD158,CUST0397,1,,2022-01-06,0
+REV00365,ORD000011,PRD191,CUST0225,4,"Bagus banget, packaging juga aman.",2023-04-04,6
+REV00366,ORD002337,PRD227,CUST0357,5,"Suka banget, repeat order pasti.",2023-06-10,19
+REV00367,ORD000604,PRD067,CUST0117,4,"Ukuran pas di badan, warna sesuai foto.",2024-02-19,5
+REV00368,ORD002254,PRD184,CUST0566,5,"Bahan adem, cocok buat sehari-hari.",2023-01-29,29
+REV00369,ORD001111,PRD286,CUST0718,4,"Pengiriman cepat, packaging rapi.",2024-11-04,0
+REV00370,ORD000624,PRD070,CUST0721,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-11-20,0
+REV00371,ORD000019,PRD255,CUST0539,5,"Cocok buat hangout, modelnya kekinian.",2022-10-13,3
+REV00372,ORD002852,PRD174,CUST0613,4,"Produk original, terima kasih seller.",2023-01-29,10
+REV00373,ORD001608,PRD225,CUST0449,5,,2023-11-24,0
+REV00374,ORD001170,PRD295,CUST0663,4,"Bahan adem, cocok buat sehari-hari.",2022-08-20,0
+REV00375,ORD002095,PRD148,CUST0033,2,"Ukuran pas di badan, warna sesuai foto.",2024-01-19,0
+REV00376,ORD000118,PRD260,CUST0339,4,"Cocok buat hangout, modelnya kekinian.",2024-11-02,8
+REV00377,ORD000907,PRD066,CUST0070,5,"Modelnya keren, fit di badan.",2022-10-04,7
+REV00378,ORD002042,PRD078,CUST0566,4,"Bagus banget, packaging juga aman.",2022-11-27,0
+REV00379,ORD000331,PRD178,CUST0079,4,"Cocok buat hangout, modelnya kekinian.",2024-02-10,0
+REV00380,ORD000321,PRD117,CUST0499,3,"Bahan adem, cocok buat sehari-hari.",2023-05-08,16
+REV00381,ORD000716,PRD256,CUST0771,5,Worth it dengan harganya.,2023-08-25,0
+REV00382,ORD002869,PRD165,CUST0447,4,Produknya bagus tapi pengiriman lama.,2022-11-01,29
+REV00383,ORD002269,PRD150,CUST0486,5,Kualitas oke untuk harga segini.,2024-03-01,0
+REV00384,ORD001375,PRD238,CUST0585,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-01-30,12
+REV00385,ORD002784,PRD165,CUST0454,4,"Pengiriman cepat, packaging rapi.",2023-04-19,0
+REV00386,ORD000622,PRD119,CUST0797,5,"Pengiriman cepat, packaging rapi.",2024-06-19,0
+REV00387,ORD001760,PRD260,CUST0250,1,"Produk original, terima kasih seller.",2023-07-15,36
+REV00388,ORD001428,PRD080,CUST0685,5,Warna agak beda dari foto.,2025-01-18,0
+REV00389,ORD000986,PRD270,CUST0243,3,Pengiriman ngaret tapi barang bagus.,2024-08-08,1
+REV00390,ORD002458,PRD218,CUST0631,5,"Modelnya simple, gampang di-mix and match.",2024-08-29,0
+REV00391,ORD001340,PRD046,CUST0220,5,Wah ini sih murah meriah tapi berkualitas.,2025-01-18,0
+REV00392,ORD000452,PRD283,CUST0787,3,"Jahitannya kurang rapi, tapi masih bisa dipake.",2022-08-06,16
+REV00393,ORD002676,PRD024,CUST0348,4,Kualitas oke untuk harga segini.,2023-12-09,1
+REV00394,ORD001208,PRD053,CUST0168,3,Warna agak beda dari foto.,2022-03-29,0
+REV00395,ORD001034,PRD232,CUST0788,4,"Tidak sesuai ekspektasi, kurang puas.",2023-03-15,0
+REV00396,ORD001776,PRD180,CUST0588,5,"Kainnya tipis, agak kecewa.",2023-05-27,27
+REV00397,ORD001475,PRD169,CUST0684,5,Wah ini sih murah meriah tapi berkualitas.,2025-02-24,45
+REV00398,ORD002992,PRD261,CUST0224,3,"Pelayanan seller ramah, fast response.",2023-05-13,0
+REV00399,ORD002305,PRD266,CUST0173,4,,2024-12-20,0
+REV00400,ORD001356,PRD112,CUST0499,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-02-04,0
+REV00401,ORD001199,PRD183,CUST0093,5,"Produk original, terima kasih seller.",2024-10-22,5
+REV00402,ORD002831,PRD034,CUST0413,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2025-02-11,13
+REV00403,ORD000135,PRD118,CUST0710,5,"Ukuran pas di badan, warna sesuai foto.",2023-06-07,38
+REV00404,ORD002887,PRD206,CUST0781,1,"Jahitannya kurang rapi, tapi masih bisa dipake.",2022-10-07,2
+REV00405,ORD002165,PRD170,CUST0252,3,"Kainnya tipis, agak kecewa.",2024-07-18,0
+REV00406,ORD001238,PRD193,CUST0768,4,"Ukuran sesuai size chart, recommended.",2023-09-26,7
+REV00407,ORD002514,PRD058,CUST0466,5,Wah ini sih murah meriah tapi berkualitas.,2023-02-06,36
+REV00408,ORD000649,PRD299,CUST0454,5,"Bagus banget, packaging juga aman.",2023-01-16,0
+REV00409,ORD002359,PRD073,CUST0374,1,"Bahannya enak banget, jahitan rapi. Recommended!",2024-03-07,6
+REV00410,ORD001578,PRD216,CUST0454,5,"Sesuai deskripsi, akan beli lagi.",2023-01-16,4
+REV00411,ORD002615,PRD046,CUST0412,2,"Pengiriman cepat, packaging rapi.",2023-07-23,0
+REV00412,ORD002654,PRD145,CUST0369,1,"Modelnya simple, gampang di-mix and match.",2025-01-21,1
+REV00413,ORD002279,PRD097,CUST0658,5,"Suka banget, repeat order pasti.",2024-09-21,0
+REV00414,ORD001214,PRD268,CUST0087,4,,2022-07-17,10
+REV00415,ORD000639,PRD033,CUST0153,3,"Untuk harga segini, kualitasnya mantap.",2023-02-19,8
+REV00416,ORD000786,PRD281,CUST0103,5,"Bagus banget, suka sama designnya.",2023-05-15,5
+REV00417,ORD002706,PRD265,CUST0400,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-12-19,44
+REV00418,ORD002893,PRD190,CUST0195,5,"Untuk harga segini, kualitasnya mantap.",2024-05-16,0
+REV00419,ORD001830,PRD046,CUST0406,1,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-06-18,0
+REV00420,ORD000568,PRD192,CUST0776,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-07-06,0
+REV00421,ORD000522,PRD193,CUST0711,4,"Bagus banget, packaging juga aman.",2024-12-06,0
+REV00422,ORD002303,PRD088,CUST0510,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-11-16,1
+REV00423,ORD000252,PRD195,CUST0777,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-03-21,0
+REV00424,ORD000526,PRD058,CUST0594,5,,2025-01-30,0
+REV00425,ORD001977,PRD268,CUST0175,5,"Pelayanan seller ramah, fast response.",2024-05-11,8
+REV00426,ORD000003,PRD076,CUST0306,4,"Suka banget, repeat order pasti.",2022-07-14,4
+REV00427,ORD000678,PRD275,CUST0360,4,"Tidak sesuai ekspektasi, kurang puas.",2024-11-13,6
+REV00428,ORD002712,PRD028,CUST0170,5,Kualitas oke untuk harga segini.,2025-02-04,0
+REV00429,ORD001325,PRD186,CUST0438,4,"Produk original, terima kasih seller.",2024-12-23,8
+REV00430,ORD002841,PRD068,CUST0225,5,"Agak mengecewakan, bahannya panas.",2023-10-05,0
+REV00431,ORD002634,PRD134,CUST0296,4,Worth it dengan harganya.,2022-05-08,0
+REV00432,ORD002643,PRD271,CUST0754,4,Worth it dengan harganya.,2024-08-29,1
+REV00433,ORD001344,PRD044,CUST0585,5,"Pengiriman cepat, packaging rapi.",2024-02-04,10
+REV00434,ORD001118,PRD014,CUST0474,4,Wah ini sih murah meriah tapi berkualitas.,2024-10-31,3
+REV00435,ORD002184,PRD014,CUST0307,5,Kualitas oke untuk harga segini.,2022-05-20,0
+REV00436,ORD001315,PRD231,CUST0199,5,"Bagus banget, packaging juga aman.",2023-01-10,0
+REV00437,ORD000539,PRD165,CUST0035,5,"Suka banget, repeat order pasti.",2025-01-07,30
+REV00438,ORD001769,PRD255,CUST0346,5,"Awalnya ragu, ternyata kualitasnya oke.",2022-07-09,20
+REV00439,ORD000669,PRD039,CUST0297,5,"Pelayanan seller ramah, fast response.",2022-03-28,5
+REV00440,ORD002713,PRD273,CUST0028,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-05-27,0
+REV00441,ORD000709,PRD291,CUST0726,3,"Mantap, langganan terus dari sini.",2023-02-02,0
+REV00442,ORD002687,PRD021,CUST0513,5,"Bagus banget, packaging juga aman.",2024-05-23,0
+REV00443,ORD002228,PRD081,CUST0670,5,"Bahan premium, jahitan kuat.",2023-12-24,0
+REV00444,ORD001052,PRD056,CUST0175,4,"Modelnya keren, fit di badan.",2024-03-16,0
+REV00445,ORD002765,PRD239,CUST0253,5,Warna agak beda dari foto.,2022-02-15,3
+REV00446,ORD001741,PRD176,CUST0311,5,"Bagus banget, suka sama designnya.",2024-02-19,0
+REV00447,ORD000285,PRD079,CUST0699,5,"Tidak sesuai ekspektasi, kurang puas.",2023-04-12,0
+REV00448,ORD000188,PRD171,CUST0737,5,"Tidak sesuai ekspektasi, kurang puas.",2023-01-21,2
+REV00449,ORD002641,PRD189,CUST0470,4,"Ukuran agak kekecilan, tapi bahan oke.",2024-12-19,24
+REV00450,ORD002091,PRD297,CUST0751,5,"Mantap, langganan terus dari sini.",2025-01-31,0
+REV00451,ORD002167,PRD185,CUST0146,5,Wah ini sih murah meriah tapi berkualitas.,2024-04-17,0
+REV00452,ORD002949,PRD265,CUST0750,5,Kualitas oke untuk harga segini.,2022-04-30,14
+REV00453,ORD002241,PRD212,CUST0686,5,"Tidak sesuai ekspektasi, kurang puas.",2023-02-28,0
+REV00454,ORD001594,PRD208,CUST0659,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-10-20,0
+REV00455,ORD000764,PRD017,CUST0708,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-09-05,7
+REV00456,ORD000127,PRD165,CUST0728,5,"Kainnya tipis, agak kecewa.",2023-06-10,0
+REV00457,ORD001961,PRD034,CUST0222,4,"Untuk harga segini, kualitasnya mantap.",2023-03-31,0
+REV00458,ORD000619,PRD040,CUST0692,4,Kualitas oke untuk harga segini.,2024-04-25,24
+REV00459,ORD000092,PRD290,CUST0630,1,"Produk original, terima kasih seller.",2024-01-09,10
+REV00460,ORD000840,PRD107,CUST0492,5,"Modelnya keren, fit di badan.",2023-06-04,4
+REV00461,ORD002037,PRD233,CUST0180,5,"Suka banget, repeat order pasti.",2022-07-26,0
+REV00462,ORD002059,PRD029,CUST0540,5,,2023-06-11,18
+REV00463,ORD002431,PRD020,CUST0516,5,"Ukuran pas di badan, warna sesuai foto.",2024-11-09,39
+REV00464,ORD001144,PRD195,CUST0341,2,Wah ini sih murah meriah tapi berkualitas.,2023-12-27,6
+REV00465,ORD000101,PRD085,CUST0409,5,"Untuk harga segini, kualitasnya mantap.",2024-04-22,1
+REV00466,ORD002934,PRD045,CUST0703,3,"Bahannya enak banget, jahitan rapi. Recommended!",2023-11-15,0
+REV00467,ORD000913,PRD294,CUST0399,5,"Agak mengecewakan, bahannya panas.",2022-01-27,0
+REV00468,ORD001651,PRD248,CUST0148,3,,2024-05-12,20
+REV00469,ORD000893,PRD233,CUST0216,1,"Modelnya simple, gampang di-mix and match.",2023-08-23,16
+REV00470,ORD001333,PRD149,CUST0284,4,"Modelnya keren, fit di badan.",2024-08-10,9
+REV00471,ORD000730,PRD001,CUST0774,2,"Kainnya tipis, agak kecewa.",2022-09-11,0
+REV00472,ORD000313,PRD139,CUST0620,4,"Bagus banget, suka sama designnya.",2025-01-08,5
+REV00473,ORD000532,PRD256,CUST0410,2,"Ukuran sesuai size chart, recommended.",2024-05-28,46
+REV00474,ORD000561,PRD272,CUST0050,4,Kualitas oke untuk harga segini.,2023-01-21,4
+REV00475,ORD000175,PRD221,CUST0606,5,,2024-10-22,3
+REV00476,ORD002768,PRD127,CUST0724,3,"Sesuai deskripsi, akan beli lagi.",2023-02-11,0
+REV00477,ORD000415,PRD019,CUST0308,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-01-28,17
+REV00478,ORD001997,PRD287,CUST0160,4,"Untuk harga segini, kualitasnya mantap.",2023-11-05,10
+REV00479,ORD001904,PRD269,CUST0179,1,"Bagus banget, packaging juga aman.",2024-11-10,10
+REV00480,ORD002107,PRD149,CUST0034,4,"Ukuran sesuai size chart, recommended.",2022-03-17,2
+REV00481,ORD001911,PRD174,CUST0499,5,"Kainnya tipis, agak kecewa.",2024-11-14,0
+REV00482,ORD001173,PRD018,CUST0786,5,"Tidak sesuai ekspektasi, kurang puas.",2025-01-08,0
+REV00483,ORD001349,PRD056,CUST0592,4,Wah ini sih murah meriah tapi berkualitas.,2024-10-13,5
+REV00484,ORD000961,PRD155,CUST0489,5,"Bagus banget, suka sama designnya.",2024-02-16,0
+REV00485,ORD001101,PRD152,CUST0327,5,"Tidak sesuai ekspektasi, kurang puas.",2024-05-18,1
+REV00486,ORD000643,PRD102,CUST0339,5,"Ukuran pas di badan, warna sesuai foto.",2024-01-23,24
+REV00487,ORD001021,PRD206,CUST0683,1,"Ukuran pas di badan, warna sesuai foto.",2022-11-02,10
+REV00488,ORD000185,PRD183,CUST0273,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-05-07,2
+REV00489,ORD001271,PRD272,CUST0530,5,"Sesuai deskripsi, akan beli lagi.",2022-01-15,18
+REV00490,ORD000180,PRD032,CUST0365,5,"Tidak sesuai ekspektasi, kurang puas.",2025-01-02,0
+REV00491,ORD002071,PRD271,CUST0095,5,"Modelnya simple, gampang di-mix and match.",2024-08-31,2
+REV00492,ORD000820,PRD107,CUST0525,5,"Suka banget, repeat order pasti.",2024-05-17,7
+REV00493,ORD002407,PRD082,CUST0645,2,"Kainnya tipis, agak kecewa.",2025-01-03,0
+REV00494,ORD001415,PRD082,CUST0108,5,"Bahannya enak banget, jahitan rapi. Recommended!",2025-02-16,9
+REV00495,ORD001363,PRD006,CUST0410,5,Worth it dengan harganya.,2023-06-17,17
+REV00496,ORD001397,PRD262,CUST0673,3,Produknya bagus tapi pengiriman lama.,2023-01-12,48
+REV00497,ORD000834,PRD100,CUST0726,2,"Awalnya ragu, ternyata kualitasnya oke.",2023-06-22,0
+REV00498,ORD002704,PRD027,CUST0475,5,Pengiriman ngaret tapi barang bagus.,2024-02-15,4
+REV00499,ORD001156,PRD167,CUST0484,5,"Ukuran sesuai size chart, recommended.",2024-07-23,4
+REV00500,ORD000342,PRD168,CUST0158,2,"Modelnya simple, gampang di-mix and match.",2024-09-17,44
+REV00501,ORD000629,PRD104,CUST0461,5,"Cocok buat hangout, modelnya kekinian.",2023-12-09,0
+REV00502,ORD000048,PRD106,CUST0151,5,"Agak mengecewakan, bahannya panas.",2024-03-04,10
+REV00503,ORD001105,PRD200,CUST0213,4,"Tidak sesuai ekspektasi, kurang puas.",2024-07-24,8
+REV00504,ORD000556,PRD205,CUST0149,3,Produknya bagus tapi pengiriman lama.,2024-07-07,0
+REV00505,ORD000348,PRD173,CUST0420,4,"Awalnya ragu, ternyata kualitasnya oke.",2023-01-03,6
+REV00506,ORD001434,PRD269,CUST0725,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-06-01,3
+REV00507,ORD000215,PRD256,CUST0665,4,"Bahan premium, jahitan kuat.",2023-08-13,17
+REV00508,ORD002194,PRD084,CUST0422,5,,2024-12-01,8
+REV00509,ORD002121,PRD239,CUST0144,3,"Awalnya ragu, ternyata kualitasnya oke.",2023-04-16,0
+REV00510,ORD001005,PRD228,CUST0498,3,"Mantap, langganan terus dari sini.",2025-01-23,7
+REV00511,ORD000132,PRD084,CUST0135,4,"Awalnya ragu, ternyata kualitasnya oke.",2024-01-12,0
+REV00512,ORD002702,PRD172,CUST0105,5,"Sesuai deskripsi, akan beli lagi.",2023-12-15,7
+REV00513,ORD000783,PRD178,CUST0182,4,"Tidak sesuai ekspektasi, kurang puas.",2022-11-14,7
+REV00514,ORD002226,PRD115,CUST0239,5,"Ukuran pas di badan, warna sesuai foto.",2024-09-25,2
+REV00515,ORD002947,PRD222,CUST0363,4,Kualitas oke untuk harga segini.,2022-02-06,0
+REV00516,ORD000174,PRD094,CUST0153,4,Wah ini sih murah meriah tapi berkualitas.,2023-06-06,1
+REV00517,ORD002012,PRD220,CUST0727,1,"Awalnya ragu, ternyata kualitasnya oke.",2023-05-20,13
+REV00518,ORD000911,PRD255,CUST0103,4,,2024-04-22,0
+REV00519,ORD001763,PRD055,CUST0450,3,"Modelnya keren, fit di badan.",2024-05-05,0
+REV00520,ORD001943,PRD117,CUST0790,3,Pengiriman ngaret tapi barang bagus.,2024-09-23,0
+REV00521,ORD001657,PRD255,CUST0574,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-06-20,23
+REV00522,ORD000574,PRD021,CUST0707,5,"Suka banget, repeat order pasti.",2024-12-26,0
+REV00523,ORD001411,PRD226,CUST0187,4,"Modelnya keren, fit di badan.",2023-04-14,5
+REV00524,ORD001765,PRD188,CUST0554,1,"Awalnya ragu, ternyata kualitasnya oke.",2024-03-17,0
+REV00525,ORD002968,PRD068,CUST0565,5,"Bagus banget, packaging juga aman.",2025-01-07,8
+REV00526,ORD001419,PRD278,CUST0025,5,"Ukuran pas di badan, warna sesuai foto.",2022-09-27,0
+REV00527,ORD000836,PRD229,CUST0451,5,"Cocok buat hangout, modelnya kekinian.",2024-02-18,0
+REV00528,ORD002251,PRD033,CUST0414,5,"Cocok buat hangout, modelnya kekinian.",2023-12-19,0
+REV00529,ORD001395,PRD044,CUST0127,3,"Ukuran pas di badan, warna sesuai foto.",2024-03-01,2
+REV00530,ORD001887,PRD059,CUST0060,4,Wah ini sih murah meriah tapi berkualitas.,2023-01-13,3
+REV00531,ORD002265,PRD054,CUST0492,4,"Produk original, terima kasih seller.",2022-02-10,0
+REV00532,ORD001906,PRD178,CUST0620,5,"Untuk harga segini, kualitasnya mantap.",2023-04-06,0
+REV00533,ORD001110,PRD211,CUST0024,3,"Tidak sesuai ekspektasi, kurang puas.",2023-03-27,17
+REV00534,ORD001396,PRD031,CUST0338,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-09-04,37
+REV00535,ORD002231,PRD120,CUST0224,1,,2024-06-11,0
+REV00536,ORD001361,PRD178,CUST0083,1,,2024-11-26,12
+REV00537,ORD000318,PRD152,CUST0266,4,"Suka banget, repeat order pasti.",2024-07-15,21
+REV00538,ORD000955,PRD274,CUST0229,2,"Ukuran sesuai size chart, recommended.",2024-11-25,3
+REV00539,ORD000745,PRD179,CUST0175,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-11-03,5
+REV00540,ORD002842,PRD089,CUST0331,5,"Untuk harga segini, kualitasnya mantap.",2024-01-05,0
+REV00541,ORD000693,PRD014,CUST0620,3,"Agak mengecewakan, bahannya panas.",2023-03-31,0
+REV00542,ORD002195,PRD239,CUST0289,5,"Bahan premium, jahitan kuat.",2023-08-09,2
+REV00543,ORD000119,PRD019,CUST0525,4,"Kainnya tipis, agak kecewa.",2024-02-24,2
+REV00544,ORD002335,PRD076,CUST0770,5,"Pengiriman cepat, packaging rapi.",2022-09-27,0
+REV00545,ORD000354,PRD190,CUST0065,1,"Ukuran agak kekecilan, tapi bahan oke.",2024-06-26,9
+REV00546,ORD001807,PRD078,CUST0726,4,"Modelnya keren, fit di badan.",2023-03-11,8
+REV00547,ORD002652,PRD068,CUST0280,5,"Bahannya enak banget, jahitan rapi. Recommended!",2024-10-03,0
+REV00548,ORD000817,PRD090,CUST0028,3,"Awalnya ragu, ternyata kualitasnya oke.",2024-06-19,0
+REV00549,ORD002166,PRD187,CUST0098,4,Worth it dengan harganya.,2023-11-09,17
+REV00550,ORD002920,PRD236,CUST0207,5,Warna agak beda dari foto.,2024-07-17,0
+REV00551,ORD002249,PRD024,CUST0288,5,"Bagus banget, suka sama designnya.",2022-11-07,0
+REV00552,ORD001665,PRD169,CUST0616,5,Pengiriman ngaret tapi barang bagus.,2023-12-05,3
+REV00553,ORD001158,PRD131,CUST0075,5,"Ukuran agak kekecilan, tapi bahan oke.",2025-01-20,0
+REV00554,ORD000694,PRD114,CUST0123,2,"Produk original, terima kasih seller.",2023-04-23,2
+REV00555,ORD000232,PRD004,CUST0735,4,"Pengiriman cepat, packaging rapi.",2023-02-12,8
+REV00556,ORD001444,PRD149,CUST0270,5,,2024-07-18,14
+REV00557,ORD001095,PRD110,CUST0302,3,"Cocok buat hangout, modelnya kekinian.",2025-01-10,10
+REV00558,ORD001009,PRD219,CUST0758,4,"Cocok buat hangout, modelnya kekinian.",2024-12-07,0
+REV00559,ORD000549,PRD232,CUST0076,3,"Modelnya simple, gampang di-mix and match.",2024-06-27,2
+REV00560,ORD002093,PRD231,CUST0576,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-06-24,1
+REV00561,ORD002233,PRD054,CUST0231,5,"Suka banget, repeat order pasti.",2023-10-02,0
+REV00562,ORD002995,PRD043,CUST0414,5,"Bagus banget, packaging juga aman.",2024-06-05,0
+REV00563,ORD001418,PRD173,CUST0172,4,"Untuk harga segini, kualitasnya mantap.",2023-09-18,46
+REV00564,ORD001549,PRD193,CUST0148,4,"Tidak sesuai ekspektasi, kurang puas.",2023-10-11,7
+REV00565,ORD000605,PRD281,CUST0585,5,"Bagus banget, suka sama designnya.",2023-04-26,0
+REV00566,ORD000337,PRD291,CUST0759,5,"Bagus banget, packaging juga aman.",2023-04-19,0
+REV00567,ORD001085,PRD046,CUST0704,1,Pengiriman ngaret tapi barang bagus.,2024-07-28,25
+REV00568,ORD001435,PRD258,CUST0742,5,"Bagus banget, packaging juga aman.",2023-02-15,14
+REV00569,ORD001176,PRD189,CUST0554,4,"Cocok buat hangout, modelnya kekinian.",2022-11-30,1
+REV00570,ORD002790,PRD251,CUST0608,5,"Pengiriman cepat, packaging rapi.",2023-03-17,0
+REV00571,ORD002236,PRD103,CUST0771,4,Produknya bagus tapi pengiriman lama.,2025-02-07,11
+REV00572,ORD000358,PRD217,CUST0783,5,"Sesuai deskripsi, akan beli lagi.",2023-06-04,4
+REV00573,ORD000010,PRD034,CUST0200,5,"Bagus banget, suka sama designnya.",2023-04-21,0
+REV00574,ORD001230,PRD207,CUST0757,2,"Suka banget, repeat order pasti.",2024-12-14,41
+REV00575,ORD000778,PRD154,CUST0621,4,"Modelnya simple, gampang di-mix and match.",2024-02-25,0
+REV00576,ORD001280,PRD068,CUST0615,5,"Bagus banget, packaging juga aman.",2025-03-01,26
+REV00577,ORD002859,PRD243,CUST0055,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-10-18,0
+REV00578,ORD001241,PRD249,CUST0505,5,"Bagus banget, suka sama designnya.",2023-06-23,0
+REV00579,ORD000504,PRD254,CUST0285,4,Wah ini sih murah meriah tapi berkualitas.,2024-02-22,3
+REV00580,ORD001193,PRD280,CUST0338,1,"Suka banget, repeat order pasti.",2023-02-11,0
+REV00581,ORD002738,PRD290,CUST0460,4,"Modelnya simple, gampang di-mix and match.",2023-08-27,9
+REV00582,ORD000036,PRD191,CUST0571,4,"Modelnya keren, fit di badan.",2024-07-17,46
+REV00583,ORD000673,PRD292,CUST0598,5,"Modelnya simple, gampang di-mix and match.",2024-12-27,0
+REV00584,ORD001274,PRD028,CUST0663,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-07-26,41
+REV00585,ORD001824,PRD245,CUST0344,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-04-21,8
+REV00586,ORD002969,PRD093,CUST0033,3,Worth it dengan harganya.,2025-02-27,0
+REV00587,ORD001839,PRD098,CUST0458,5,Kualitas oke untuk harga segini.,2023-07-30,16
+REV00588,ORD001376,PRD066,CUST0465,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-09-01,3
+REV00589,ORD002467,PRD231,CUST0329,5,Kualitas oke untuk harga segini.,2024-06-02,9
+REV00590,ORD000661,PRD200,CUST0636,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-11-03,1
+REV00591,ORD001864,PRD207,CUST0268,5,"Mantap, langganan terus dari sini.",2022-01-21,15
+REV00592,ORD001515,PRD271,CUST0296,4,"Modelnya simple, gampang di-mix and match.",2023-11-07,6
+REV00593,ORD000443,PRD143,CUST0415,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-01-18,5
+REV00594,ORD001307,PRD126,CUST0348,2,"Bahan adem, cocok buat sehari-hari.",2024-05-04,0
+REV00595,ORD000477,PRD221,CUST0121,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-04-14,0
+REV00596,ORD002196,PRD066,CUST0751,5,"Modelnya keren, fit di badan.",2022-03-15,27
+REV00597,ORD000540,PRD006,CUST0034,5,"Modelnya keren, fit di badan.",2024-09-16,6
+REV00598,ORD000598,PRD143,CUST0659,4,Pengiriman ngaret tapi barang bagus.,2023-03-11,9
+REV00599,ORD001965,PRD038,CUST0101,4,"Modelnya simple, gampang di-mix and match.",2024-04-30,0
+REV00600,ORD001339,PRD059,CUST0735,4,"Bahan premium, jahitan kuat.",2022-05-14,7
+REV00601,ORD002766,PRD077,CUST0733,5,,2024-10-10,8
+REV00602,ORD001222,PRD112,CUST0698,5,"Modelnya simple, gampang di-mix and match.",2024-04-05,24
+REV00603,ORD000404,PRD052,CUST0742,5,"Pengiriman cepat, packaging rapi.",2024-08-17,10
+REV00604,ORD000256,PRD217,CUST0577,3,"Bahan adem, cocok buat sehari-hari.",2024-09-23,9
+REV00605,ORD000370,PRD088,CUST0511,4,"Bagus banget, packaging juga aman.",2023-07-13,4
+REV00606,ORD001875,PRD129,CUST0015,4,"Suka banget, repeat order pasti.",2022-08-13,13
+REV00607,ORD002832,PRD242,CUST0629,5,,2023-02-05,0
+REV00608,ORD000294,PRD030,CUST0759,3,Warna agak beda dari foto.,2025-01-06,0
+REV00609,ORD000433,PRD180,CUST0470,4,"Kainnya tipis, agak kecewa.",2022-03-02,0
+REV00610,ORD001562,PRD252,CUST0005,4,"Ukuran pas di badan, warna sesuai foto.",2023-03-07,10
+REV00611,ORD002851,PRD210,CUST0297,4,"Bahan premium, jahitan kuat.",2022-01-23,2
+REV00612,ORD001687,PRD034,CUST0081,5,"Cocok buat hangout, modelnya kekinian.",2024-10-15,10
+REV00613,ORD002350,PRD213,CUST0310,4,"Bahan premium, jahitan kuat.",2023-12-15,8
+REV00614,ORD002125,PRD180,CUST0306,5,,2022-10-01,30
+REV00615,ORD000112,PRD277,CUST0587,5,Pengiriman ngaret tapi barang bagus.,2025-01-06,9
+REV00616,ORD002425,PRD048,CUST0790,3,"Awalnya ragu, ternyata kualitasnya oke.",2024-02-28,0
+REV00617,ORD000099,PRD282,CUST0031,2,"Kainnya tipis, agak kecewa.",2024-03-16,7
+REV00618,ORD000410,PRD290,CUST0631,5,"Bahan adem, cocok buat sehari-hari.",2023-04-29,14
+REV00619,ORD001402,PRD182,CUST0389,1,Worth it dengan harganya.,2022-02-12,26
+REV00620,ORD002830,PRD119,CUST0390,4,"Untuk harga segini, kualitasnya mantap.",2023-10-25,0
+REV00621,ORD000169,PRD010,CUST0261,3,"Bahannya enak banget, jahitan rapi. Recommended!",2024-07-17,0
+REV00622,ORD002953,PRD016,CUST0141,5,,2024-04-30,0
+REV00623,ORD002840,PRD048,CUST0753,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-06-11,0
+REV00624,ORD002725,PRD008,CUST0736,5,"Modelnya simple, gampang di-mix and match.",2023-01-27,0
+REV00625,ORD002180,PRD036,CUST0244,4,"Produk original, terima kasih seller.",2023-03-22,0
+REV00626,ORD001103,PRD273,CUST0629,3,"Mantap, langganan terus dari sini.",2023-10-31,14
+REV00627,ORD001935,PRD112,CUST0403,5,"Suka banget, repeat order pasti.",2023-03-13,0
+REV00628,ORD002197,PRD032,CUST0494,3,"Pelayanan seller ramah, fast response.",2023-10-22,15
+REV00629,ORD000697,PRD231,CUST0386,3,Wah ini sih murah meriah tapi berkualitas.,2024-11-13,0
+REV00630,ORD001554,PRD047,CUST0729,1,"Suka banget, repeat order pasti.",2025-02-04,14
+REV00631,ORD000814,PRD144,CUST0665,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-05-17,10
+REV00632,ORD001490,PRD086,CUST0533,1,,2022-10-09,0
+REV00633,ORD000328,PRD094,CUST0105,3,"Agak mengecewakan, bahannya panas.",2024-08-28,0
+REV00634,ORD001991,PRD029,CUST0508,2,Kualitas oke untuk harga segini.,2024-05-08,0
+REV00635,ORD001245,PRD232,CUST0493,4,,2023-12-06,0
+REV00636,ORD000038,PRD133,CUST0252,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-07-13,0
+REV00637,ORD001683,PRD274,CUST0289,3,"Pengiriman cepat, packaging rapi.",2024-07-05,2
+REV00638,ORD001480,PRD045,CUST0800,3,"Bahan premium, jahitan kuat.",2024-04-18,0
+REV00639,ORD002597,PRD094,CUST0161,4,"Kainnya tipis, agak kecewa.",2024-05-30,3
+REV00640,ORD001393,PRD195,CUST0159,2,Wah ini sih murah meriah tapi berkualitas.,2023-03-01,12
+REV00641,ORD001365,PRD014,CUST0628,3,"Mantap, langganan terus dari sini.",2022-05-06,1
+REV00642,ORD000691,PRD110,CUST0599,5,"Modelnya simple, gampang di-mix and match.",2025-02-09,12
+REV00643,ORD001606,PRD185,CUST0196,5,"Tidak sesuai ekspektasi, kurang puas.",2023-05-30,10
+REV00644,ORD000459,PRD237,CUST0240,5,"Cocok buat hangout, modelnya kekinian.",2024-10-24,10
+REV00645,ORD000772,PRD086,CUST0254,1,Kualitas oke untuk harga segini.,2023-07-14,0
+REV00646,ORD002828,PRD298,CUST0608,5,"Tidak sesuai ekspektasi, kurang puas.",2025-03-02,8
+REV00647,ORD000463,PRD006,CUST0413,5,"Bahannya enak banget, jahitan rapi. Recommended!",2025-02-11,26
+REV00648,ORD000766,PRD180,CUST0605,4,Warna agak beda dari foto.,2023-12-03,0
+REV00649,ORD001865,PRD286,CUST0321,5,"Pengiriman cepat, packaging rapi.",2024-05-11,8
+REV00650,ORD000889,PRD052,CUST0380,5,,2022-11-01,0
+REV00651,ORD000002,PRD256,CUST0478,5,"Mantap, langganan terus dari sini.",2025-02-27,6
+REV00652,ORD002487,PRD064,CUST0120,4,"Bahan premium, jahitan kuat.",2022-06-06,24
+REV00653,ORD001484,PRD111,CUST0395,4,"Modelnya simple, gampang di-mix and match.",2023-10-05,0
+REV00654,ORD001900,PRD079,CUST0252,4,"Cocok buat hangout, modelnya kekinian.",2024-10-08,0
+REV00655,ORD001797,PRD248,CUST0658,3,"Awalnya ragu, ternyata kualitasnya oke.",2024-11-24,8
+REV00656,ORD002821,PRD232,CUST0344,4,"Bahan adem, cocok buat sehari-hari.",2024-04-14,25
+REV00657,ORD002640,PRD095,CUST0757,5,"Bagus banget, packaging juga aman.",2022-04-19,3
+REV00658,ORD001421,PRD116,CUST0132,2,"Bahannya enak banget, jahitan rapi. Recommended!",2023-09-17,12
+REV00659,ORD001638,PRD057,CUST0316,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-02-04,0
+REV00660,ORD001674,PRD064,CUST0225,5,"Sesuai deskripsi, akan beli lagi.",2023-12-06,2
+REV00661,ORD000602,PRD267,CUST0151,4,"Agak mengecewakan, bahannya panas.",2024-02-05,9
+REV00662,ORD001482,PRD127,CUST0089,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-05-15,7
+REV00663,ORD002001,PRD215,CUST0454,2,,2023-10-30,10
+REV00664,ORD001088,PRD037,CUST0325,2,"Tidak sesuai ekspektasi, kurang puas.",2022-08-28,0
+REV00665,ORD002780,PRD220,CUST0649,5,"Bahannya enak banget, jahitan rapi. Recommended!",2022-06-02,3
+REV00666,ORD001135,PRD237,CUST0612,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-07-16,1
+REV00667,ORD001625,PRD054,CUST0508,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-06-24,0
+REV00668,ORD000236,PRD264,CUST0423,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-10-15,0
+REV00669,ORD002991,PRD043,CUST0609,2,"Tidak sesuai ekspektasi, kurang puas.",2024-05-24,5
+REV00670,ORD002966,PRD208,CUST0130,4,"Produk original, terima kasih seller.",2024-02-01,5
+REV00671,ORD001948,PRD212,CUST0007,5,"Sesuai deskripsi, akan beli lagi.",2025-01-31,0
+REV00672,ORD002005,PRD009,CUST0022,2,Kualitas oke untuk harga segini.,2022-03-09,0
+REV00673,ORD001405,PRD125,CUST0691,5,"Bagus banget, suka sama designnya.",2024-10-09,4
+REV00674,ORD002553,PRD220,CUST0402,5,"Produk original, terima kasih seller.",2022-01-24,44
+REV00675,ORD000775,PRD118,CUST0694,5,"Bahannya enak banget, jahitan rapi. Recommended!",2024-07-20,0
+REV00676,ORD002571,PRD128,CUST0134,5,"Untuk harga segini, kualitasnya mantap.",2023-08-01,0
+REV00677,ORD001601,PRD200,CUST0208,4,"Bagus banget, packaging juga aman.",2024-05-24,1
+REV00678,ORD001137,PRD125,CUST0346,3,Kualitas oke untuk harga segini.,2024-08-12,0
+REV00679,ORD000198,PRD067,CUST0197,5,"Ukuran pas di badan, warna sesuai foto.",2024-10-08,0
+REV00680,ORD002708,PRD269,CUST0538,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-10-19,0
+REV00681,ORD001780,PRD205,CUST0171,2,"Jahitannya kurang rapi, tapi masih bisa dipake.",2025-02-07,0
+REV00682,ORD001297,PRD168,CUST0572,5,"Cocok buat hangout, modelnya kekinian.",2024-01-18,42
+REV00683,ORD001499,PRD187,CUST0065,5,"Kainnya tipis, agak kecewa.",2024-05-11,3
+REV00684,ORD000491,PRD248,CUST0261,4,"Mantap, langganan terus dari sini.",2024-11-17,8
+REV00685,ORD001767,PRD160,CUST0188,3,"Tidak sesuai ekspektasi, kurang puas.",2023-07-19,6
+REV00686,ORD000654,PRD101,CUST0398,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-10-12,0
+REV00687,ORD000583,PRD008,CUST0445,4,"Modelnya keren, fit di badan.",2023-06-19,2
+REV00688,ORD002919,PRD006,CUST0136,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-07-26,0
+REV00689,ORD002036,PRD107,CUST0135,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-03-26,5
+REV00690,ORD002477,PRD284,CUST0231,4,"Kainnya tipis, agak kecewa.",2022-01-24,6
+REV00691,ORD002866,PRD281,CUST0531,5,,2023-07-04,0
+REV00692,ORD002250,PRD044,CUST0500,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-08-30,0
+REV00693,ORD002909,PRD043,CUST0210,5,"Bahan adem, cocok buat sehari-hari.",2025-02-25,0
+REV00694,ORD001557,PRD077,CUST0120,5,,2024-02-12,6
+REV00695,ORD000744,PRD214,CUST0344,5,"Ukuran sesuai size chart, recommended.",2024-11-03,0
+REV00696,ORD000437,PRD079,CUST0404,4,"Untuk harga segini, kualitasnya mantap.",2023-01-25,7
+REV00697,ORD002904,PRD266,CUST0066,5,"Produk original, terima kasih seller.",2022-01-08,0
+REV00698,ORD000367,PRD130,CUST0116,5,"Pengiriman cepat, packaging rapi.",2024-04-17,5
+REV00699,ORD002105,PRD271,CUST0618,3,"Pelayanan seller ramah, fast response.",2025-01-29,0
+REV00700,ORD000166,PRD118,CUST0111,4,Pengiriman ngaret tapi barang bagus.,2025-01-21,0
+REV00701,ORD002889,PRD058,CUST0066,4,"Suka banget, repeat order pasti.",2022-06-22,8
+REV00702,ORD000484,PRD297,CUST0759,5,"Suka banget, repeat order pasti.",2024-11-12,7
+REV00703,ORD001445,PRD038,CUST0107,4,"Bahan adem, cocok buat sehari-hari.",2023-05-14,0
+REV00704,ORD002316,PRD296,CUST0099,1,,2024-02-26,13
+REV00705,ORD002189,PRD285,CUST0772,5,"Cocok buat hangout, modelnya kekinian.",2023-12-25,0
+REV00706,ORD001711,PRD192,CUST0797,5,"Ukuran pas di badan, warna sesuai foto.",2024-03-28,7
+REV00707,ORD000499,PRD215,CUST0635,4,Worth it dengan harganya.,2023-03-19,2
+REV00708,ORD000249,PRD209,CUST0368,5,"Pelayanan seller ramah, fast response.",2023-05-09,0
+REV00709,ORD000343,PRD258,CUST0399,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-05-29,0
+REV00710,ORD001735,PRD115,CUST0110,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-09-14,50
+REV00711,ORD001970,PRD006,CUST0103,4,,2024-11-02,10
+REV00712,ORD001358,PRD298,CUST0448,2,"Cocok buat hangout, modelnya kekinian.",2024-11-25,3
+REV00713,ORD000160,PRD031,CUST0027,4,"Cocok buat hangout, modelnya kekinian.",2022-09-01,0
+REV00714,ORD000857,PRD028,CUST0093,5,,2025-03-03,4
+REV00715,ORD002161,PRD179,CUST0426,2,,2024-04-07,0
+REV00716,ORD001153,PRD047,CUST0565,5,"Suka banget, repeat order pasti.",2023-03-16,0
+REV00717,ORD002534,PRD175,CUST0717,4,"Pengiriman cepat, packaging rapi.",2025-01-30,12
+REV00718,ORD001930,PRD063,CUST0453,4,Produknya bagus tapi pengiriman lama.,2024-05-07,0
+REV00719,ORD002179,PRD028,CUST0594,5,Wah ini sih murah meriah tapi berkualitas.,2025-01-23,9
+REV00720,ORD002929,PRD213,CUST0407,5,Wah ini sih murah meriah tapi berkualitas.,2022-11-27,0
+REV00721,ORD001010,PRD246,CUST0201,2,,2024-10-06,10
+REV00722,ORD000446,PRD285,CUST0215,4,Worth it dengan harganya.,2023-09-01,20
+REV00723,ORD002788,PRD287,CUST0133,4,Pengiriman ngaret tapi barang bagus.,2023-06-14,31
+REV00724,ORD001681,PRD136,CUST0660,3,,2024-01-04,6
+REV00725,ORD000380,PRD159,CUST0300,4,"Agak mengecewakan, bahannya panas.",2023-07-23,0
+REV00726,ORD002298,PRD283,CUST0750,3,Produknya bagus tapi pengiriman lama.,2023-04-02,7
+REV00727,ORD002531,PRD110,CUST0283,3,"Ukuran pas di badan, warna sesuai foto.",2023-01-22,36
+REV00728,ORD001251,PRD227,CUST0271,4,"Agak mengecewakan, bahannya panas.",2024-09-19,0
+REV00729,ORD000904,PRD116,CUST0619,5,"Agak mengecewakan, bahannya panas.",2023-05-07,20
+REV00730,ORD001986,PRD254,CUST0632,4,Kualitas oke untuk harga segini.,2022-07-12,0
+REV00731,ORD001160,PRD003,CUST0784,4,Kualitas oke untuk harga segini.,2023-12-10,0
+REV00732,ORD001285,PRD258,CUST0783,2,"Modelnya simple, gampang di-mix and match.",2023-09-05,0
+REV00733,ORD002542,PRD263,CUST0457,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-09-26,7
+REV00734,ORD000162,PRD189,CUST0228,5,,2024-05-05,0
+REV00735,ORD001858,PRD194,CUST0510,4,Worth it dengan harganya.,2024-08-05,4
+REV00736,ORD000550,PRD026,CUST0635,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-06-18,7
+REV00737,ORD000046,PRD128,CUST0708,4,"Ukuran agak kekecilan, tapi bahan oke.",2022-04-02,0
+REV00738,ORD002986,PRD125,CUST0160,5,"Bahan adem, cocok buat sehari-hari.",2024-02-19,30
+REV00739,ORD001284,PRD110,CUST0365,3,"Bahannya enak banget, jahitan rapi. Recommended!",2024-07-06,10
+REV00740,ORD000468,PRD040,CUST0462,3,"Bagus banget, suka sama designnya.",2022-08-21,1
+REV00741,ORD001138,PRD162,CUST0146,4,"Modelnya keren, fit di badan.",2024-07-04,1
+REV00742,ORD000590,PRD103,CUST0560,3,"Bahannya enak banget, jahitan rapi. Recommended!",2024-01-15,5
+REV00743,ORD000870,PRD041,CUST0101,5,Pengiriman ngaret tapi barang bagus.,2024-04-19,14
+REV00744,ORD002057,PRD223,CUST0794,5,"Bagus banget, packaging juga aman.",2025-02-03,2
+REV00745,ORD000875,PRD217,CUST0224,5,"Ukuran pas di badan, warna sesuai foto.",2023-06-09,0
+REV00746,ORD001700,PRD138,CUST0574,4,"Ukuran agak kekecilan, tapi bahan oke.",2024-12-06,22
+REV00747,ORD000211,PRD274,CUST0177,4,Pengiriman ngaret tapi barang bagus.,2023-06-06,0
+REV00748,ORD002288,PRD092,CUST0747,5,"Pengiriman cepat, packaging rapi.",2025-01-25,46
+REV00749,ORD001275,PRD151,CUST0745,4,"Bahan adem, cocok buat sehari-hari.",2024-10-16,0
+REV00750,ORD002139,PRD210,CUST0446,4,"Modelnya keren, fit di badan.",2022-10-02,5
+REV00751,ORD002812,PRD172,CUST0224,3,"Ukuran agak kekecilan, tapi bahan oke.",2022-12-01,9
+REV00752,ORD001975,PRD248,CUST0328,2,"Cocok buat hangout, modelnya kekinian.",2022-12-13,0
+REV00753,ORD001486,PRD004,CUST0019,5,"Modelnya keren, fit di badan.",2024-04-14,5
+REV00754,ORD001827,PRD162,CUST0682,5,Produknya bagus tapi pengiriman lama.,2023-09-02,1
+REV00755,ORD002689,PRD196,CUST0605,4,"Bahan premium, jahitan kuat.",2025-02-16,10
+REV00756,ORD001749,PRD028,CUST0575,5,"Modelnya keren, fit di badan.",2022-01-15,0
+REV00757,ORD000310,PRD127,CUST0538,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-10-07,7
+REV00758,ORD001086,PRD264,CUST0614,5,"Suka banget, repeat order pasti.",2024-06-21,30
+REV00759,ORD002839,PRD203,CUST0650,3,,2024-05-16,4
+REV00760,ORD001794,PRD029,CUST0130,2,"Bahan premium, jahitan kuat.",2023-01-28,0
+REV00761,ORD002190,PRD182,CUST0677,5,"Modelnya simple, gampang di-mix and match.",2022-03-20,1
+REV00762,ORD000589,PRD066,CUST0166,4,"Modelnya simple, gampang di-mix and match.",2023-12-18,10
+REV00763,ORD002330,PRD187,CUST0556,5,Worth it dengan harganya.,2025-02-28,0
+REV00764,ORD001655,PRD038,CUST0668,2,Produknya bagus tapi pengiriman lama.,2022-07-29,0
+REV00765,ORD001377,PRD130,CUST0229,4,,2024-11-28,0
+REV00766,ORD002494,PRD226,CUST0564,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-03-11,0
+REV00767,ORD001225,PRD280,CUST0484,5,"Suka banget, repeat order pasti.",2023-05-23,0
+REV00768,ORD002215,PRD109,CUST0380,3,"Mantap, langganan terus dari sini.",2024-05-17,0
+REV00769,ORD002412,PRD115,CUST0215,3,"Awalnya ragu, ternyata kualitasnya oke.",2023-05-05,0
+REV00770,ORD002647,PRD174,CUST0187,4,"Untuk harga segini, kualitasnya mantap.",2022-08-02,22
+REV00771,ORD001423,PRD289,CUST0110,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-12-29,3
+REV00772,ORD001072,PRD275,CUST0264,4,"Untuk harga segini, kualitasnya mantap.",2025-02-13,2
+REV00773,ORD000528,PRD268,CUST0200,5,"Bahan premium, jahitan kuat.",2024-05-11,9
+REV00774,ORD002599,PRD171,CUST0498,4,"Bahan premium, jahitan kuat.",2023-10-12,8
+REV00775,ORD002285,PRD189,CUST0079,4,"Bagus banget, packaging juga aman.",2022-12-11,0
+REV00776,ORD001885,PRD001,CUST0729,1,"Bagus banget, suka sama designnya.",2024-10-12,0
+REV00777,ORD001422,PRD104,CUST0699,5,"Ukuran agak kekecilan, tapi bahan oke.",2025-02-16,0
+REV00778,ORD000266,PRD183,CUST0406,5,"Untuk harga segini, kualitasnya mantap.",2023-11-29,0
+REV00779,ORD002635,PRD293,CUST0009,5,,2024-09-06,0
+REV00780,ORD000908,PRD280,CUST0171,5,"Modelnya keren, fit di badan.",2022-11-30,0
+REV00781,ORD002342,PRD138,CUST0314,5,"Pengiriman cepat, packaging rapi.",2024-11-04,0
+REV00782,ORD000287,PRD194,CUST0127,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-04-27,0
+REV00783,ORD000355,PRD060,CUST0552,5,"Suka banget, repeat order pasti.",2024-12-02,5
+REV00784,ORD002087,PRD129,CUST0655,5,"Produk original, terima kasih seller.",2023-06-12,6
+REV00785,ORD000307,PRD020,CUST0708,4,"Agak mengecewakan, bahannya panas.",2025-03-04,0
+REV00786,ORD000758,PRD187,CUST0021,5,"Untuk harga segini, kualitasnya mantap.",2025-03-03,3
+REV00787,ORD000942,PRD296,CUST0717,5,"Bagus banget, packaging juga aman.",2022-04-05,0
+REV00788,ORD001255,PRD181,CUST0538,5,"Bahan adem, cocok buat sehari-hari.",2022-06-03,6
+REV00789,ORD001107,PRD178,CUST0460,4,,2024-05-19,14
+REV00790,ORD001960,PRD182,CUST0013,5,"Pengiriman cepat, packaging rapi.",2024-01-27,35
+REV00791,ORD000363,PRD122,CUST0570,5,Produknya bagus tapi pengiriman lama.,2024-10-20,0
+REV00792,ORD000695,PRD025,CUST0161,5,"Mantap, langganan terus dari sini.",2024-05-19,9
+REV00793,ORD000902,PRD270,CUST0412,4,"Cocok buat hangout, modelnya kekinian.",2024-06-09,0
+REV00794,ORD002564,PRD181,CUST0270,5,"Sesuai deskripsi, akan beli lagi.",2024-09-08,15
+REV00795,ORD002403,PRD129,CUST0635,5,"Bahannya enak banget, jahitan rapi. Recommended!",2024-03-20,0
+REV00796,ORD001702,PRD173,CUST0452,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-12-13,0
+REV00797,ORD000246,PRD034,CUST0475,5,"Modelnya simple, gampang di-mix and match.",2024-02-02,0
+REV00798,ORD002329,PRD213,CUST0527,3,,2023-04-19,10
+REV00799,ORD001714,PRD272,CUST0324,4,,2023-06-03,25
+REV00800,ORD002823,PRD213,CUST0790,5,"Modelnya keren, fit di badan.",2025-02-09,11
+REV00801,ORD002719,PRD051,CUST0325,5,"Produk original, terima kasih seller.",2024-08-04,21
+REV00802,ORD002930,PRD083,CUST0723,5,"Mantap, langganan terus dari sini.",2023-02-09,8
+REV00803,ORD000521,PRD126,CUST0450,2,Kualitas oke untuk harga segini.,2023-06-17,27
+REV00804,ORD000214,PRD196,CUST0137,5,"Bahan premium, jahitan kuat.",2024-02-11,8
+REV00805,ORD001614,PRD069,CUST0453,5,"Bagus banget, packaging juga aman.",2023-11-20,2
+REV00806,ORD002793,PRD178,CUST0051,4,"Produk original, terima kasih seller.",2024-11-22,0
+REV00807,ORD000381,PRD025,CUST0645,2,"Agak mengecewakan, bahannya panas.",2024-06-06,2
+REV00808,ORD001623,PRD183,CUST0696,5,"Tidak sesuai ekspektasi, kurang puas.",2024-08-24,10
+REV00809,ORD002060,PRD170,CUST0616,5,,2024-05-12,10
+REV00810,ORD002038,PRD046,CUST0015,5,Produknya bagus tapi pengiriman lama.,2023-08-05,0
+REV00811,ORD000925,PRD286,CUST0260,5,,2024-05-04,7
+REV00812,ORD001414,PRD027,CUST0186,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2022-10-21,0
+REV00813,ORD001204,PRD163,CUST0759,5,,2022-01-25,0
+REV00814,ORD000551,PRD280,CUST0013,3,Wah ini sih murah meriah tapi berkualitas.,2024-07-04,32
+REV00815,ORD001020,PRD237,CUST0783,5,Pengiriman ngaret tapi barang bagus.,2022-11-20,0
+REV00816,ORD000147,PRD255,CUST0597,5,"Produk original, terima kasih seller.",2023-03-23,31
+REV00817,ORD002653,PRD172,CUST0754,4,Wah ini sih murah meriah tapi berkualitas.,2023-12-24,5
+REV00818,ORD000780,PRD043,CUST0130,3,"Cocok buat hangout, modelnya kekinian.",2023-07-05,0
+REV00819,ORD001661,PRD046,CUST0343,3,"Cocok buat hangout, modelnya kekinian.",2024-01-29,0
+REV00820,ORD001798,PRD146,CUST0115,3,Warna agak beda dari foto.,2024-09-17,3
+REV00821,ORD000657,PRD141,CUST0091,4,Produknya bagus tapi pengiriman lama.,2022-01-25,0
+REV00822,ORD000168,PRD103,CUST0437,5,"Pelayanan seller ramah, fast response.",2024-10-18,2
+REV00823,ORD000971,PRD264,CUST0342,3,"Awalnya ragu, ternyata kualitasnya oke.",2024-06-15,9
+REV00824,ORD002261,PRD203,CUST0566,5,"Bahan premium, jahitan kuat.",2023-01-11,6
+REV00825,ORD002000,PRD174,CUST0334,4,Warna agak beda dari foto.,2025-01-16,5
+REV00826,ORD001962,PRD143,CUST0301,5,"Pelayanan seller ramah, fast response.",2024-07-16,0
+REV00827,ORD002825,PRD107,CUST0602,5,"Bahan adem, cocok buat sehari-hari.",2023-06-27,1
+REV00828,ORD000966,PRD107,CUST0524,5,,2022-04-18,10
+REV00829,ORD001671,PRD203,CUST0647,5,Wah ini sih murah meriah tapi berkualitas.,2022-01-12,8
+REV00830,ORD002018,PRD123,CUST0595,4,Warna agak beda dari foto.,2024-03-21,0
+REV00831,ORD000894,PRD257,CUST0270,5,Worth it dengan harganya.,2023-03-05,0
+REV00832,ORD001581,PRD066,CUST0547,3,"Pengiriman cepat, packaging rapi.",2022-03-19,15
+REV00833,ORD001591,PRD230,CUST0565,3,"Mantap, langganan terus dari sini.",2023-04-13,18
+REV00834,ORD001561,PRD009,CUST0736,5,"Bagus banget, suka sama designnya.",2024-02-19,28
+REV00835,ORD000566,PRD064,CUST0217,5,"Agak mengecewakan, bahannya panas.",2023-05-29,29
+REV00836,ORD002454,PRD033,CUST0045,2,,2022-07-24,0
+REV00837,ORD001113,PRD084,CUST0688,5,,2025-02-27,10
+REV00838,ORD001313,PRD034,CUST0768,3,"Modelnya simple, gampang di-mix and match.",2024-07-01,8
+REV00839,ORD001677,PRD010,CUST0019,2,Wah ini sih murah meriah tapi berkualitas.,2022-08-24,0
+REV00840,ORD001645,PRD287,CUST0492,5,,2024-07-21,4
+REV00841,ORD000361,PRD202,CUST0547,4,"Bahannya enak banget, jahitan rapi. Recommended!",2022-07-16,10
+REV00842,ORD000562,PRD122,CUST0009,4,"Bahannya enak banget, jahitan rapi. Recommended!",2024-10-09,0
+REV00843,ORD000110,PRD073,CUST0442,4,"Modelnya simple, gampang di-mix and match.",2023-01-14,0
+REV00844,ORD000394,PRD003,CUST0246,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-03-19,6
+REV00845,ORD000487,PRD078,CUST0720,4,,2023-08-19,0
+REV00846,ORD001766,PRD012,CUST0685,2,"Modelnya simple, gampang di-mix and match.",2024-10-18,0
+REV00847,ORD002168,PRD243,CUST0047,5,Kualitas oke untuk harga segini.,2024-02-12,8
+REV00848,ORD002202,PRD256,CUST0099,4,"Pelayanan seller ramah, fast response.",2023-06-30,0
+REV00849,ORD000874,PRD082,CUST0767,5,Warna agak beda dari foto.,2024-06-18,0
+REV00850,ORD000426,PRD294,CUST0085,5,"Cocok buat hangout, modelnya kekinian.",2025-01-20,0
+REV00851,ORD002377,PRD165,CUST0238,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-06-10,18
+REV00852,ORD001609,PRD022,CUST0667,4,"Untuk harga segini, kualitasnya mantap.",2024-07-18,9
+REV00853,ORD001963,PRD033,CUST0383,5,"Untuk harga segini, kualitasnya mantap.",2025-03-02,8
+REV00854,ORD000290,PRD241,CUST0486,2,"Modelnya keren, fit di badan.",2024-05-02,6
+REV00855,ORD002690,PRD288,CUST0161,4,Wah ini sih murah meriah tapi berkualitas.,2023-07-14,13
+REV00856,ORD002940,PRD037,CUST0228,5,"Ukuran sesuai size chart, recommended.",2022-07-02,3
+REV00857,ORD000930,PRD078,CUST0402,3,"Bahan adem, cocok buat sehari-hari.",2023-08-19,49
+REV00858,ORD001620,PRD221,CUST0697,4,"Ukuran pas di badan, warna sesuai foto.",2023-03-10,0
+REV00859,ORD002709,PRD200,CUST0436,5,"Bahan premium, jahitan kuat.",2023-12-14,10
+REV00860,ORD002156,PRD133,CUST0199,3,Worth it dengan harganya.,2023-05-28,0
+REV00861,ORD000578,PRD292,CUST0340,3,"Produk original, terima kasih seller.",2024-02-14,3
+REV00862,ORD002853,PRD012,CUST0204,2,"Modelnya simple, gampang di-mix and match.",2023-05-21,48
+REV00863,ORD002286,PRD202,CUST0192,4,Produknya bagus tapi pengiriman lama.,2023-12-25,7
+REV00864,ORD002945,PRD232,CUST0321,3,"Kainnya tipis, agak kecewa.",2022-02-05,3
+REV00865,ORD001611,PRD199,CUST0246,2,"Ukuran pas di badan, warna sesuai foto.",2023-12-02,15
+REV00866,ORD002133,PRD001,CUST0594,3,Produknya bagus tapi pengiriman lama.,2024-12-07,0
+REV00867,ORD002896,PRD280,CUST0425,3,"Agak mengecewakan, bahannya panas.",2025-01-29,21
+REV00868,ORD000159,PRD067,CUST0235,2,"Produk sampai dengan cepat, sesuai ekspektasi.",2025-01-13,20
+REV00869,ORD001068,PRD144,CUST0164,5,"Bahan premium, jahitan kuat.",2023-07-03,0
+REV00870,ORD002642,PRD292,CUST0195,3,Produknya bagus tapi pengiriman lama.,2023-06-16,0
+REV00871,ORD000015,PRD121,CUST0794,2,"Produk original, terima kasih seller.",2023-01-20,0
+REV00872,ORD002367,PRD033,CUST0156,5,"Kainnya tipis, agak kecewa.",2022-10-06,13
+REV00873,ORD001211,PRD157,CUST0226,5,"Bagus banget, packaging juga aman.",2024-11-24,0
+REV00874,ORD002700,PRD037,CUST0791,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-02-28,0
+REV00875,ORD002989,PRD103,CUST0701,4,"Ukuran agak kekecilan, tapi bahan oke.",2024-12-02,0
+REV00876,ORD000948,PRD055,CUST0078,3,,2023-11-23,7
+REV00877,ORD000090,PRD269,CUST0188,5,"Kainnya tipis, agak kecewa.",2023-02-23,0
+REV00878,ORD000041,PRD153,CUST0319,5,Worth it dengan harganya.,2024-10-04,0
+REV00879,ORD001813,PRD181,CUST0486,4,,2022-12-23,15
+REV00880,ORD002223,PRD065,CUST0288,5,"Ukuran sesuai size chart, recommended.",2023-10-11,6
+REV00881,ORD002424,PRD116,CUST0100,5,Worth it dengan harganya.,2025-02-25,10
+REV00882,ORD002711,PRD056,CUST0672,5,,2022-03-28,30
+REV00883,ORD002693,PRD250,CUST0284,5,"Agak mengecewakan, bahannya panas.",2022-05-23,9
+REV00884,ORD002325,PRD151,CUST0244,4,Warna agak beda dari foto.,2025-02-02,45
+REV00885,ORD000441,PRD076,CUST0290,5,Warna agak beda dari foto.,2024-03-04,34
+REV00886,ORD002396,PRD046,CUST0137,2,Wah ini sih murah meriah tapi berkualitas.,2024-08-28,0
+REV00887,ORD000351,PRD173,CUST0514,3,"Pelayanan seller ramah, fast response.",2024-07-26,0
+REV00888,ORD000849,PRD174,CUST0034,5,"Ukuran pas di badan, warna sesuai foto.",2023-05-21,0
+REV00889,ORD002054,PRD195,CUST0491,5,,2023-12-30,7
+REV00890,ORD000401,PRD184,CUST0036,5,"Kainnya tipis, agak kecewa.",2023-04-23,0
+REV00891,ORD000374,PRD173,CUST0730,4,Produknya bagus tapi pengiriman lama.,2024-02-15,0
+REV00892,ORD000492,PRD175,CUST0204,4,"Bahan adem, cocok buat sehari-hari.",2025-02-04,0
+REV00893,ORD002878,PRD275,CUST0186,5,Warna agak beda dari foto.,2025-01-07,10
+REV00894,ORD002566,PRD006,CUST0745,4,"Bagus banget, packaging juga aman.",2022-06-17,4
+REV00895,ORD000895,PRD161,CUST0277,4,"Kainnya tipis, agak kecewa.",2024-12-24,10
+REV00896,ORD000650,PRD208,CUST0641,5,"Modelnya keren, fit di badan.",2025-01-11,4
+REV00897,ORD001219,PRD144,CUST0620,3,"Modelnya simple, gampang di-mix and match.",2022-04-06,0
+REV00898,ORD000248,PRD114,CUST0439,3,"Bagus banget, packaging juga aman.",2022-10-31,24
+REV00899,ORD002164,PRD152,CUST0263,4,"Ukuran sesuai size chart, recommended.",2024-01-13,0
+REV00900,ORD001942,PRD023,CUST0632,2,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-12-12,8
+REV00901,ORD000976,PRD196,CUST0549,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-02-27,1
+REV00902,ORD000983,PRD254,CUST0439,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-04-13,0
+REV00903,ORD000603,PRD224,CUST0018,4,"Cocok buat hangout, modelnya kekinian.",2023-05-06,3
+REV00904,ORD002186,PRD012,CUST0567,3,"Agak mengecewakan, bahannya panas.",2025-01-07,5
+REV00905,ORD000967,PRD166,CUST0260,5,,2022-10-19,3
+REV00906,ORD000455,PRD055,CUST0116,4,"Mantap, langganan terus dari sini.",2024-04-23,8
+REV00907,ORD001953,PRD249,CUST0744,1,Wah ini sih murah meriah tapi berkualitas.,2023-04-03,6
+REV00908,ORD001892,PRD141,CUST0767,5,"Bagus banget, suka sama designnya.",2022-05-10,0
+REV00909,ORD002803,PRD012,CUST0239,4,Warna agak beda dari foto.,2023-07-20,0
+REV00910,ORD000490,PRD129,CUST0244,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-01-22,25
+REV00911,ORD002302,PRD034,CUST0288,4,"Pengiriman cepat, packaging rapi.",2023-09-24,0
+REV00912,ORD002029,PRD177,CUST0473,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-03-10,0
+REV00913,ORD001820,PRD048,CUST0506,2,"Produk sampai dengan cepat, sesuai ekspektasi.",2022-11-26,2
+REV00914,ORD001290,PRD232,CUST0065,2,,2024-10-14,8
+REV00915,ORD000322,PRD082,CUST0376,4,,2025-01-08,9
+REV00916,ORD001257,PRD101,CUST0664,3,"Bahannya enak banget, jahitan rapi. Recommended!",2023-12-27,0
+REV00917,ORD002421,PRD063,CUST0624,5,Produknya bagus tapi pengiriman lama.,2024-08-19,10
+REV00918,ORD000591,PRD220,CUST0314,3,Warna agak beda dari foto.,2023-10-22,2
+REV00919,ORD001605,PRD082,CUST0552,4,"Ukuran pas di badan, warna sesuai foto.",2024-04-07,24
+REV00920,ORD002058,PRD149,CUST0722,5,"Pengiriman cepat, packaging rapi.",2025-01-03,45
+REV00921,ORD001378,PRD256,CUST0420,4,Produknya bagus tapi pengiriman lama.,2025-01-23,26
+REV00922,ORD001587,PRD240,CUST0640,5,"Bahan adem, cocok buat sehari-hari.",2024-10-04,34
+REV00923,ORD001924,PRD072,CUST0417,5,"Produk original, terima kasih seller.",2023-03-23,6
+REV00924,ORD001617,PRD218,CUST0632,5,"Pelayanan seller ramah, fast response.",2024-01-15,38
+REV00925,ORD001296,PRD240,CUST0150,4,"Suka banget, repeat order pasti.",2023-11-26,0
+REV00926,ORD000613,PRD059,CUST0538,5,Wah ini sih murah meriah tapi berkualitas.,2022-04-06,0
+REV00927,ORD001400,PRD273,CUST0400,4,"Pelayanan seller ramah, fast response.",2023-10-14,0
+REV00928,ORD001454,PRD073,CUST0659,5,"Tidak sesuai ekspektasi, kurang puas.",2023-07-07,2
+REV00929,ORD000139,PRD004,CUST0725,3,,2024-03-03,0
+REV00930,ORD001440,PRD252,CUST0688,3,"Bahannya enak banget, jahitan rapi. Recommended!",2024-06-30,14
+REV00931,ORD001828,PRD184,CUST0311,3,"Ukuran sesuai size chart, recommended.",2024-07-02,3
+REV00932,ORD001669,PRD297,CUST0274,4,"Ukuran sesuai size chart, recommended.",2024-09-30,5
+REV00933,ORD000013,PRD076,CUST0337,2,,2025-02-18,29
+REV00934,ORD001782,PRD189,CUST0727,4,"Pengiriman cepat, packaging rapi.",2022-06-16,0
+REV00935,ORD001425,PRD295,CUST0459,5,"Kainnya tipis, agak kecewa.",2024-11-22,3
+REV00936,ORD001492,PRD198,CUST0226,4,"Bahan adem, cocok buat sehari-hari.",2022-07-22,0
+REV00937,ORD001689,PRD238,CUST0202,1,"Bagus banget, suka sama designnya.",2024-10-23,0
+REV00938,ORD001772,PRD147,CUST0757,4,"Modelnya keren, fit di badan.",2024-03-17,7
+REV00939,ORD001819,PRD121,CUST0498,3,,2024-04-18,5
+REV00940,ORD001478,PRD290,CUST0017,4,"Produk original, terima kasih seller.",2024-06-24,2
+REV00941,ORD001300,PRD221,CUST0262,3,,2025-02-09,10
+REV00942,ORD001416,PRD081,CUST0422,4,"Ukuran agak kekecilan, tapi bahan oke.",2024-01-11,0
+REV00943,ORD002245,PRD153,CUST0599,4,Pengiriman ngaret tapi barang bagus.,2024-09-28,10
+REV00944,ORD001964,PRD135,CUST0391,5,"Agak mengecewakan, bahannya panas.",2024-01-03,21
+REV00945,ORD001075,PRD206,CUST0077,3,"Bahan adem, cocok buat sehari-hari.",2024-07-11,0
+REV00946,ORD000698,PRD198,CUST0147,4,"Pengiriman cepat, packaging rapi.",2023-06-02,0
+REV00947,ORD001093,PRD093,CUST0185,3,Worth it dengan harganya.,2022-07-09,13
+REV00948,ORD002240,PRD134,CUST0077,4,"Awalnya ragu, ternyata kualitasnya oke.",2023-03-30,0
+REV00949,ORD000833,PRD107,CUST0020,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-02-06,0
+REV00950,ORD002758,PRD134,CUST0180,3,,2023-09-24,0
+REV00951,ORD001691,PRD022,CUST0611,5,,2022-03-15,22
+REV00952,ORD002098,PRD213,CUST0074,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-10-27,5
+REV00953,ORD002521,PRD028,CUST0417,5,Pengiriman ngaret tapi barang bagus.,2023-03-03,0
+REV00954,ORD001684,PRD229,CUST0474,3,"Ukuran pas di badan, warna sesuai foto.",2023-12-28,0
+REV00955,ORD002626,PRD180,CUST0703,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-02-13,10
+REV00956,ORD002293,PRD158,CUST0062,5,"Pengiriman cepat, packaging rapi.",2024-05-31,10
+REV00957,ORD001995,PRD177,CUST0558,5,"Bahan premium, jahitan kuat.",2024-02-24,0
+REV00958,ORD001637,PRD164,CUST0702,5,"Cocok buat hangout, modelnya kekinian.",2024-09-20,9
+REV00959,ORD001555,PRD213,CUST0434,5,"Produk original, terima kasih seller.",2025-02-19,0
+REV00960,ORD002667,PRD245,CUST0027,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-10-11,0
+REV00961,ORD001678,PRD271,CUST0285,5,"Untuk harga segini, kualitasnya mantap.",2022-11-15,0
+REV00962,ORD000647,PRD265,CUST0117,3,Wah ini sih murah meriah tapi berkualitas.,2024-05-19,8
+REV00963,ORD000130,PRD122,CUST0208,5,"Mantap, langganan terus dari sini.",2022-12-13,0
+REV00964,ORD002902,PRD219,CUST0063,4,Worth it dengan harganya.,2024-09-18,0
+REV00965,ORD001817,PRD262,CUST0330,4,"Bagus banget, suka sama designnya.",2024-09-22,1
+REV00966,ORD001250,PRD180,CUST0421,1,"Cocok buat hangout, modelnya kekinian.",2023-08-06,0
+REV00967,ORD001716,PRD118,CUST0398,3,"Pelayanan seller ramah, fast response.",2024-05-08,0
+REV00968,ORD001517,PRD072,CUST0241,5,"Mantap, langganan terus dari sini.",2022-09-05,4
+REV00969,ORD000242,PRD073,CUST0105,5,Produknya bagus tapi pengiriman lama.,2024-02-05,47
+REV00970,ORD001031,PRD179,CUST0734,5,"Modelnya simple, gampang di-mix and match.",2024-04-04,0
+REV00971,ORD000508,PRD017,CUST0321,4,"Untuk harga segini, kualitasnya mantap.",2023-05-11,4
+REV00972,ORD001116,PRD020,CUST0778,2,Pengiriman ngaret tapi barang bagus.,2023-09-12,45
+REV00973,ORD002232,PRD272,CUST0199,4,"Mantap, langganan terus dari sini.",2024-04-29,0
+REV00974,ORD002204,PRD020,CUST0530,4,"Pelayanan seller ramah, fast response.",2023-01-27,0
+REV00975,ORD002243,PRD273,CUST0305,5,"Bagus banget, suka sama designnya.",2025-03-04,0
+REV00976,ORD002916,PRD237,CUST0297,4,,2024-06-29,0
+REV00977,ORD001407,PRD075,CUST0505,5,"Ukuran pas di badan, warna sesuai foto.",2024-05-30,10
+REV00978,ORD000276,PRD103,CUST0798,5,"Bahan premium, jahitan kuat.",2024-12-21,9
+REV00979,ORD002455,PRD004,CUST0762,4,"Bagus banget, packaging juga aman.",2024-09-04,5
+REV00980,ORD001246,PRD291,CUST0047,4,"Ukuran sesuai size chart, recommended.",2024-04-23,6
+REV00981,ORD000069,PRD296,CUST0321,3,"Awalnya ragu, ternyata kualitasnya oke.",2023-03-08,4
+REV00982,ORD001189,PRD226,CUST0733,4,"Tidak sesuai ekspektasi, kurang puas.",2023-08-01,0
+REV00983,ORD001983,PRD080,CUST0373,4,Warna agak beda dari foto.,2024-11-18,0
+REV00984,ORD002344,PRD015,CUST0135,4,Pengiriman ngaret tapi barang bagus.,2025-01-31,3
+REV00985,ORD001104,PRD236,CUST0037,4,"Bahan adem, cocok buat sehari-hari.",2023-01-17,0
+REV00986,ORD001802,PRD204,CUST0673,4,"Pengiriman cepat, packaging rapi.",2025-01-28,6
+REV00987,ORD000581,PRD161,CUST0306,4,,2024-02-01,36
+REV00988,ORD002538,PRD123,CUST0228,3,"Bagus banget, packaging juga aman.",2022-03-19,0
+REV00989,ORD001595,PRD154,CUST0489,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2025-02-14,24
+REV00990,ORD002525,PRD026,CUST0642,4,Kualitas oke untuk harga segini.,2023-05-26,2
+REV00991,ORD002983,PRD102,CUST0787,5,"Modelnya simple, gampang di-mix and match.",2024-07-01,0
+REV00992,ORD002237,PRD164,CUST0061,4,Kualitas oke untuk harga segini.,2024-01-19,0
+REV00993,ORD001268,PRD067,CUST0351,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-10-25,2
+REV00994,ORD000897,PRD155,CUST0046,1,"Suka banget, repeat order pasti.",2023-09-28,32
+REV00995,ORD001242,PRD103,CUST0599,3,"Tidak sesuai ekspektasi, kurang puas.",2023-09-10,3
+REV00996,ORD000839,PRD244,CUST0457,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-06-07,7
+REV00997,ORD001131,PRD135,CUST0037,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-01-12,49
+REV00998,ORD002600,PRD265,CUST0434,4,"Untuk harga segini, kualitasnya mantap.",2023-08-09,4
+REV00999,ORD000846,PRD281,CUST0419,4,,2024-11-10,2
+REV01000,ORD002031,PRD260,CUST0559,5,"Ukuran pas di badan, warna sesuai foto.",2024-10-01,14
+REV01001,ORD002034,PRD118,CUST0137,5,"Pengiriman cepat, packaging rapi.",2024-11-02,20
+REV01002,ORD001183,PRD039,CUST0206,3,"Modelnya keren, fit di badan.",2024-06-17,4
+REV01003,ORD001686,PRD265,CUST0486,5,Pengiriman ngaret tapi barang bagus.,2024-05-21,4
+REV01004,ORD000030,PRD220,CUST0566,5,Pengiriman ngaret tapi barang bagus.,2023-03-01,0
+REV01005,ORD000447,PRD239,CUST0776,5,,2023-04-04,0
+REV01006,ORD002547,PRD218,CUST0441,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-10-31,32
+REV01007,ORD002459,PRD075,CUST0372,4,,2022-07-14,20
+REV01008,ORD000807,PRD131,CUST0449,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-03-04,0
+REV01009,ORD000975,PRD125,CUST0498,1,Produknya bagus tapi pengiriman lama.,2024-09-18,0
+REV01010,ORD000250,PRD023,CUST0592,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2022-01-14,0
+REV01011,ORD002578,PRD056,CUST0289,3,,2025-01-10,4
+REV01012,ORD000083,PRD172,CUST0798,5,"Tidak sesuai ekspektasi, kurang puas.",2024-09-30,6
+REV01013,ORD002380,PRD058,CUST0722,3,"Bagus banget, suka sama designnya.",2023-09-22,0
+REV01014,ORD002429,PRD246,CUST0137,3,"Bahan adem, cocok buat sehari-hari.",2023-04-03,0
+REV01015,ORD000577,PRD077,CUST0234,3,"Tidak sesuai ekspektasi, kurang puas.",2024-03-26,10
+REV01016,ORD000384,PRD232,CUST0474,2,Wah ini sih murah meriah tapi berkualitas.,2024-10-24,1
+REV01017,ORD000921,PRD003,CUST0618,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-06-28,8
+REV01018,ORD002328,PRD121,CUST0490,1,,2025-02-06,1
+REV01019,ORD000933,PRD228,CUST0384,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-11-14,0
+REV01020,ORD001489,PRD122,CUST0566,4,"Ukuran pas di badan, warna sesuai foto.",2023-03-26,14
+REV01021,ORD002119,PRD011,CUST0302,4,"Modelnya simple, gampang di-mix and match.",2025-02-08,0
+REV01022,ORD001247,PRD061,CUST0107,5,"Bagus banget, suka sama designnya.",2024-11-18,25
+REV01023,ORD001460,PRD081,CUST0355,3,,2022-11-12,6
+REV01024,ORD001709,PRD224,CUST0539,5,"Bagus banget, packaging juga aman.",2023-12-26,9
+REV01025,ORD002423,PRD285,CUST0614,5,"Produk original, terima kasih seller.",2023-05-01,0
+REV01026,ORD001098,PRD194,CUST0064,5,"Pelayanan seller ramah, fast response.",2025-02-08,0
+REV01027,ORD002468,PRD240,CUST0515,3,"Produk original, terima kasih seller.",2024-04-27,0
+REV01028,ORD000120,PRD033,CUST0400,4,"Ukuran sesuai size chart, recommended.",2023-09-27,11
+REV01029,ORD002115,PRD073,CUST0662,1,"Cocok buat hangout, modelnya kekinian.",2024-06-27,0
+REV01030,ORD000084,PRD213,CUST0014,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-07-17,0
+REV01031,ORD000887,PRD046,CUST0665,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-04-23,0
+REV01032,ORD002313,PRD291,CUST0351,3,"Agak mengecewakan, bahannya panas.",2023-10-12,0
+REV01033,ORD000618,PRD226,CUST0242,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-04-04,8
+REV01034,ORD001779,PRD107,CUST0690,3,"Agak mengecewakan, bahannya panas.",2023-07-12,0
+REV01035,ORD001310,PRD092,CUST0767,3,"Bahannya enak banget, jahitan rapi. Recommended!",2024-12-09,5
+REV01036,ORD000439,PRD215,CUST0311,5,"Cocok buat hangout, modelnya kekinian.",2024-08-11,4
+REV01037,ORD001148,PRD209,CUST0333,4,Produknya bagus tapi pengiriman lama.,2024-11-16,3
+REV01038,ORD002561,PRD280,CUST0465,3,"Agak mengecewakan, bahannya panas.",2024-01-24,0
+REV01039,ORD000347,PRD282,CUST0603,4,"Modelnya simple, gampang di-mix and match.",2024-10-16,9
+REV01040,ORD002565,PRD079,CUST0192,4,"Bahan adem, cocok buat sehari-hari.",2025-02-01,3
+REV01041,ORD002843,PRD205,CUST0452,5,"Bagus banget, suka sama designnya.",2024-11-16,3
+REV01042,ORD001616,PRD008,CUST0793,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-04-17,9
+REV01043,ORD000821,PRD197,CUST0627,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-01-22,47
+REV01044,ORD000756,PRD077,CUST0504,2,"Pengiriman cepat, packaging rapi.",2023-08-10,0
+REV01045,ORD001261,PRD205,CUST0482,5,Pengiriman ngaret tapi barang bagus.,2023-08-11,0
+REV01046,ORD001289,PRD279,CUST0195,3,"Awalnya ragu, ternyata kualitasnya oke.",2024-12-09,0
+REV01047,ORD000329,PRD080,CUST0550,3,"Agak mengecewakan, bahannya panas.",2024-08-13,0
+REV01048,ORD002019,PRD271,CUST0689,4,"Untuk harga segini, kualitasnya mantap.",2024-09-29,1
+REV01049,ORD000681,PRD013,CUST0369,3,"Sesuai deskripsi, akan beli lagi.",2025-01-24,4
+REV01050,ORD002818,PRD247,CUST0366,5,"Agak mengecewakan, bahannya panas.",2024-05-23,12
+REV01051,ORD002130,PRD276,CUST0099,3,,2024-05-14,0
+REV01052,ORD000823,PRD050,CUST0492,1,"Modelnya simple, gampang di-mix and match.",2024-01-15,3
+REV01053,ORD002043,PRD258,CUST0262,4,"Ukuran pas di badan, warna sesuai foto.",2023-03-10,0
+REV01054,ORD000372,PRD074,CUST0611,2,"Jahitannya kurang rapi, tapi masih bisa dipake.",2022-12-16,0
+REV01055,ORD000750,PRD264,CUST0407,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-11-13,0
+REV01056,ORD000116,PRD234,CUST0154,5,"Kainnya tipis, agak kecewa.",2024-09-26,0
+REV01057,ORD001958,PRD251,CUST0278,5,"Ukuran pas di badan, warna sesuai foto.",2024-03-04,0
+REV01058,ORD002014,PRD105,CUST0398,4,"Modelnya simple, gampang di-mix and match.",2023-08-29,0
+REV01059,ORD001466,PRD021,CUST0457,4,Warna agak beda dari foto.,2025-02-23,0
+REV01060,ORD000261,PRD080,CUST0792,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-04-20,0
+REV01061,ORD002710,PRD265,CUST0701,5,"Tidak sesuai ekspektasi, kurang puas.",2023-03-27,4
+REV01062,ORD002898,PRD068,CUST0235,3,"Pengiriman cepat, packaging rapi.",2022-02-25,7
+REV01063,ORD000025,PRD257,CUST0790,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2022-07-01,25
+REV01064,ORD002962,PRD113,CUST0308,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2025-03-04,2
+REV01065,ORD000952,PRD198,CUST0310,1,"Bahan premium, jahitan kuat.",2024-03-07,1
+REV01066,ORD002478,PRD174,CUST0404,2,"Kainnya tipis, agak kecewa.",2024-08-03,4
+REV01067,ORD001754,PRD097,CUST0118,5,"Sesuai deskripsi, akan beli lagi.",2025-01-06,10
+REV01068,ORD001582,PRD007,CUST0336,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-05-04,9
+REV01069,ORD000140,PRD045,CUST0426,4,"Bagus banget, suka sama designnya.",2023-03-10,6
+REV01070,ORD000916,PRD019,CUST0397,5,,2024-11-21,50
+REV01071,ORD000386,PRD252,CUST0215,4,"Ukuran sesuai size chart, recommended.",2024-06-26,0
+REV01072,ORD002824,PRD122,CUST0757,4,"Cocok buat hangout, modelnya kekinian.",2024-08-13,7
+REV01073,ORD002819,PRD216,CUST0135,3,"Produk original, terima kasih seller.",2023-01-30,0
+REV01074,ORD002629,PRD155,CUST0069,4,"Sesuai deskripsi, akan beli lagi.",2023-04-07,0
+REV01075,ORD002783,PRD249,CUST0464,5,"Modelnya simple, gampang di-mix and match.",2025-01-22,2
+REV01076,ORD002816,PRD192,CUST0029,4,Kualitas oke untuk harga segini.,2024-11-06,3
+REV01077,ORD000339,PRD093,CUST0412,4,"Bagus banget, packaging juga aman.",2023-04-25,2
+REV01078,ORD001974,PRD061,CUST0372,5,"Bahan premium, jahitan kuat.",2025-01-16,5
+REV01079,ORD000632,PRD217,CUST0132,4,"Suka banget, repeat order pasti.",2022-12-17,2
+REV01080,ORD002739,PRD001,CUST0643,4,"Mantap, langganan terus dari sini.",2022-04-08,0
+REV01081,ORD001141,PRD171,CUST0492,2,"Pelayanan seller ramah, fast response.",2025-02-05,7
+REV01082,ORD001384,PRD035,CUST0033,1,"Modelnya simple, gampang di-mix and match.",2024-08-26,1
+REV01083,ORD002833,PRD059,CUST0746,5,"Bagus banget, packaging juga aman.",2024-09-06,0
+REV01084,ORD002352,PRD271,CUST0266,5,"Bahan adem, cocok buat sehari-hari.",2023-07-21,0
+REV01085,ORD000713,PRD074,CUST0299,4,"Bahan adem, cocok buat sehari-hari.",2024-01-18,0
+REV01086,ORD000229,PRD065,CUST0355,5,,2024-06-23,0
+REV01087,ORD001294,PRD074,CUST0625,5,"Modelnya simple, gampang di-mix and match.",2023-10-25,14
+REV01088,ORD001571,PRD038,CUST0074,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-04-05,26
+REV01089,ORD000520,PRD215,CUST0691,4,Produknya bagus tapi pengiriman lama.,2024-06-12,0
+REV01090,ORD002253,PRD065,CUST0492,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-07-10,27
+REV01091,ORD001043,PRD035,CUST0021,5,"Modelnya keren, fit di badan.",2023-06-29,0
+REV01092,ORD000637,PRD093,CUST0352,3,Kualitas oke untuk harga segini.,2022-12-10,10
+REV01093,ORD002229,PRD268,CUST0675,2,"Pengiriman cepat, packaging rapi.",2022-03-05,22
+REV01094,ORD000065,PRD171,CUST0052,2,"Ukuran agak kekecilan, tapi bahan oke.",2024-10-23,0
+REV01095,ORD001837,PRD204,CUST0594,2,Produknya bagus tapi pengiriman lama.,2023-12-13,0
+REV01096,ORD000040,PRD109,CUST0141,4,"Kainnya tipis, agak kecewa.",2025-01-15,0
+REV01097,ORD002761,PRD006,CUST0221,4,"Bagus banget, suka sama designnya.",2023-11-06,12
+REV01098,ORD000529,PRD209,CUST0084,4,"Produk original, terima kasih seller.",2024-01-03,0
+REV01099,ORD000208,PRD007,CUST0171,2,Wah ini sih murah meriah tapi berkualitas.,2023-01-10,0
+REV01100,ORD001202,PRD038,CUST0591,5,Wah ini sih murah meriah tapi berkualitas.,2023-03-07,0
+REV01101,ORD002754,PRD198,CUST0651,5,,2024-10-23,10
+REV01102,ORD002753,PRD193,CUST0618,3,"Bahannya enak banget, jahitan rapi. Recommended!",2023-11-28,0
+REV01103,ORD001244,PRD129,CUST0777,4,"Sesuai deskripsi, akan beli lagi.",2022-10-23,16
+REV01104,ORD001331,PRD285,CUST0583,2,"Awalnya ragu, ternyata kualitasnya oke.",2023-10-21,0
+REV01105,ORD001833,PRD262,CUST0161,5,"Ukuran sesuai size chart, recommended.",2024-02-28,0
+REV01106,ORD000687,PRD048,CUST0471,2,Kualitas oke untuk harga segini.,2023-09-01,0
+REV01107,ORD002620,PRD002,CUST0669,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2025-01-01,0
+REV01108,ORD000234,PRD003,CUST0233,5,"Agak mengecewakan, bahannya panas.",2025-02-03,0
+REV01109,ORD000721,PRD057,CUST0518,4,"Bagus banget, packaging juga aman.",2022-01-26,0
+REV01110,ORD002900,PRD226,CUST0746,3,"Produk original, terima kasih seller.",2023-04-19,1
+REV01111,ORD001921,PRD067,CUST0134,2,"Ukuran pas di badan, warna sesuai foto.",2024-09-01,0
+REV01112,ORD001546,PRD192,CUST0173,4,"Pengiriman cepat, packaging rapi.",2023-11-04,7
+REV01113,ORD002209,PRD035,CUST0278,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-12-17,2
+REV01114,ORD000869,PRD066,CUST0391,2,"Bahannya enak banget, jahitan rapi. Recommended!",2024-01-04,0
+REV01115,ORD002129,PRD257,CUST0691,4,Wah ini sih murah meriah tapi berkualitas.,2022-08-25,10
+REV01116,ORD000963,PRD032,CUST0267,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-01-25,2
+REV01117,ORD000121,PRD079,CUST0473,2,"Bahannya enak banget, jahitan rapi. Recommended!",2023-09-26,0
+REV01118,ORD001853,PRD286,CUST0768,5,"Bahan adem, cocok buat sehari-hari.",2025-02-27,21
+REV01119,ORD001263,PRD019,CUST0593,5,"Kainnya tipis, agak kecewa.",2022-01-29,0
+REV01120,ORD002192,PRD116,CUST0175,5,"Untuk harga segini, kualitasnya mantap.",2024-07-02,0
+REV01121,ORD002923,PRD262,CUST0035,5,"Bagus banget, packaging juga aman.",2024-03-31,0
+REV01122,ORD001494,PRD174,CUST0263,4,"Pengiriman cepat, packaging rapi.",2024-07-21,0
+REV01123,ORD000014,PRD170,CUST0225,5,"Ukuran pas di badan, warna sesuai foto.",2024-04-16,49
+REV01124,ORD002339,PRD246,CUST0005,3,Wah ini sih murah meriah tapi berkualitas.,2025-03-09,9
+REV01125,ORD002348,PRD175,CUST0421,2,"Suka banget, repeat order pasti.",2024-03-25,10
+REV01126,ORD001235,PRD221,CUST0137,4,,2023-12-28,0
+REV01127,ORD001773,PRD090,CUST0734,5,"Tidak sesuai ekspektasi, kurang puas.",2024-09-30,4
+REV01128,ORD002937,PRD038,CUST0158,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2022-10-08,0
+REV01129,ORD000397,PRD163,CUST0433,5,,2022-09-30,0
+REV01130,ORD002933,PRD147,CUST0216,5,Pengiriman ngaret tapi barang bagus.,2024-04-25,0
+REV01131,ORD000279,PRD137,CUST0187,4,Wah ini sih murah meriah tapi berkualitas.,2022-04-07,0
+REV01132,ORD001894,PRD077,CUST0183,5,"Tidak sesuai ekspektasi, kurang puas.",2024-10-03,0
+REV01133,ORD002272,PRD101,CUST0201,4,"Bahan adem, cocok buat sehari-hari.",2024-10-18,0
+REV01134,ORD002786,PRD178,CUST0271,5,"Modelnya keren, fit di badan.",2023-12-24,12
+REV01135,ORD000733,PRD194,CUST0386,5,Wah ini sih murah meriah tapi berkualitas.,2023-10-21,0
+REV01136,ORD000056,PRD210,CUST0106,4,"Modelnya keren, fit di badan.",2024-09-17,49
+REV01137,ORD000943,PRD270,CUST0241,5,Warna agak beda dari foto.,2023-03-21,0
+REV01138,ORD000195,PRD294,CUST0727,5,"Sesuai deskripsi, akan beli lagi.",2024-02-25,5
+REV01139,ORD002025,PRD011,CUST0042,5,"Bahan adem, cocok buat sehari-hari.",2023-08-01,19
+REV01140,ORD000655,PRD276,CUST0676,5,Warna agak beda dari foto.,2023-09-16,0
+REV01141,ORD000789,PRD273,CUST0800,4,"Tidak sesuai ekspektasi, kurang puas.",2022-09-02,4
+REV01142,ORD001038,PRD088,CUST0340,3,"Produk original, terima kasih seller.",2024-02-21,5
+REV01143,ORD002388,PRD209,CUST0320,5,Kualitas oke untuk harga segini.,2025-02-15,0
+REV01144,ORD000994,PRD063,CUST0113,5,"Suka banget, repeat order pasti.",2025-02-02,0
+REV01145,ORD001580,PRD124,CUST0744,4,"Pelayanan seller ramah, fast response.",2024-11-05,10
+REV01146,ORD001106,PRD004,CUST0720,3,"Cocok buat hangout, modelnya kekinian.",2024-06-12,2
+REV01147,ORD001220,PRD078,CUST0498,5,"Tidak sesuai ekspektasi, kurang puas.",2024-05-31,1
+REV01148,ORD001082,PRD171,CUST0635,5,"Cocok buat hangout, modelnya kekinian.",2025-02-22,4
+REV01149,ORD002355,PRD201,CUST0120,4,"Mantap, langganan terus dari sini.",2024-03-31,8
+REV01150,ORD002822,PRD242,CUST0660,5,"Bahan premium, jahitan kuat.",2024-01-10,13
+REV01151,ORD000379,PRD116,CUST0324,2,"Cocok buat hangout, modelnya kekinian.",2024-06-09,8
+REV01152,ORD001070,PRD150,CUST0531,4,Produknya bagus tapi pengiriman lama.,2024-12-29,7
+REV01153,ORD000748,PRD054,CUST0128,4,"Suka banget, repeat order pasti.",2024-03-30,7
+REV01154,ORD002805,PRD146,CUST0124,3,"Ukuran pas di badan, warna sesuai foto.",2024-08-19,4
+REV01155,ORD001203,PRD093,CUST0372,4,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-06-21,5
+REV01156,ORD000769,PRD177,CUST0030,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-03-15,0
+REV01157,ORD001096,PRD143,CUST0341,5,"Ukuran pas di badan, warna sesuai foto.",2024-02-27,0
+REV01158,ORD000341,PRD191,CUST0722,5,Pengiriman ngaret tapi barang bagus.,2024-03-01,39
+REV01159,ORD001330,PRD064,CUST0182,5,Worth it dengan harganya.,2023-02-03,8
+REV01160,ORD000330,PRD097,CUST0404,5,Produknya bagus tapi pengiriman lama.,2024-05-24,2
+REV01161,ORD000912,PRD095,CUST0029,3,"Bagus banget, packaging juga aman.",2025-03-02,10
+REV01162,ORD000129,PRD233,CUST0722,4,"Bahan premium, jahitan kuat.",2023-04-12,0
+REV01163,ORD001374,PRD188,CUST0068,4,"Bahan premium, jahitan kuat.",2024-01-11,36
+REV01164,ORD001756,PRD181,CUST0319,2,"Tidak sesuai ekspektasi, kurang puas.",2023-05-05,0
+REV01165,ORD000563,PRD058,CUST0623,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-03-26,0
+REV01166,ORD000679,PRD232,CUST0198,5,,2023-10-29,28
+REV01167,ORD001836,PRD197,CUST0095,5,"Modelnya simple, gampang di-mix and match.",2024-06-01,0
+REV01168,ORD001757,PRD181,CUST0441,4,"Modelnya simple, gampang di-mix and match.",2024-02-17,7
+REV01169,ORD000183,PRD284,CUST0091,5,"Ukuran sesuai size chart, recommended.",2024-07-12,0
+REV01170,ORD001643,PRD091,CUST0053,4,"Awalnya ragu, ternyata kualitasnya oke.",2024-05-30,0
+REV01171,ORD001295,PRD276,CUST0598,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-09-20,35
+REV01172,ORD000286,PRD100,CUST0026,5,"Mantap, langganan terus dari sini.",2025-03-08,14
+REV01173,ORD002235,PRD267,CUST0541,5,"Modelnya simple, gampang di-mix and match.",2022-12-02,1
+REV01174,ORD002560,PRD072,CUST0446,3,"Modelnya simple, gampang di-mix and match.",2024-12-10,38
+REV01175,ORD000584,PRD249,CUST0679,5,,2025-03-01,7
+REV01176,ORD001520,PRD098,CUST0792,5,Produknya bagus tapi pengiriman lama.,2023-02-17,1
+REV01177,ORD000085,PRD270,CUST0697,3,"Bahan adem, cocok buat sehari-hari.",2023-06-22,22
+REV01178,ORD001165,PRD223,CUST0771,4,Kualitas oke untuk harga segini.,2024-11-05,5
+REV01179,ORD002418,PRD146,CUST0459,5,"Bahan premium, jahitan kuat.",2024-07-14,9
+REV01180,ORD002870,PRD186,CUST0269,5,"Bagus banget, packaging juga aman.",2024-09-01,9
+REV01181,ORD001876,PRD082,CUST0106,3,"Cocok buat hangout, modelnya kekinian.",2024-08-09,28
+REV01182,ORD002777,PRD231,CUST0777,4,"Bahan adem, cocok buat sehari-hari.",2024-09-12,0
+REV01183,ORD000725,PRD073,CUST0253,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-04-10,1
+REV01184,ORD002435,PRD188,CUST0659,4,"Kainnya tipis, agak kecewa.",2023-06-04,6
+REV01185,ORD002309,PRD027,CUST0177,5,"Bahan adem, cocok buat sehari-hari.",2025-01-12,4
+REV01186,ORD002203,PRD165,CUST0037,5,"Bagus banget, suka sama designnya.",2023-09-05,0
+REV01187,ORD000054,PRD124,CUST0579,4,"Mantap, langganan terus dari sini.",2024-02-17,6
+REV01188,ORD001654,PRD092,CUST0057,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-12-22,2
+REV01189,ORD001662,PRD021,CUST0079,4,"Sesuai deskripsi, akan beli lagi.",2024-01-03,9
+REV01190,ORD002795,PRD144,CUST0144,4,"Sesuai deskripsi, akan beli lagi.",2024-09-16,4
+REV01191,ORD000209,PRD280,CUST0397,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2025-01-12,10
+REV01192,ORD000255,PRD234,CUST0120,3,Pengiriman ngaret tapi barang bagus.,2022-07-21,7
+REV01193,ORD002220,PRD235,CUST0255,5,"Modelnya simple, gampang di-mix and match.",2023-12-25,0
+REV01194,ORD000186,PRD071,CUST0556,5,Wah ini sih murah meriah tapi berkualitas.,2024-01-27,6
+REV01195,ORD002632,PRD229,CUST0218,5,"Mantap, langganan terus dari sini.",2022-06-29,0
+REV01196,ORD001127,PRD287,CUST0027,5,"Tidak sesuai ekspektasi, kurang puas.",2024-10-08,4
+REV01197,ORD000642,PRD208,CUST0548,5,"Pelayanan seller ramah, fast response.",2023-11-13,0
+REV01198,ORD002607,PRD282,CUST0487,4,"Bahan premium, jahitan kuat.",2022-11-11,4
+REV01199,ORD000790,PRD242,CUST0784,5,Produknya bagus tapi pengiriman lama.,2022-11-02,1
+REV01200,ORD000389,PRD294,CUST0765,5,"Ukuran pas di badan, warna sesuai foto.",2024-02-20,0
+REV01201,ORD001040,PRD234,CUST0382,4,Worth it dengan harganya.,2023-04-25,6
+REV01202,ORD000879,PRD184,CUST0668,5,Worth it dengan harganya.,2022-10-21,25
+REV01203,ORD001803,PRD091,CUST0079,5,"Agak mengecewakan, bahannya panas.",2023-11-10,1
+REV01204,ORD000559,PRD193,CUST0591,4,"Cocok buat hangout, modelnya kekinian.",2023-09-02,0
+REV01205,ORD002099,PRD099,CUST0355,5,Worth it dengan harganya.,2023-06-17,5
+REV01206,ORD002844,PRD043,CUST0119,4,Pengiriman ngaret tapi barang bagus.,2024-03-02,2
+REV01207,ORD001352,PRD274,CUST0671,2,"Agak mengecewakan, bahannya panas.",2022-02-07,3
+REV01208,ORD000427,PRD295,CUST0681,5,"Bahan adem, cocok buat sehari-hari.",2022-06-15,10
+REV01209,ORD001167,PRD245,CUST0405,4,Wah ini sih murah meriah tapi berkualitas.,2023-05-08,47
+REV01210,ORD001539,PRD082,CUST0681,5,Produknya bagus tapi pengiriman lama.,2023-01-22,0
+REV01211,ORD001877,PRD274,CUST0121,3,"Bahan adem, cocok buat sehari-hari.",2023-02-10,13
+REV01212,ORD001931,PRD241,CUST0358,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2025-03-06,0
+REV01213,ORD001537,PRD044,CUST0358,3,"Bagus banget, suka sama designnya.",2025-01-31,0
+REV01214,ORD001811,PRD134,CUST0652,4,"Bagus banget, packaging juga aman.",2022-11-15,2
+REV01215,ORD002726,PRD166,CUST0477,3,"Ukuran sesuai size chart, recommended.",2024-10-21,0
+REV01216,ORD002619,PRD263,CUST0760,3,Pengiriman ngaret tapi barang bagus.,2022-07-02,4
+REV01217,ORD001660,PRD102,CUST0078,4,"Modelnya keren, fit di badan.",2024-04-17,10
+REV01218,ORD000981,PRD188,CUST0071,5,"Ukuran pas di badan, warna sesuai foto.",2024-06-28,30
+REV01219,ORD002495,PRD003,CUST0449,5,"Pengiriman cepat, packaging rapi.",2022-11-13,13
+REV01220,ORD002732,PRD224,CUST0738,4,,2023-06-03,0
+REV01221,ORD000898,PRD126,CUST0456,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-02-19,1
+REV01222,ORD002516,PRD261,CUST0082,2,"Tidak sesuai ekspektasi, kurang puas.",2024-07-15,0
+REV01223,ORD001648,PRD057,CUST0206,1,"Modelnya simple, gampang di-mix and match.",2025-03-01,20
+REV01224,ORD002385,PRD107,CUST0397,5,"Modelnya keren, fit di badan.",2023-09-28,0
+REV01225,ORD002871,PRD164,CUST0168,4,Warna agak beda dari foto.,2023-03-25,9
+REV01226,ORD002537,PRD106,CUST0294,4,,2023-12-24,10
+REV01227,ORD001055,PRD299,CUST0398,3,"Bahannya enak banget, jahitan rapi. Recommended!",2022-11-27,26
+REV01228,ORD001750,PRD257,CUST0395,4,Kualitas oke untuk harga segini.,2025-02-19,0
+REV01229,ORD002942,PRD149,CUST0195,3,"Ukuran pas di badan, warna sesuai foto.",2024-08-27,5
+REV01230,ORD001304,PRD093,CUST0471,4,Produknya bagus tapi pengiriman lama.,2025-02-20,0
+REV01231,ORD002526,PRD208,CUST0591,5,"Cocok buat hangout, modelnya kekinian.",2025-02-12,20
+REV01232,ORD001947,PRD091,CUST0118,5,"Awalnya ragu, ternyata kualitasnya oke.",2024-10-21,1
+REV01233,ORD002913,PRD244,CUST0677,4,"Pengiriman cepat, packaging rapi.",2023-04-04,10
+REV01234,ORD000951,PRD239,CUST0331,5,"Bahan adem, cocok buat sehari-hari.",2024-02-15,10
+REV01235,ORD001277,PRD032,CUST0370,5,"Kainnya tipis, agak kecewa.",2023-06-27,0
+REV01236,ORD000089,PRD131,CUST0782,1,"Awalnya ragu, ternyata kualitasnya oke.",2022-03-23,4
+REV01237,ORD001446,PRD127,CUST0205,3,,2024-08-24,23
+REV01238,ORD001089,PRD257,CUST0625,1,"Bahan premium, jahitan kuat.",2024-12-19,20
+REV01239,ORD002881,PRD117,CUST0456,4,"Produk original, terima kasih seller.",2022-09-29,7
+REV01240,ORD000097,PRD113,CUST0428,4,Worth it dengan harganya.,2025-01-28,12
+REV01241,ORD001774,PRD128,CUST0213,4,Warna agak beda dari foto.,2023-10-25,0
+REV01242,ORD002376,PRD290,CUST0621,5,"Ukuran sesuai size chart, recommended.",2024-04-22,0
+REV01243,ORD000514,PRD112,CUST0487,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2025-03-04,0
+REV01244,ORD001122,PRD124,CUST0475,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-09-25,0
+REV01245,ORD000399,PRD169,CUST0285,5,"Bagus banget, suka sama designnya.",2025-03-02,7
+REV01246,ORD001140,PRD216,CUST0651,5,"Untuk harga segini, kualitasnya mantap.",2023-04-26,0
+REV01247,ORD000546,PRD151,CUST0598,5,"Ukuran sesuai size chart, recommended.",2024-02-21,0
+REV01248,ORD001925,PRD081,CUST0063,4,"Bagus banget, suka sama designnya.",2024-04-15,0
+REV01249,ORD001436,PRD063,CUST0703,1,"Pengiriman cepat, packaging rapi.",2024-02-26,0
+REV01250,ORD001659,PRD178,CUST0326,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2024-10-09,0
+REV01251,ORD000391,PRD179,CUST0212,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-07-05,10
+REV01252,ORD002609,PRD043,CUST0697,4,,2022-04-30,47
+REV01253,ORD001213,PRD008,CUST0143,5,Wah ini sih murah meriah tapi berkualitas.,2024-11-16,0
+REV01254,ORD001354,PRD243,CUST0011,4,"Suka banget, repeat order pasti.",2025-02-10,0
+REV01255,ORD002127,PRD017,CUST0317,5,"Agak mengecewakan, bahannya panas.",2022-07-30,11
+REV01256,ORD000711,PRD191,CUST0629,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-04-10,6
+REV01257,ORD002548,PRD275,CUST0057,5,Warna agak beda dari foto.,2024-04-07,0
+REV01258,ORD002594,PRD190,CUST0375,4,"Kainnya tipis, agak kecewa.",2023-04-09,0
+REV01259,ORD001212,PRD177,CUST0184,5,"Mantap, langganan terus dari sini.",2023-04-27,2
+REV01260,ORD000506,PRD275,CUST0202,4,"Pengiriman cepat, packaging rapi.",2024-07-26,8
+REV01261,ORD001823,PRD032,CUST0460,5,"Modelnya simple, gampang di-mix and match.",2025-02-07,0
+REV01262,ORD000109,PRD262,CUST0304,5,Pengiriman ngaret tapi barang bagus.,2023-10-12,4
+REV01263,ORD000163,PRD002,CUST0292,1,"Pengiriman cepat, packaging rapi.",2023-04-10,0
+REV01264,ORD000220,PRD195,CUST0469,1,"Ukuran agak kekecilan, tapi bahan oke.",2024-08-09,9
+REV01265,ORD002291,PRD235,CUST0271,3,"Ukuran sesuai size chart, recommended.",2024-09-04,0
+REV01266,ORD002371,PRD149,CUST0416,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-05-30,5
+REV01267,ORD002846,PRD083,CUST0425,1,"Jahitannya kurang rapi, tapi masih bisa dipake.",2022-09-16,3
+REV01268,ORD000306,PRD046,CUST0314,2,"Bahannya enak banget, jahitan rapi. Recommended!",2023-11-29,2
+REV01269,ORD002450,PRD247,CUST0386,4,,2022-11-25,0
+REV01270,ORD001286,PRD119,CUST0091,2,"Mantap, langganan terus dari sini.",2023-06-30,0
+REV01271,ORD001704,PRD101,CUST0759,3,Warna agak beda dari foto.,2025-02-03,10
+REV01272,ORD002033,PRD289,CUST0068,3,"Agak mengecewakan, bahannya panas.",2023-05-24,0
+REV01273,ORD000573,PRD052,CUST0791,4,Produknya bagus tapi pengiriman lama.,2023-05-01,3
+REV01274,ORD001061,PRD003,CUST0665,5,"Agak mengecewakan, bahannya panas.",2023-12-30,5
+REV01275,ORD000071,PRD212,CUST0387,5,,2023-06-05,23
+REV01276,ORD000424,PRD043,CUST0545,5,Wah ini sih murah meriah tapi berkualitas.,2025-02-25,27
+REV01277,ORD001452,PRD218,CUST0749,4,"Modelnya keren, fit di badan.",2024-03-28,0
+REV01278,ORD002735,PRD070,CUST0511,5,"Untuk harga segini, kualitasnya mantap.",2024-08-16,8
+REV01279,ORD000623,PRD107,CUST0438,2,"Sesuai deskripsi, akan beli lagi.",2025-01-07,0
+REV01280,ORD001528,PRD009,CUST0634,4,"Bagus banget, suka sama designnya.",2024-07-18,0
+REV01281,ORD001848,PRD089,CUST0295,5,"Agak mengecewakan, bahannya panas.",2024-02-25,1
+REV01282,ORD001485,PRD219,CUST0696,4,"Bahan adem, cocok buat sehari-hari.",2022-01-24,0
+REV01283,ORD001630,PRD051,CUST0337,3,"Kainnya tipis, agak kecewa.",2023-08-16,0
+REV01284,ORD002436,PRD069,CUST0233,3,"Bahan adem, cocok buat sehari-hari.",2024-03-12,2
+REV01285,ORD001441,PRD284,CUST0138,5,Kualitas oke untuk harga segini.,2024-09-21,0
+REV01286,ORD002106,PRD279,CUST0167,4,"Ukuran agak kekecilan, tapi bahan oke.",2023-01-27,6
+REV01287,ORD001866,PRD030,CUST0348,5,"Cocok buat hangout, modelnya kekinian.",2022-06-26,0
+REV01288,ORD001500,PRD026,CUST0066,4,"Suka banget, repeat order pasti.",2022-08-26,0
+REV01289,ORD001628,PRD257,CUST0786,3,"Ukuran sesuai size chart, recommended.",2023-08-11,12
+REV01290,ORD001629,PRD071,CUST0547,3,"Tidak sesuai ekspektasi, kurang puas.",2024-10-23,0
+REV01291,ORD001895,PRD114,CUST0127,4,Warna agak beda dari foto.,2023-04-22,24
+REV01292,ORD000231,PRD265,CUST0516,5,"Mantap, langganan terus dari sini.",2023-09-30,0
+REV01293,ORD002899,PRD076,CUST0497,3,"Kainnya tipis, agak kecewa.",2024-06-09,30
+REV01294,ORD001032,PRD221,CUST0024,4,Wah ini sih murah meriah tapi berkualitas.,2024-03-28,9
+REV01295,ORD001939,PRD270,CUST0111,5,Warna agak beda dari foto.,2024-10-23,0
+REV01296,ORD001471,PRD203,CUST0013,5,"Modelnya simple, gampang di-mix and match.",2022-12-09,11
+REV01297,ORD000533,PRD146,CUST0156,4,Produknya bagus tapi pengiriman lama.,2025-01-10,0
+REV01298,ORD001314,PRD162,CUST0101,3,"Produk original, terima kasih seller.",2022-04-11,0
+REV01299,ORD000194,PRD203,CUST0046,5,"Sesuai deskripsi, akan beli lagi.",2023-02-26,5
+REV01300,ORD000360,PRD205,CUST0623,1,Worth it dengan harganya.,2024-05-13,0
+REV01301,ORD002283,PRD158,CUST0678,3,"Modelnya keren, fit di badan.",2022-06-15,2
+REV01302,ORD002646,PRD081,CUST0555,5,"Produk original, terima kasih seller.",2024-08-28,0
+REV01303,ORD002092,PRD261,CUST0561,3,"Mantap, langganan terus dari sini.",2023-03-27,10
+REV01304,ORD002499,PRD134,CUST0395,4,"Produk original, terima kasih seller.",2024-05-19,0
+REV01305,ORD002580,PRD296,CUST0442,5,,2022-02-24,0
+REV01306,ORD001229,PRD155,CUST0284,3,"Pelayanan seller ramah, fast response.",2024-08-09,5
+REV01307,ORD000489,PRD182,CUST0276,5,"Pelayanan seller ramah, fast response.",2023-03-18,6
+REV01308,ORD001057,PRD028,CUST0201,3,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-04-17,27
+REV01309,ORD000517,PRD008,CUST0412,4,"Bagus banget, packaging juga aman.",2024-08-02,25
+REV01310,ORD000104,PRD207,CUST0653,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-02-06,0
+REV01311,ORD002630,PRD176,CUST0608,5,"Bahan premium, jahitan kuat.",2024-10-11,10
+REV01312,ORD001091,PRD145,CUST0304,5,"Ukuran pas di badan, warna sesuai foto.",2024-03-30,4
+REV01313,ORD002948,PRD178,CUST0188,3,"Ukuran sesuai size chart, recommended.",2023-02-05,24
+REV01314,ORD000586,PRD066,CUST0323,4,"Bahan adem, cocok buat sehari-hari.",2024-01-31,0
+REV01315,ORD002002,PRD006,CUST0677,4,,2025-02-18,5
+REV01316,ORD001553,PRD148,CUST0633,5,Worth it dengan harganya.,2022-11-30,0
+REV01317,ORD002047,PRD290,CUST0284,4,,2025-01-15,28
+REV01318,ORD000819,PRD002,CUST0694,5,"Pengiriman cepat, packaging rapi.",2022-10-29,0
+REV01319,ORD002741,PRD194,CUST0515,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-04-14,41
+REV01320,ORD001027,PRD251,CUST0674,5,"Ukuran agak kekecilan, tapi bahan oke.",2024-11-10,2
+REV01321,ORD000042,PRD055,CUST0042,4,"Bagus banget, packaging juga aman.",2023-07-09,0
+REV01322,ORD000319,PRD259,CUST0318,5,Pengiriman ngaret tapi barang bagus.,2023-03-17,7
+REV01323,ORD002063,PRD061,CUST0136,2,"Pengiriman cepat, packaging rapi.",2023-10-17,0
+REV01324,ORD000240,PRD172,CUST0142,5,"Pengiriman cepat, packaging rapi.",2024-06-12,4
+REV01325,ORD001535,PRD223,CUST0725,4,Wah ini sih murah meriah tapi berkualitas.,2025-02-20,37
+REV01326,ORD001306,PRD206,CUST0737,1,Produknya bagus tapi pengiriman lama.,2023-04-12,0
+REV01327,ORD000230,PRD109,CUST0752,5,"Suka banget, repeat order pasti.",2022-11-15,8
+REV01328,ORD002078,PRD116,CUST0096,5,Worth it dengan harganya.,2024-03-24,2
+REV01329,ORD000190,PRD280,CUST0065,5,"Agak mengecewakan, bahannya panas.",2023-12-22,2
+REV01330,ORD000282,PRD081,CUST0365,3,"Bahan adem, cocok buat sehari-hari.",2025-02-07,0
+REV01331,ORD000636,PRD166,CUST0450,5,"Untuk harga segini, kualitasnya mantap.",2023-06-02,0
+REV01332,ORD002207,PRD208,CUST0728,4,"Awalnya ragu, ternyata kualitasnya oke.",2024-05-22,24
+REV01333,ORD002834,PRD206,CUST0269,5,"Pelayanan seller ramah, fast response.",2023-02-03,20
+REV01334,ORD000438,PRD107,CUST0559,3,"Ukuran sesuai size chart, recommended.",2023-05-28,0
+REV01335,ORD002022,PRD060,CUST0036,4,"Agak mengecewakan, bahannya panas.",2024-08-12,21
+REV01336,ORD002586,PRD195,CUST0706,3,"Pengiriman cepat, packaging rapi.",2025-01-10,4
+REV01337,ORD002475,PRD189,CUST0474,2,"Ukuran agak kekecilan, tapi bahan oke.",2024-07-19,3
+REV01338,ORD000150,PRD032,CUST0358,5,"Cocok buat hangout, modelnya kekinian.",2024-12-29,41
+REV01339,ORD001725,PRD210,CUST0330,2,Worth it dengan harganya.,2024-05-08,0
+REV01340,ORD001649,PRD152,CUST0590,3,"Ukuran sesuai size chart, recommended.",2025-02-07,1
+REV01341,ORD000910,PRD074,CUST0682,5,"Pengiriman cepat, packaging rapi.",2024-12-21,0
+REV01342,ORD002944,PRD149,CUST0375,5,"Pengiriman cepat, packaging rapi.",2023-01-04,8
+REV01343,ORD001168,PRD030,CUST0315,5,,2023-03-30,3
+REV01344,ORD001732,PRD236,CUST0743,3,"Agak mengecewakan, bahannya panas.",2025-02-12,8
+REV01345,ORD001715,PRD219,CUST0609,5,"Bagus banget, suka sama designnya.",2023-05-13,43
+REV01346,ORD000315,PRD156,CUST0380,2,"Bahan premium, jahitan kuat.",2023-10-15,10
+REV01347,ORD002382,PRD004,CUST0353,5,Worth it dengan harganya.,2024-12-30,0
+REV01348,ORD002065,PRD260,CUST0458,5,"Modelnya simple, gampang di-mix and match.",2023-06-01,5
+REV01349,ORD002811,PRD193,CUST0523,2,"Produk original, terima kasih seller.",2022-04-02,13
+REV01350,ORD000462,PRD289,CUST0453,3,"Ukuran agak kekecilan, tapi bahan oke.",2023-03-04,6
+REV01351,ORD001026,PRD275,CUST0120,5,"Ukuran pas di badan, warna sesuai foto.",2024-01-08,26
+REV01352,ORD001680,PRD244,CUST0257,5,Pengiriman ngaret tapi barang bagus.,2023-09-02,0
+REV01353,ORD000855,PRD133,CUST0561,4,,2024-01-25,0
+REV01354,ORD001196,PRD267,CUST0515,5,"Bahan adem, cocok buat sehari-hari.",2024-12-07,0
+REV01355,ORD000512,PRD228,CUST0395,2,"Bahannya enak banget, jahitan rapi. Recommended!",2022-04-19,13
+REV01356,ORD000863,PRD181,CUST0509,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-12-08,0
+REV01357,ORD000932,PRD018,CUST0741,5,"Sesuai deskripsi, akan beli lagi.",2024-10-08,0
+REV01358,ORD002759,PRD299,CUST0369,2,"Ukuran sesuai size chart, recommended.",2023-09-03,7
+REV01359,ORD000683,PRD287,CUST0038,5,"Pengiriman cepat, packaging rapi.",2023-11-26,29
+REV01360,ORD002379,PRD200,CUST0189,5,"Bagus banget, suka sama designnya.",2023-07-01,24
+REV01361,ORD001761,PRD149,CUST0595,3,Worth it dengan harganya.,2024-05-28,0
+REV01362,ORD000029,PRD157,CUST0245,5,"Kainnya tipis, agak kecewa.",2023-07-11,0
+REV01363,ORD000418,PRD271,CUST0113,5,"Bagus banget, packaging juga aman.",2024-08-16,3
+REV01364,ORD002510,PRD195,CUST0483,5,"Produk original, terima kasih seller.",2023-02-07,0
+REV01365,ORD001087,PRD286,CUST0516,4,,2023-06-02,9
+REV01366,ORD002157,PRD299,CUST0789,3,"Bagus banget, suka sama designnya.",2023-05-22,0
+REV01367,ORD000311,PRD126,CUST0300,4,Kualitas oke untuk harga segini.,2024-05-24,3
+REV01368,ORD000124,PRD127,CUST0275,5,"Ukuran sesuai size chart, recommended.",2023-09-21,0
+REV01369,ORD000811,PRD106,CUST0472,3,"Modelnya simple, gampang di-mix and match.",2023-04-15,10
+REV01370,ORD001786,PRD055,CUST0536,4,Worth it dengan harganya.,2024-09-30,1
+REV01371,ORD002769,PRD013,CUST0349,2,"Modelnya keren, fit di badan.",2023-02-16,0
+REV01372,ORD001054,PRD227,CUST0388,4,"Mantap, langganan terus dari sini.",2023-05-30,0
+REV01373,ORD001720,PRD231,CUST0770,5,"Agak mengecewakan, bahannya panas.",2023-12-10,6
+REV01374,ORD002247,PRD266,CUST0792,5,"Pengiriman cepat, packaging rapi.",2024-10-09,0
+REV01375,ORD000482,PRD284,CUST0747,4,"Bahannya enak banget, jahitan rapi. Recommended!",2023-06-15,0
+REV01376,ORD002449,PRD093,CUST0628,3,"Modelnya keren, fit di badan.",2024-04-15,0
+REV01377,ORD000782,PRD101,CUST0792,5,"Modelnya keren, fit di badan.",2022-03-23,0
+REV01378,ORD000536,PRD155,CUST0489,2,"Suka banget, repeat order pasti.",2024-07-21,6
+REV01379,ORD001663,PRD285,CUST0003,5,,2022-09-27,0
+REV01380,ORD002508,PRD162,CUST0412,5,"Awalnya ragu, ternyata kualitasnya oke.",2022-08-13,9
+REV01381,ORD002370,PRD287,CUST0558,5,"Untuk harga segini, kualitasnya mantap.",2025-01-02,1
+REV01382,ORD001783,PRD246,CUST0245,3,"Cocok buat hangout, modelnya kekinian.",2023-05-05,9
+REV01383,ORD002070,PRD245,CUST0590,4,"Ukuran sesuai size chart, recommended.",2024-10-16,7
+REV01384,ORD001932,PRD115,CUST0542,2,"Kainnya tipis, agak kecewa.",2024-04-14,3
+REV01385,ORD000136,PRD247,CUST0075,4,"Modelnya keren, fit di badan.",2025-01-24,1
+REV01386,ORD000225,PRD221,CUST0372,5,"Modelnya simple, gampang di-mix and match.",2023-02-28,10
+REV01387,ORD000142,PRD226,CUST0686,3,"Bagus banget, packaging juga aman.",2024-08-02,0
+REV01388,ORD000497,PRD069,CUST0588,4,"Modelnya keren, fit di badan.",2023-01-28,28
+REV01389,ORD002234,PRD123,CUST0723,5,"Produk original, terima kasih seller.",2024-08-19,0
+REV01390,ORD002221,PRD123,CUST0733,3,"Bahan premium, jahitan kuat.",2022-08-26,24
+REV01391,ORD000707,PRD144,CUST0300,3,"Bahan adem, cocok buat sehari-hari.",2023-08-31,38
+REV01392,ORD002013,PRD015,CUST0331,4,"Bahannya enak banget, jahitan rapi. Recommended!",2025-02-01,0
+REV01393,ORD001806,PRD143,CUST0353,4,"Bahan adem, cocok buat sehari-hari.",2025-02-07,28
+REV01394,ORD002327,PRD073,CUST0618,3,"Suka banget, repeat order pasti.",2024-11-21,6
+REV01395,ORD001209,PRD140,CUST0417,5,,2024-10-02,13
+REV01396,ORD002009,PRD241,CUST0233,1,Warna agak beda dari foto.,2023-08-01,20
+REV01397,ORD001744,PRD072,CUST0666,5,"Sesuai deskripsi, akan beli lagi.",2024-01-31,8
+REV01398,ORD001696,PRD245,CUST0050,4,"Bagus banget, suka sama designnya.",2023-02-09,25
+REV01399,ORD002838,PRD081,CUST0068,3,"Ukuran sesuai size chart, recommended.",2025-02-05,5
+REV01400,ORD000223,PRD199,CUST0779,5,"Mantap, langganan terus dari sini.",2023-07-22,0
+REV01401,ORD000802,PRD288,CUST0361,2,"Jahitannya kurang rapi, tapi masih bisa dipake.",2023-03-28,8
+REV01402,ORD000555,PRD145,CUST0620,4,Produknya bagus tapi pengiriman lama.,2024-01-30,4
+REV01403,ORD000616,PRD156,CUST0569,5,"Pengiriman cepat, packaging rapi.",2022-09-25,0
+REV01404,ORD002972,PRD049,CUST0215,2,"Pengiriman cepat, packaging rapi.",2023-11-20,5
+REV01405,ORD000509,PRD109,CUST0689,5,"Sesuai deskripsi, akan beli lagi.",2023-05-26,28
+REV01406,ORD002277,PRD168,CUST0712,3,"Ukuran agak kekecilan, tapi bahan oke.",2025-02-09,13
+REV01407,ORD002394,PRD124,CUST0646,5,"Mantap, langganan terus dari sini.",2022-11-08,0
+REV01408,ORD002892,PRD100,CUST0310,5,Pengiriman ngaret tapi barang bagus.,2022-09-26,4
+REV01409,ORD002102,PRD085,CUST0040,5,"Pengiriman cepat, packaging rapi.",2023-07-10,9
+REV01410,ORD002926,PRD164,CUST0785,4,Produknya bagus tapi pengiriman lama.,2023-06-03,6
+REV01411,ORD000044,PRD199,CUST0006,5,,2024-05-21,0
+REV01412,ORD000257,PRD237,CUST0247,2,"Kainnya tipis, agak kecewa.",2023-04-02,0
+REV01413,ORD002224,PRD155,CUST0349,4,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-11-27,0
+REV01414,ORD002855,PRD201,CUST0361,4,Produknya bagus tapi pengiriman lama.,2023-03-21,1
+REV01415,ORD001746,PRD281,CUST0417,5,,2023-05-01,0
+REV01416,ORD000366,PRD061,CUST0681,5,"Sesuai deskripsi, akan beli lagi.",2024-05-22,7
+REV01417,ORD001854,PRD282,CUST0764,4,"Ukuran sesuai size chart, recommended.",2024-06-08,26
+REV01418,ORD001121,PRD243,CUST0307,5,Kualitas oke untuk harga segini.,2024-06-20,1
+REV01419,ORD002304,PRD062,CUST0210,5,"Cocok buat hangout, modelnya kekinian.",2023-08-02,10
+REV01420,ORD000304,PRD036,CUST0392,1,,2023-04-09,0
+REV01421,ORD001464,PRD215,CUST0195,5,"Pelayanan seller ramah, fast response.",2023-04-15,23
+REV01422,ORD001278,PRD061,CUST0308,5,Warna agak beda dari foto.,2023-08-29,32
+REV01423,ORD001006,PRD138,CUST0453,3,"Mantap, langganan terus dari sini.",2022-12-28,13
+REV01424,ORD002089,PRD096,CUST0509,5,"Bagus banget, packaging juga aman.",2023-06-24,22
+REV01425,ORD000263,PRD068,CUST0550,1,"Modelnya simple, gampang di-mix and match.",2022-04-10,40
+REV01426,ORD002657,PRD059,CUST0346,3,"Sesuai deskripsi, akan beli lagi.",2024-10-15,7
+REV01427,ORD002314,PRD136,CUST0690,4,,2024-07-04,46
+REV01428,ORD001722,PRD225,CUST0400,5,Warna agak beda dari foto.,2022-07-12,0
+REV01429,ORD002614,PRD259,CUST0779,5,"Cocok buat hangout, modelnya kekinian.",2023-05-02,0
+REV01430,ORD000217,PRD286,CUST0065,4,,2024-07-25,4
+REV01431,ORD001047,PRD140,CUST0186,5,"Cocok buat hangout, modelnya kekinian.",2022-04-08,8
+REV01432,ORD000244,PRD026,CUST0085,5,"Tidak sesuai ekspektasi, kurang puas.",2024-03-21,0
+REV01433,ORD001412,PRD100,CUST0192,5,"Cocok buat hangout, modelnya kekinian.",2022-06-14,24
+REV01434,ORD000666,PRD164,CUST0789,4,"Kainnya tipis, agak kecewa.",2023-10-02,3
+REV01435,ORD001589,PRD292,CUST0482,5,"Bagus banget, packaging juga aman.",2024-09-22,0
+REV01436,ORD001509,PRD121,CUST0567,3,"Untuk harga segini, kualitasnya mantap.",2023-08-15,0
+REV01437,ORD000797,PRD059,CUST0747,5,Produknya bagus tapi pengiriman lama.,2023-02-27,0
+REV01438,ORD000658,PRD101,CUST0729,1,"Kainnya tipis, agak kecewa.",2022-03-21,0
+REV01439,ORD001944,PRD295,CUST0003,5,"Bagus banget, packaging juga aman.",2023-05-03,6
+REV01440,ORD000860,PRD053,CUST0417,4,"Sesuai deskripsi, akan beli lagi.",2025-02-16,1
+REV01441,ORD000738,PRD199,CUST0111,5,Worth it dengan harganya.,2023-07-20,0
+REV01442,ORD002353,PRD284,CUST0001,5,"Ukuran pas di badan, warna sesuai foto.",2024-07-22,1
+REV01443,ORD000070,PRD023,CUST0180,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-05-23,4
+REV01444,ORD002723,PRD040,CUST0226,1,"Untuk harga segini, kualitasnya mantap.",2024-12-15,0
+REV01445,ORD000051,PRD261,CUST0277,4,"Tidak sesuai ekspektasi, kurang puas.",2023-04-16,15
+REV01446,ORD001896,PRD144,CUST0442,5,"Bahannya enak banget, jahitan rapi. Recommended!",2023-07-17,3
+REV01447,ORD000816,PRD261,CUST0724,2,,2022-04-19,0
+REV01448,ORD000305,PRD216,CUST0388,5,"Ukuran agak kekecilan, tapi bahan oke.",2023-05-22,0
+REV01449,ORD000767,PRD238,CUST0308,4,"Ukuran pas di badan, warna sesuai foto.",2025-02-01,4
+REV01450,ORD001940,PRD279,CUST0104,5,Worth it dengan harganya.,2023-06-08,2
+REV01451,ORD001507,PRD271,CUST0643,1,"Pelayanan seller ramah, fast response.",2023-01-05,6
+REV01452,ORD000498,PRD044,CUST0595,3,"Bahan premium, jahitan kuat.",2023-04-14,0
+REV01453,ORD001889,PRD095,CUST0497,4,"Cocok buat hangout, modelnya kekinian.",2023-07-14,10
+REV01454,ORD000818,PRD129,CUST0598,5,Produknya bagus tapi pengiriman lama.,2024-07-21,8
+REV01455,ORD002152,PRD228,CUST0230,3,Warna agak beda dari foto.,2022-01-07,0
+REV01456,ORD001097,PRD284,CUST0302,5,"Produk sampai dengan cepat, sesuai ekspektasi.",2023-04-18,23
+REV01457,ORD002782,PRD072,CUST0005,4,"Pengiriman cepat, packaging rapi.",2023-08-04,7
+REV01458,ORD002011,PRD267,CUST0139,5,Kualitas oke untuk harga segini.,2024-12-08,1
+REV01459,ORD001431,PRD228,CUST0347,5,"Modelnya keren, fit di badan.",2024-03-20,0
+REV01460,ORD000656,PRD052,CUST0605,4,Wah ini sih murah meriah tapi berkualitas.,2024-10-25,1
+REV01461,ORD000450,PRD230,CUST0777,5,"Pengiriman cepat, packaging rapi.",2024-07-17,0
+REV01462,ORD002677,PRD265,CUST0754,5,"Untuk harga segini, kualitasnya mantap.",2024-01-10,9
+REV01463,ORD000527,PRD234,CUST0395,5,"Bahannya enak banget, jahitan rapi. Recommended!",2024-03-31,15
+REV01464,ORD002080,PRD126,CUST0733,3,"Untuk harga segini, kualitasnya mantap.",2024-01-29,0
+REV01465,ORD002873,PRD299,CUST0536,3,Worth it dengan harganya.,2024-01-21,25
+REV01466,ORD002549,PRD242,CUST0629,5,"Mantap, langganan terus dari sini.",2024-07-29,9
+REV01467,ORD000270,PRD101,CUST0371,4,"Pengiriman cepat, packaging rapi.",2022-10-13,41
+REV01468,ORD002200,PRD137,CUST0367,4,"Ukuran agak kekecilan, tapi bahan oke.",2024-05-13,4
+REV01469,ORD002075,PRD010,CUST0631,5,"Sesuai deskripsi, akan beli lagi.",2023-06-01,30
+REV01470,ORD001042,PRD043,CUST0333,5,"Sesuai deskripsi, akan beli lagi.",2023-11-19,4
+REV01471,ORD002633,PRD199,CUST0364,5,"Bahannya enak banget, jahitan rapi. Recommended!",2025-02-14,3
+REV01472,ORD001639,PRD274,CUST0563,5,"Modelnya keren, fit di badan.",2024-09-06,14
+REV01473,ORD000170,PRD240,CUST0436,4,"Untuk harga segini, kualitasnya mantap.",2022-07-01,35
+REV01474,ORD002680,PRD242,CUST0558,1,"Agak mengecewakan, bahannya panas.",2024-11-27,11
+REV01475,ORD001909,PRD269,CUST0488,1,"Tidak sesuai ekspektasi, kurang puas.",2024-05-17,13
+REV01476,ORD002278,PRD043,CUST0333,5,"Bagus banget, packaging juga aman.",2023-04-28,0
+REV01477,ORD002770,PRD163,CUST0422,3,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-09-17,25
+REV01478,ORD002471,PRD068,CUST0221,3,,2022-04-19,25
+REV01479,ORD000924,PRD038,CUST0505,5,"Bahannya enak banget, jahitan rapi. Recommended!",2025-02-02,0
+REV01480,ORD002849,PRD085,CUST0251,4,"Tidak sesuai ekspektasi, kurang puas.",2022-10-20,4
+REV01481,ORD001125,PRD059,CUST0259,5,"Ukuran pas di badan, warna sesuai foto.",2022-11-18,2
+REV01482,ORD000991,PRD018,CUST0045,5,Worth it dengan harganya.,2024-03-05,6
+REV01483,ORD000053,PRD218,CUST0787,4,"Bahannya enak banget, jahitan rapi. Recommended!",2024-09-15,0
+REV01484,ORD001552,PRD153,CUST0034,3,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-08-11,22
+REV01485,ORD002865,PRD059,CUST0782,4,"Ukuran sesuai size chart, recommended.",2025-03-02,0
+REV01486,ORD000795,PRD014,CUST0191,5,"Ukuran pas di badan, warna sesuai foto.",2023-04-08,7
+REV01487,ORD000237,PRD152,CUST0265,4,"Kainnya tipis, agak kecewa.",2023-03-20,2
+REV01488,ORD000087,PRD173,CUST0346,3,"Agak mengecewakan, bahannya panas.",2023-02-13,0
+REV01489,ORD000524,PRD263,CUST0794,4,Warna agak beda dari foto.,2022-08-07,1
+REV01490,ORD002638,PRD088,CUST0212,4,Wah ini sih murah meriah tapi berkualitas.,2023-08-21,4
+REV01491,ORD002544,PRD016,CUST0239,2,"Tidak sesuai ekspektasi, kurang puas.",2024-06-10,19
+REV01492,ORD002142,PRD178,CUST0496,5,"Awalnya ragu, ternyata kualitasnya oke.",2023-05-10,0
+REV01493,ORD002336,PRD092,CUST0338,3,"Produk original, terima kasih seller.",2024-03-24,0
+REV01494,ORD002040,PRD265,CUST0189,5,"Jahitannya kurang rapi, tapi masih bisa dipake.",2024-11-20,0
+REV01495,ORD000436,PRD163,CUST0750,5,"Ukuran sesuai size chart, recommended.",2023-03-13,2
+REV01496,ORD002072,PRD156,CUST0784,3,"Bahan premium, jahitan kuat.",2024-04-28,0
+REV01497,ORD000595,PRD131,CUST0346,5,"Pengiriman cepat, packaging rapi.",2024-08-05,0
+REV01498,ORD000278,PRD166,CUST0715,4,Pengiriman ngaret tapi barang bagus.,2025-03-04,11
+REV01499,ORD000031,PRD219,CUST0492,5,"Mantap, langganan terus dari sini.",2022-04-06,0
+REV01500,ORD002062,PRD185,CUST0076,4,"Untuk harga segini, kualitasnya mantap.",2024-06-08,18
